@@ -1,0 +1,14 @@
+
+#botao_comprar { font:bold 11px/24px Tahoma, Verdana, Arial; color:#C0C0C0; cursor:pointer; }
+.btn_comprar { display:block; text-decoration:none; }
+.btn_comprar, .btn_comprar span {background:transparent url(azul2.png) no-repeat 0px 0px; display:block; float:left; }
+.btn_comprar { padding-left:12px; }
+.btn_comprar span { padding-right:12px; background-position:right 0px; height:26px; float:left; }
+.btn_comprar span span { padding:0; background-image:url(azul.png); background-position:right top; background-repeat:repeat-x; }
+
+#botao_detalhes { font:bold 11px/24px Tahoma, Verdana, Arial; color:#FFFFFF; cursor:pointer; }
+.btn_detalhes { display:block; text-decoration:none; }
+.btn_detalhes, .btn_detalhes span {background:transparent url(azul2.png) no-repeat 0px 0px; display:block; float:left; }
+.btn_detalhes { padding-left:12px; }
+.btn_detalhes span { padding-right:12px; background-position:right 0px; height:26px; float:left; }
+.btn_detalhes span span { padding:0; background-image:url(azul.png); background-position:right top; background-repeat:repeat-x; }

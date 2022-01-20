@@ -1,0 +1,634 @@
+11/09/2018 08:29:18
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 08:50:15
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 08:51:18
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 08:51:58
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 08:53:08
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 08:54:52
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:11:24
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:11:41
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:30:20
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:30:38
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:31:52
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:32:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+FIM DA IMPORTACAO 
+0 IMOVEIS NO TOTAL11/09/2018 09:32:49
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:34:07
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+FIM DA IMPORTACAO 
+0 IMOVEIS NO TOTAL11/09/2018 09:34:34
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:34:59
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:35:20
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:36:09
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:36:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:38:17
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:41:11
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:42:40
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:43:59
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:44:33
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:45:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:45:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:48:43
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:50:47
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:52:52
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:53:32
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:54:17
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 09:54:58
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:01:01
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:04:57
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:06:03
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:06:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:08:10
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:08:49
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:09:09
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:11:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:15:51
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:21:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:37:34
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:38:10
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:39:29
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:40:57
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:42:01
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:50:21
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:50:49
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:51:23
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:51:38
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:55:56
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:58:01
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 10:59:09
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 02:04:17
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 02:07:05
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+11/09/2018 02:07:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:00:23
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:01:23
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:01:54
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:03:05
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:04:10
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+11/09/2018 03:06:17
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+11/09/2018 03:20:43
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+11/09/2018 03:23:11
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0002.jpg SERA IMPORTADA 
+11/09/2018 05:12:37
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+11/09/2018 05:15:40
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+11/09/2018 05:18:17
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0005.jpg SERA IMPORTADA 
+11/09/2018 05:19:27
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+11/09/2018 05:20:32
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0005.jpg SERA IMPORTADA 

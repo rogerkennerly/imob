@@ -1,0 +1,1627 @@
+@charset "utf-8";
+
+/* *********************************** */
+/*      RESETS E ESTILOS PADRAO        */
+*********************************** */
+div::after, ol::after, form::after, ul::after, dl::after {content:".";display:block;clear:both;visibility:hidden;height:0;overflow:hidden;}
+p{ display:inline-block; padding:0; margin:0; vertical-align:top; }
+input, textarea, select { margin:0; padding:0; border-radius: 0; }
+img { border: 0; margin:0; padding:0; max-width:100%; height: auto; }
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+* { margin: 0; padding: 0; border: 0; font: inherit; box-sizing: border-box; }
+a { text-decoration:none; color:inherit; }
+a:hover { text-decoration:none; }
+section:focus, div:focus { box-shadow: 0 0 0 0; border: 0 none; outline: 0; }
+strong { font-weight:bolder; }
+html { font-size: 62.5%; min-height: 100%; height: 100%; font-family: 'Varela Round', sans-serif; background-color:#FFFFFF; color:#333333; }
+body{ font-weight:normal; min-height:100%; height: 100%; -webkit-overflow-scrolling: touch; }
+section{ clear:both; }
+
+.centralizador { width:130rem; }
+.hack { clear:both; }
+.oculto { display:none; }
+.block { display: block; }
+.fav{ color: #f00; }
+
+.aesquerda { float:left; }
+.adireita  { float:right; }
+.aocentro  { float: none; margin: 0 auto; }
+
+.fa-facebook{ color: #4267B2; }
+.fa-whatsapp{ color: #339933; }
+.fa-twitter{ color: #1da1f2; }
+.fa-instagram{ color: #B4329F; }
+.fa-youtube{ color: #f00; }
+
+.fixed{ position: fixed; width: 100%; z-index: 3; }
+
+.color-branco       { color: #FFFFFF; }
+.color-preto        { color: #000000; }
+.color-verde        { color: #8cae4f; }
+.color-cinza        { color: #152528; }
+
+.txt-aesquerda { text-align:   left; }
+.txt-adireita  { text-align:  right; }
+.txt-aocentro  { text-align: center; }
+
+.light   { font-weight: 300; }
+.regular { font-weight: 400; }
+.medium  { font-weight: 500; }
+.bold    { font-weight: 700; }
+.black   { font-weight: 900; }
+.italic  { font-style: italic; }
+
+.capitalize { text-transform: capitalize; }
+.uppercase  { text-transform: uppercase; }
+.lowercase  { text-transform: lowercase; }
+
+.font8  { font-size:  .8rem; }
+.font10 { font-size:   1rem; }
+.font12 { font-size: 1.2rem; }
+.font14 { font-size: 1.4rem; }
+.font16 { font-size: 1.6rem; }
+.font18 { font-size: 1.8rem; }
+.font20 { font-size:   2rem; }
+.font24 { font-size: 2.4rem; }
+.font30 { font-size:   3rem; }
+.font36 { font-size: 3.6rem; }
+.font48 { font-size: 4.8rem; }
+.font60 { font-size:   6rem; }
+.font62 { font-size: 6.2rem; }
+
+.line16 { line-height: 1.6rem; }
+.line18 { line-height: 1.8rem; }
+.line24 { line-height: 2.4rem; }
+.line36 { line-height: 3.6rem; }
+
+
+
+/* *******************
+/*    DESKTOP LARGE    */
+/* ******************* */
+@media screen and (min-width: 1320px) {
+   .centralizador        { max-width:130rem; margin:0 auto; }
+   .esconde_desktop      { display: none; }
+   .esconde_fulldesktop  { display: none; }
+   .exibe_desktop        { display: block; }
+   .exibe_fulldesktop    { display: block; }
+   .fulldesktop_100      { width: 100%; }
+   .fulldesktop_75       { width: 74.5%; }
+   .fulldesktop_10       { width: 9.5%; }
+   .fulldesktop_50       { width: 49.5%; }
+   .fulldesktop_33       { width: 33%; }
+   .fulldesktop_25       { width: 24.5%; }
+   .fulldesktop_20       { width: 19.5%; }
+
+}
+
+/* ******************* */
+/*        DESKTOP      */
+/* ******************* */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+   .centralizador        { width:98%; max-width:128rem; margin:0 auto; }
+   .esconde_desktop      { display: none; }
+   .esconde_smalldesktop { display: none; }
+   .exibe_desktop        { display: block; }
+   .exibe_smalldesktop   { display: block; }
+   .desktop_100          { width: 100%; }
+   .desktop_75           { width: 74.5%; }
+   .desktop_10           { width: 9.5%; }
+   .desktop_50           { width: 49.5%; }
+   .desktop_33           { width: 33%; }
+   .desktop_25           { width: 24.5%; }
+   .desktop_20           { width: 19.5%; }
+}
+
+/* ******************* */
+/*       TABLET        */
+/* ******************* */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .centralizador    { width:98%; margin: 0 auto; }
+   .esconde_tablet   { display: none; }
+   .exibe_tablet     { display: block; }
+   .tablet_100       { width: 100%; }
+   .tablet_75        { width: 74.5%; }
+   .tablet_50        { width: 49.5%; }
+   .tablet_33        { width: 33%; }
+   .tablet_25        { width: 24.5%; }
+   .tablet_20        { width: 19.5%; }
+   .tablet_10        { width: 9.5%; }
+}
+
+/* ******************* */
+/*       CELULAR       */
+/* ******************* */
+@media only screen and (max-width: 640px) {
+   .centralizador    { width: 98%; margin: 0 auto; }
+   .esconde_celular  { display: none; }
+   .exibe_celular    { display: block; }
+   .celular_100      { width: 100% !important; }
+   .celular_75       { width: 74.5% !important; }
+   .celular_50       { width: 49.5% !important; }
+   .celular_33       { width: 33% !important; }
+   .celular_25       { width: 24.5% !important; }
+   .celular_20       { width: 19.5% !important; }
+   .celular_10       { width: 9.5% !important; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          ABRIR FORM MOBILE           ABRIR FORM MOBILE           ABRIR FORM MOBILE           ABRIR FORM MOBILE             */
+/* ************************************************************************************************************************** */
+div.imob_abrir_form_mobile{ display: none; padding: 1.2rem 0; color: #fff; text-align: center; font-size: 1.8rem; margin-top: 3rem; }
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   div.imob_abrir_form_mobile{ display: block; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          MODAL           MODAL           MODAL           MODAL                                                             */
+/* ************************************************************************************************************************** */
+div.modal_janela{ background: rgba(0,0,0,0.8); z-index: 99999; position: fixed; top: 0; left: 0; right: 0; bottom: 0; display: none; }
+.modal_janela:target{ opacity: 1; pointer-events: auto; }
+.modal{ width: 50rem; position: absolute; top: 50%; left: 50%; margin-top: -25rem; margin-left: -25rem; z-index: 999999; background: #F1F1F1; border-radius: 0.4rem; }
+.modal_header{ width: 100%; padding: 1.5rem; border: 1px solid #E4E4E4; }
+.modal_header_titulo{ width: 95%; float: left; }
+.modal_header_titulo h1{ font-size: 2rem; }
+.modal_header_fechar{ width: 5%; float: right; text-align: center; }
+.modal_header_fechar a{ font-size: 2rem; }
+.modal_conteudo{ width: 100%; padding: 1.5rem; }
+.modal_form_input{ width: 100%; height: 4rem; margin-bottom: 1.5rem; border: 1px solid #E4E4E4; }
+.modal_form_input:last-of-type{ margin-bottom: 0; }
+.modal_form_input input{ width: 100%; height: 100%; padding: 0 1rem; }
+.modal_form_input button{ width: 100%; height: 100%; color: #fff; cursor: pointer; }
+.modal_form_input button:focus{ outline: none; }
+.modal_form_textarea{ width: 100%; height: 13rem; margin-bottom: 1.5rem; border: 1px solid #E4E4E4; }
+.modal_form_textarea textarea{ width: 100%; height: 100%; padding: 1rem; }
+.modal_retorno_ligamos, .modal_retorno_fale_conosco{ display: none; padding: 2rem 1rem; }
+
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .modal{ top: 50%; left: 50%;  margin-top: -25rem; margin-left: -25rem; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .modal{ width: 100%; left: 0; margin-top: -19.5rem; margin-left: 0; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          CONTATO WHATSAPP           CONTATO WHATSAPP           CONTATO WHATSAPP           CONTATO WHATSAPP                 */
+/* ************************************************************************************************************************** */
+.imob_whatsapp_contato{ width: 23rem; height: 7rem; position: fixed; z-index: 99992; top: 21%; right: 0; margin-right: -16.1rem; }
+.imob_whatsapp_contato a{ width: 23rem; height: 7rem; display: block; }
+.imob_whatsapp_contato a img{ border-bottom-left-radius: 0.5rem; border-top-left-radius: 0.5rem; }
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_whatsapp_contato{ display: none; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_whatsapp_contato{ display: none; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          RECAPTCHA           RECAPTCHA           RECAPTCHA           RECAPTCHA           RECAPTCHA                         */
+/* ************************************************************************************************************************** */
+.grecaptcha-badge{ display: none !important; }
+
+
+/* ************************************************************************************************************************** */
+/*          CHOSEN SELECT           CHOSEN SELECT           CHOSEN SELECT           CHOSEN SELECT           CHOSEN SELECT     */
+/* ************************************************************************************************************************** */
+.chosen-container{ width: 100% !important; height: 100%; }
+.chosen-container-single .chosen-single{ width: 100%; height: 100%; line-height: 4rem; font-size: 1.6rem; border: none; border-radius: 0; padding: 0 1rem; background-image: none; background-color: #fff !important; box-shadow: none; cursor: default; }
+.chosen-container-single .chosen-single div{ width: 1.5rem; top: 20%; right: 0; color: #3333 !important; }
+.chosen-container-single .chosen-single div b{ color: #3333 !important; }
+.chosen-container-single .chosen-single span{ color: #333 !important; }
+.chosen-container-multi{ width: 100% !important; height: 100%; }
+.chosen-container-multi .chosen-choices{ background-image: none; height: 100%; padding: 0.5rem 1rem 0 1rem; border: none; font-size: 1.6rem; overflow-y: auto; }
+.chosen-container-multi .chosen-choices li.search-field{ line-height: 2.9rem; }
+.chosen-container-multi .chosen-choices li.search-field input[type=text]{  color: #333; font-family: 'Varela Round'; }
+.chosen-container-multi .chosen-choices li.search-choice span{ font-size: 1.3rem; }
+
+
+
+/* ************************************************************************************************************************** */
+/*          INDISPONIVEL               INDISPONIVEL             INDISPONIVEL             INDISPONIVEL                         */
+/* ************************************************************************************************************************** */
+section.imob_indisponivel{ width: 100%; background-color: #fff; font-size: 1.6rem; padding: 6rem 0; text-align: center; }
+.imob_indisponivel_txt{ width: 100%; margin-bottom: 6rem; }
+.imob_indisponivel_txt h1{ font-size: 3rem; }
+.imob_indisponivel_txt p{ display: block; margin-top: 2rem; }
+.imob_indisponivel_img{ width: 100%; }
+.imob_indisponivel_img img{ max-width: 100%; max-height: 100%; }
+
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_indisponivel_txt h1{ font-size: 2.5rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          SUB TOPO           SUB TOPO           SUB TOPO           SUB TOPO           SUB TOPO                              */
+/* ************************************************************************************************************************** */
+div.imob_sub_topo{ width: 100%; color: #fff; font-size: 1.4rem; padding: 1rem 0; }
+.imob_sub_topo_informacoes{ width: 100%; }
+.imob_sub_topo_informacoes ul{ text-align: right; }
+.imob_sub_topo_informacoes ul li{ display: inline-block; list-style-type: none; margin-right: 1.5rem; }
+.imob_sub_topo_informacoes ul li i{ color: #fff; font-size: 1.5rem; }
+.imob_sub_topo_informacoes ul li:last-of-type{ margin-right: 0; }
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   div.imob_sub_topo{ font-size: 1.2rem; }
+   .imob_sub_topo_informacoes ul{ text-align: center; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   div.imob_sub_topo{ display: none; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          TOPO           TOPO           TOPO           TOPO           TOPO                                                  */
+/* ************************************************************************************************************************** */
+header.imob_topo{ width: 100%; background-color: #fff; font-size: 1.6rem; padding: 1.5rem 0; -webkit-box-shadow: inset 0px -4px 10px 0px rgba(220,220,220,0.9); -moz-box-shadow: inset 0px -4px 10px 0px rgba(220,220,220,0.9); box-shadow: inset 0px -4px 10px 0px rgba(220,220,220,0.9); }
+.imob_topo_logo{ width: 25rem; height: 10rem; line-height: 10rem; float: left; display: block; }
+.imob_topo_logo img{ max-width: 100%; max-height: 10rem; vertical-align: middle; }
+.imob_topo_abre_menu_mobile{ display: none; }
+nav.imob_topo_menu{ width: calc(100% - 25rem); height: 10rem; line-height: 10rem; float: left; }
+.imob_topo_menu ul{ text-align: right; }
+.imob_topo_menu ul li{ display: inline-block; margin: 0 2.5rem; }
+.imob_topo_menu ul li:last-of-type{ margin-right: 0; }
+.imob_topo_menu ul li a:hover{ transition: .1s; }
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   header.imob_topo{ -webkit-box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); -moz-box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); }
+   .imob_topo_abre_menu_mobile{ width: calc(100% - 25rem); height: 10rem; line-height: 10rem; float: left; text-align: right; display: block; }
+   .imob_topo_abre_menu_mobile i{ font-size: 3rem; vertical-align: middle; }
+   nav.imob_topo_menu{ width: 100%; height: auto; line-height: initial; display: none; z-index: 1; color: #fff; margin-top: 1.5rem; }
+   .imob_topo_menu ul{ text-align: center; }
+   .imob_topo_menu ul li{ display: block; margin: 0; border-bottom: 1px solid #E4E4E4; }
+   .imob_topo_menu ul li:last-of-type{ border-bottom: 0; }
+   .imob_topo_menu ul li a{ display: block; padding: 1rem 0; }
+   .imob_topo_menu ul li a:active, .imob_topo_menu ul li a:focus{ color: #fff; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   header.imob_topo{ padding: 1rem; -webkit-box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); -moz-box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); box-shadow: 2px 2px 2px 2px rgba(220,220,220,0.9); }
+   .imob_topo_logo{ width: 12rem; height: 8rem; line-height: 8rem; }
+   .imob_topo_logo img{ max-height: 8rem; }
+   .imob_topo_abre_menu_mobile{ width: calc(100% - 12rem); height: 8rem; line-height: 8rem; float: left; text-align: right; display: block; }
+   .imob_topo_abre_menu_mobile i{ font-size: 3rem; vertical-align: middle; }
+   nav.imob_topo_menu{ width: 100%; height: auto; line-height: initial; display: none; z-index: 1; color: #fff; margin-top: 1.5rem; }
+   .imob_topo_menu ul{ text-align: center; }
+   .imob_topo_menu ul li{ display: block; margin: 0; border-bottom: 1px solid #E4E4E4; }
+   .imob_topo_menu ul li:last-of-type{ border-bottom: 0; }
+   .imob_topo_menu ul li a{ display: block; padding: 1rem 0; }
+   .imob_topo_menu ul li a:active, .imob_topo_menu ul li a:focus{ color: #fff; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          FORM PESQUISA HORIZONTAL           FORM PESQUISA HORIZONTAL           FORM PESQUISA HORIZONTAL                    */
+/* ************************************************************************************************************************** */
+section.imob_pesquisa_horizontal{ width: 100%; background-color: #F1F1F1; font-size: 1.6rem; padding: 2rem 0; }
+.imob_pesquisa_horizontal_form{ width: 100%; }
+.imob_pesquisa_horizontal_form_1{ width: 100%; margin-bottom: 3rem; }
+.imob_pesquisa_horizontal_form_1_select{ width: 23.2%; height: 4rem; float: left; margin-right: 3rem; background-color: #fff; }
+.imob_pesquisa_horizontal_form_1_select:nth-child(4){ margin-right: 0; }
+.imob_pesquisa_horizontal_form_1_select.imob_pesquisa_horizontal_form_select_ajax{ border: 1px solid #E4E4E4; cursor: default; }
+.imob_pesquisa_horizontal_form_1_select select{ width: 100%; height: 100%; padding: 0 1rem; background-color: #fff; border: 1px solid #E4E4E4; }
+.imob_pesquisa_horizontal_form_1_select select:focus{ outline: none; }
+.imob_pesquisa_horizontal_form_1_select p{ width: 100%; height: 100%; padding: 0 1rem; line-height: 3.9rem; display: block; }
+.imob_pesquisa_horizontal_form_1_input{ width: calc(20% - 12rem); height: 4rem; float: left; border: 1px solid #E4E4E4; }
+.imob_pesquisa_horizontal_form_1_input input{ width: 100%; height: 100%; padding: 0 1rem; }
+.imob_pesquisa_horizontal_form_2{ width: 100%; }
+.imob_pesquisa_horizontal_form_2_input{ width: 10%; height: 4rem; margin-right: 3rem; float: left; border: 1px solid #E4E4E4; }
+.imob_pesquisa_horizontal_form_2_input input{ width: 100%; height: 100%; padding: 0 1rem; }
+.imob_pesquisa_horizontal_form_2_radio{ width: 10%; margin-right: 3rem; float: left; }
+.imob_pesquisa_horizontal_form_2_label label{ width: 100%; display: block; font-size: 1.2rem; margin-bottom: 0.5rem; }
+.imob_pesquisa_horizontal_form_2_radio_input{ width: 25%; display: block; float: left; font-size: 1.3rem; padding: 0.12rem; /*border-radius: 0.4rem;*/ text-align: center; background-color: #fff; border: 1px solid #E4E4E4; cursor: pointer; }
+.imob_pesquisa_horizontal_form_2_radio_input:hover{ color: #fff; transition: .2s; }
+/*.imob_pesquisa_horizontal_form_2_radio_input:last-child{ border-bottom-left-radius: 0; border-top-left-radius: 0; }
+.imob_pesquisa_horizontal_form_2_radio_input:nth-child(2){ border-bottom-right-radius: 0; border-top-right-radius: 0; }
+.imob_pesquisa_horizontal_form_2_radio_input:nth-child(3),
+.imob_pesquisa_horizontal_form_2_radio_input:nth-child(4){ border-radius: 0; }*/
+.imob_pesquisa_horizontal_form_2_radio_input:nth-child(3){ border-bottom-left-radius: 0.4rem; border-top-left-radius: 0.4rem; }
+.imob_pesquisa_horizontal_form_2_radio_input:last-child{ border-bottom-right-radius: 0.4rem; border-top-right-radius: 0.4rem; }
+.imob_pesquisa_horizontal_form_2_radio_input input{ display: none; }
+.imob_pesquisa_horizontal_form_2_button{ width: calc((100% - 70.3%) - 21rem); height: 4rem; float: left; color: #fff; border-radius: 0.4rem; }
+.imob_pesquisa_horizontal_form_2_button button{ width: 100%; height: 100%; color: #fff; border-radius: 0.4rem; cursor: pointer; }
+.imob_pesquisa_horizontal_form_2_button button:focus{ outline: none; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+
+/*        DESKTOP CORREÇÃO      */
+@media screen and (min-width: 1025px) and (max-width: 1275px) {
+   section.imob_pesquisa_horizontal{ font-size: 1.5rem; }
+   .imob_pesquisa_horizontal_form_1_select{ width: 23.5%; margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_input{ width: 11%; margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_radio{ margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 13%; }
+}
+
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   section.imob_pesquisa_horizontal{ display: block !important; float: left; margin-top: 2rem; padding: 0; background-color: #fff; font-size: 1.5rem; }
+   .imob_pesquisa_horizontal_form{ float: left; background-color: #F1F1F1; padding: 2rem 1rem; }
+   .imob_pesquisa_horizontal_form_1{ margin: 0; }
+   .imob_pesquisa_horizontal_form_1_select{ width: 100%; margin: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_1_input{ width: 100%; margin: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_1_input_referencia{ width: 49%; float: left; margin-right: 0; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_quartos{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_suites{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_banheiros{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_vagas{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio_input{ padding: 0.5rem; }
+   .imob_pesquisa_horizontal_form_2_input.imob_pesquisa_horizontal_form_2_input_valor_min{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_input.imob_pesquisa_horizontal_form_2_input_valor_max{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 49%; float: right; margin: 0; }
+}
+
+
+/*       TABLET CORREÇÃO       */
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
+   .imob_pesquisa_horizontal_form_1_select{ width: 49% !important; margin-right: 0 !important; }
+   .imob_pesquisa_horizontal_form_1_select:nth-child(2),.imob_pesquisa_horizontal_form_1_select:nth-child(4){ float: right; }
+   .imob_pesquisa_horizontal_form_2_input{ width: 49% !important; margin-right: 0 !important; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 49% !important; }
+}
+
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   section.imob_pesquisa_horizontal{ display: block; float: left; margin-top: 2rem; padding: 0; background-color: #fff; font-size: 1.5rem; }
+   .imob_pesquisa_horizontal_form{ float: left; background-color: #F1F1F1; padding: 2rem 1rem; }
+   .imob_pesquisa_horizontal_form_1{ margin: 0; }
+   .imob_pesquisa_horizontal_form_1_select{ width: 100%; margin: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_1_input{ width: 100%; margin: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_1_input_referencia{ width: 49%; float: left; margin-right: 0; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_quartos{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_suites{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_banheiros{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio.imob_pesquisa_horizontal_form_2_radio_vagas{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_radio_input{ padding: 0.5rem; }
+   .imob_pesquisa_horizontal_form_2_input.imob_pesquisa_horizontal_form_2_input_valor_min{ width: 49%; float: left; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_input.imob_pesquisa_horizontal_form_2_input_valor_max{ width: 49%; float: right; margin-right: 0; margin-bottom: 1rem; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 49%; float: right; margin: 0; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   section.imob_pesquisa_horizontal{ font-size: 1.4rem; }
+   .imob_pesquisa_horizontal_form_1_select{ width: 23.5%; margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_input{ width: 11%; margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_radio{ margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 13%; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+   section.imob_pesquisa_horizontal{ font-size: 1.4rem; }
+   .imob_pesquisa_horizontal_form_1_select{ width: 23.5%; margin-right: 1.9rem; }
+   .imob_pesquisa_horizontal_form_2_input{ width: 11%; margin-right: 1.9rem; }
+   .imob_pesquisa_horizontal_form_2_radio{ margin-right: 2rem; }
+   .imob_pesquisa_horizontal_form_2_button{ width: 13%; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          BANNER               BANNER               BANNER              BANNER              BANNER                          */
+/* ************************************************************************************************************************** */
+section.imob_banner{ width: 100%; }
+.imob_banner_itens{ width: 100%; }
+.imob_banner_itens_img{ width: 100%; height: 50rem; }
+.imob_banner_itens_img img{ max-width: 100%; height: 100%; vertical-align: middle; }
+.imob_banner_itens .owl-dots{ position: absolute; top: 90%; right: 48%; }
+.imob_banner_itens .owl-dots .owl-dot.active span, .imob_banner_itens .owl-dots .owl-dot:hover span{ border: 3px solid #fff; }
+.imob_banner_itens .owl-dot span{ background-color: #fff !important; width: 2rem !important; height: 2rem !important; }
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   section.imob_banner{ padding-top: 6rem; }
+   .imob_banner_itens_img{ height: 30rem; }
+   .imob_banner_itens .owl-dots{ margin: 0 !important; top: 85%; right: 46%; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   section.imob_banner{ padding-top: 6rem; }
+   .imob_banner_itens_img{ height: 15rem; }
+   .imob_banner_itens .owl-dots{ display: none; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          DESTAQUE GRANDE                DESTAQUE GRANDE                DESTAQUE GRANDE                DESTAQUE GRANDE      */
+/* ************************************************************************************************************************** */
+section.imob_destaques_grande{ padding: 6rem 0; font-size: 1.6rem; }
+.imob_destaques_grande_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 4rem; border-bottom: 1px solid #C5C5C5; }
+.imob_destaques_grande_titulo h1{ font-size: 2.8rem; }
+.imob_destaques_grande_imoveis .owl-nav{ width: 100%; position: absolute; top: 30%; margin-top: 0; }
+.imob_destaques_grande_imoveis .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7);  vertical-align: middle; padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_destaques_grande_imoveis .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7);  vertical-align: middle; padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_destaques_grande_imoveis .owl-item img{ display: initial; width: initial; }
+.imob_destaques_grande_imoveis_item{ width: 100%; background-color: #F1F1F1; }
+.imob_destaques_grande_imoveis_item a{ display: block; }
+.imob_destaques_grande_imoveis_item_img{ max-width: 100%; height: 37.5rem; text-align: center; background-color: #EBEBEB; }
+.imob_destaques_grande_imoveis_item_img img { max-width: 100%; height: 100%; }
+.imob_destaques_grande_imoveis_item_infos{ width: 100%; min-height: 17.2rem; padding: 2rem 1rem 1rem 1rem; }
+.imob_destaques_grande_imoveis_item_infos_local{ width: 100%; height: 4.3rem; }
+.imob_destaques_grande_imoveis_item_infos_local h1{ font-size: 1.8rem; }
+.imob_destaques_grande_imoveis_item_infos_local span{ font-size: 1.3rem; }
+.imob_destaques_grande_imoveis_item_infos_especs{ width: 100%; margin: 1.5rem 0; font-size: 1.5rem; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_1{ list-style-type: none; height: 2rem; margin-bottom: 0.5rem; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_1 li{ display: inline-block; margin-right: 1.5rem; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_1 li:last-of-type{ margin-right: 0; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_2{ list-style-type: none; height: 2rem; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_2 li{ display: inline-block; margin-right: 1.5rem; }
+.imob_destaques_grande_imoveis_item_infos_especs_lista_2 li:last-of-type{ margin-right: 0; }
+.imob_destaques_grande_imoveis_item_infos_preco{ width: 75%; height: 2.4rem; line-height: 2.4rem; float: left; }
+.imob_destaques_grande_imoveis_item_infos_preco h1{ font-size: 1.8rem; }
+.imob_destaques_grande_imoveis_item_infos_ref{ width: calc(100% - 75%); height: 2.4rem; line-height: 2.4rem; text-align: right; float: left; }
+.imob_destaques_grande_imoveis_item_infos_ref span{ font-size: 1.4rem; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_destaques_grande_imoveis_item_img{ height: 21.5rem; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_destaques_grande_imoveis_item_infos_preco{ width: 60%; }
+   .imob_destaques_grande_imoveis_item_infos_ref{ width: calc(100% - 60%); }
+}
+
+@media only screen and (max-width: 425px) {
+   .imob_destaques_grande_imoveis_item_img{ height: 24rem; }
+}
+
+@media only screen and (max-width: 375px) {
+   .imob_destaques_grande_imoveis_item_img{ height: 21rem; }
+}
+
+@media only screen and (max-width: 320px) {
+   .imob_destaques_grande_imoveis_item_img{ height: 18rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_destaques_grande_imoveis_item_img{ height: 29rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+   .imob_destaques_grande_imoveis_item_img{ height: 29rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*    DESTAQUES PEQUENO              DESTAQUES PEQUENO              DESTAQUES PEQUENO              DESTAQUES PEQUENO          */
+/* ************************************************************************************************************************** */
+section.imob_destaques_pequeno{ padding: 6rem 0; font-size: 1.6rem; }
+.imob_destaques_pequeno_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 4rem; border-bottom: 1px solid #C5C5C5; }
+.imob_destaques_pequeno_titulo h1{ font-size: 2.8rem; }
+.imob_destaques_pequeno_imoveis .owl-nav{ width: 100%; position: absolute; top: 27%; margin-top: 0; }
+.imob_destaques_pequeno_imoveis .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7);  vertical-align: middle; padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_destaques_pequeno_imoveis .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7);  vertical-align: middle; padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_destaques_pequeno_imoveis .owl-item img{ display: initial; width: initial; }
+.imob_destaques_pequeno_imoveis_item{ width: 100%; background-color: #F1F1F1; }
+.imob_destaques_pequeno_imoveis_item a{ display: block; }
+.imob_destaques_pequeno_imoveis_item_img{ width: 100%; height: 24.6rem; text-align: center; background-color: #EBEBEB; }
+.imob_destaques_pequeno_imoveis_item_img img { max-width: 100%; height: 100%; }
+.imob_destaques_pequeno_imoveis_item_infos{ width: 100%; min-height: 17.2rem; padding: 2rem 1rem 1rem 1rem; }
+.imob_destaques_pequeno_imoveis_item_infos_local{ width: 100%; height: 4.3rem; }
+.imob_destaques_pequeno_imoveis_item_infos_local h1{ font-size: 1.8rem; }
+.imob_destaques_pequeno_imoveis_item_infos_local span{ font-size: 1.3rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs{ width: 100%; margin: 1.5rem 0; font-size: 1.5rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_1{ list-style-type: none; height: 2rem; margin-bottom: 0.5rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_1 li{ display: inline-block; margin-right: 1.5rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_1 li:last-of-type{ margin-right: 0; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_2{ list-style-type: none; height: 2rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_2 li{ display: inline-block; margin-right: 1.5rem; }
+.imob_destaques_pequeno_imoveis_item_infos_especs_lista_2 li:last-of-type{ margin-right: 0; }
+.imob_destaques_pequeno_imoveis_item_infos_preco{ width: 75%; height: 2.4rem; line-height: 2.4rem; float: left; }
+.imob_destaques_pequeno_imoveis_item_infos_preco h1{ font-size: 1.8rem; }
+.imob_destaques_pequeno_imoveis_item_infos_ref{ width: calc(100% - 75%); height: 2.4rem; line-height: 2.4rem; text-align: right; float: left; }
+.imob_destaques_pequeno_imoveis_item_infos_ref span{ font-size: 1.4rem; }
+
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_destaques_pequeno_imoveis_item_img{ height: 21.5rem;  }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_destaques_pequeno_titulo h1{ font-size: 2.5rem; text-align: center; }
+   .imob_destaques_pequeno_imoveis_item_infos_preco{ width: 60%; }
+   .imob_destaques_pequeno_imoveis_item_infos_ref{ width: calc(100% - 60%); }
+}
+
+@media only screen and (max-width: 425px) {
+   .imob_destaques_pequeno_imoveis_item_img{ height: 24rem; }
+}
+
+@media only screen and (max-width: 375px) {
+   .imob_destaques_pequeno_imoveis_item_img{ height: 21rem; }
+}
+
+@media only screen and (max-width: 320px) {
+   .imob_destaques_pequeno_imoveis_item_img{ height: 18rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_destaques_grande_imoveis_item_img{ height: 29rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_destaques_pequeno_imoveis_item_img{ height: 19rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+   .imob_destaques_pequeno_imoveis_item_img{ height: 19rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          SOBRE                  SOBRE                 SOBRE                SOBRE               SOBRE                       */
+/* ************************************************************************************************************************** */
+section.imob_sobre{ padding: 6rem 0; font-size: 1.6rem; }
+.imob_sobre_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 3rem; border-bottom: 1px solid #C5C5C5; }
+.imob_sobre_titulo h1{ font-size: 2.8rem; }
+.imob_sobre_texto p{ line-height: 2.3rem; display: block; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_sobre_titulo{ text-align: center; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          CONTATO                  CONTATO                 CONTATO                CONTATO               CONTATO             */
+/* ************************************************************************************************************************** */
+section.imob_contato{ padding: 6rem 0; font-size: 1.6rem; }
+.imob_contato_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 3rem; border-bottom: 1px solid #C5C5C5; }
+.imob_contato_titulo h1{ font-size: 2.8rem; }
+.imob_contato_formulario{ width: 50%; float: left; margin-right: 6rem; }
+.imob_contato_formulario_form{ width: 100%; }
+.imob_contato_formulario_form_input{ width: 100%; height: 4rem; border: 1px solid #E4E4E4; display: block; margin-bottom: 1.5rem; border-radius: 0.4rem; }
+.imob_contato_formulario_form_input input{ width: 100%; height: 100%; padding: 0 1rem; border-radius: 0.4rem; }
+.imob_contato_formulario_form_textarea{ width: 100%; height: 20rem; border: 1px solid #E4E4E4; display: block; margin-bottom: 1.5rem; border-radius: 0.4rem; }
+.imob_contato_formulario_form_textarea textarea{ width: 100%; height: 100%; padding: 1rem; border-radius: 0.4rem; }
+.imob_contato_formulario_form_button{ width: 100%; height: 4rem; display: block; border-radius: 0.4rem; }
+.imob_contato_formulario_form_button button{ width: 100%; height: 100%; color: #fff; border-radius: 0.4rem; cursor: pointer; }
+.imob_contato_formulario_form_button button:focus{ outline: none; }
+.imob_contato_informacoes{ width: calc((100% - 50%) - 6rem); float: left; }
+.imob_contato_informacoes_item{ width: 100%; margin-bottom: 1.5rem; }
+.imob_contato_informacoes_item i{ font-size: 2.2rem; color: #333 ; margin-right: 0.5rem; vertical-align: middle; }
+.imob_contato_informacoes_item span{ font-size: 1.8rem; vertical-align: middle; display: inline-block; }
+.imob_contato_informacoes_mapa{ width: 100%; height: 27rem; }
+.imob_contato_informacoes_mapa #mapa{ width: 100%; height: 100%; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_contato_formulario{ width: 100%; margin-right: 0; margin-bottom: 4rem; }
+   .imob_contato_informacoes{ width: 100%; }
+   .imob_contato_informacoes_item{ text-align: center; }
+   .imob_contato_informacoes_mapa{ margin-top: 4rem; }
+   .imob_contato_informacoes_mapa iframe{ height: 35rem; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_contato_titulo{ text-align: center; }
+   .imob_contato_formulario{ width: 100%; margin: 0; }
+   .imob_contato_informacoes{ width: 100%; margin-top: 4rem; }
+   .imob_contato_informacoes_item{ text-align: center; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          BREADCRUMBS           BREADCRUMBS           BREADCRUMBS           BREADCRUMBS           BREADCRUMBS               */
+/* ************************************************************************************************************************** */
+div.imob_breadcrumbs{ padding: 1.5rem 0; margin: 1rem 0 5rem 0; font-size: 1.5rem; }
+.imob_breadcrumbs_lista ol{ text-align: left; list-style-type: none; }
+.imob_breadcrumbs_lista ol li{ display: inline-block; }
+.imob_breadcrumbs_lista ol li span{ margin: 0 0.5rem; color: #A00065; }
+.imob_breadcrumbs_lista ol li:last-of-type>span{ display: none; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   div.imob_breadcrumbs{ width: 100%; float: left; margin-top: 0; }
+   .imob_breadcrumbs_lista ol{ text-align: left; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   div.imob_breadcrumbs{ display: none; }
+}
+
+
+/* ************************************************************************************************************************** */
+/*          FORM PESQUISA VERTICAL           FORM PESQUISA VERTICAL           FORM PESQUISA VERTICAL                          */
+/* ************************************************************************************************************************** */
+section.imob_pesquisa_vertical{ width: 25%; float: left; background-color: #F1F1F1; font-size: 1.6rem; margin-right: 2rem; }
+.imob_pesquisa_vertical_form{ width: 100%; float: left; }
+.imob_pesquisa_vertical_form_1{ width: 100%; float: left; display: block; padding: 1rem; }
+.imob_pesquisa_vertical_form_1_select{ width: 100%; height: 4rem; display: block; }
+.imob_pesquisa_vertical_form_1_select select{ width: 100%; height: 100%; padding: 0 1rem; background-color: #fff; border: 1px solid #E4E4E4; }
+.imob_pesquisa_vertical_form_1_select select:focus{ outline: none; }
+.imob_pesquisa_vertical_form_2{ width: 100%; float: left; display: block; padding: 1rem;}
+.imob_pesquisa_vertical_form_2_select{ width: 100%; height: 4rem; display: block; margin-bottom: 2rem; background-color: #fff; border: 1px solid #E4E4E4; }
+.imob_pesquisa_vertical_form_2_select.imob_pesquisa_vertical_form_select_ajax{ border: 1px solid #E4E4E4; cursor: default; }
+.imob_pesquisa_vertical_form_2_select select{ width: 100%; height: 100%; padding: 0 1rem; background-color: #fff; border: 1px solid #E4E4E4; }
+.imob_pesquisa_vertical_form_2_select select:focus{ outline: none; }
+.imob_pesquisa_vertical_form_2_select p{ width: 100%; height: 100%; padding: 0 1rem; line-height: 3.9rem; display: block; }
+.imob_pesquisa_vertical_form_2_radio{ width: 100%; margin-right: 3rem; float: left; margin-bottom: 2rem; }
+.imob_pesquisa_vertical_form_2_label label{ width: 100%; display: block; font-size: 1.4rem; margin-bottom: 0.3rem; }
+.imob_pesquisa_vertical_form_2_radio_input{ width: 25%; height: 4rem; line-height: 4rem; display: block; float: left; /*border-radius: 0.4rem;*/ text-align: center; background-color: #fff; border: 1px solid #E4E4E4; cursor: pointer; }
+.imob_pesquisa_vertical_form_2_radio_input:hover{ color: #fff; transition: .2s; }
+/*.imob_pesquisa_vertical_form_2_radio_input:last-child{ border-bottom-left-radius: 0; border-top-left-radius: 0; }
+.imob_pesquisa_vertical_form_2_radio_input:nth-child(2){ border-bottom-right-radius: 0; border-top-right-radius: 0; }
+.imob_pesquisa_vertical_form_2_radio_input:nth-child(3),
+.imob_pesquisa_vertical_form_2_radio_input:nth-child(4){ border-radius: 0; }*/
+.imob_pesquisa_vertical_form_2_radio_input:nth-child(3){ border-bottom-left-radius: 0.4rem; border-top-left-radius: 0.4rem; }
+.imob_pesquisa_vertical_form_2_radio_input:last-child{ border-bottom-right-radius: 0.4rem; border-top-right-radius: 0.4rem; }
+.imob_pesquisa_vertical_form_2_radio_input input{ display: none; }
+.imob_pesquisa_vertical_form_2{ width: 100%; }
+.imob_pesquisa_vertical_form_2_input_grupo{ width: 100%; float: left; margin-bottom: 2rem; }
+.imob_pesquisa_vertical_form_2_input{ width: 43%; height: 4rem; float: left; border: 1px solid #E4E4E4; }
+.imob_pesquisa_vertical_form_2_input#codigo_imovel{ width: 100%; margin-bottom: 2rem; }
+.imob_pesquisa_vertical_form_2_input input{ width: 100%; height: 100%; padding: 0 1rem; }
+.imob_pesquisa_vertical_form_2_input_span{ width: calc((100% - 86%) - 1rem); height: 4rem; float: left; display: block; line-height: 4rem; margin: 0 0.5rem; text-align: center; }
+.imob_pesquisa_vertical_form_2_input_span span{ width: 100%; height: 100%; }
+.imob_pesquisa_vertical_form_2_button{ width: 100%; height: 4rem; float: left; color: #fff; border-radius: 0.4rem; }
+.imob_pesquisa_vertical_form_2_button button{ width: 100%; height: 100%; color: #fff; border-radius: 0.4rem; cursor: pointer; }
+.imob_pesquisa_vertical_form_2_button button:focus{ outline: none; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   section.imob_pesquisa_vertical{ display: none; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   section.imob_pesquisa_vertical{ display: none; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   section.imob_pesquisa_vertical{ font-size: 1.4rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation: landscape){
+   section.imob_pesquisa_vertical{ font-size: 1.4rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          BUSCA           BUSCA           BUSCA           BUSCA           BUSCA               */
+/* ************************************************************************************************************************** */
+section.imob_busca{ padding-bottom: 6rem; font-size: 1.6rem; }
+div.imob_resultado_busca{ width: calc((100% - 25%) - 2rem); float: left; clear: none; background-color: #fff; font-size: 1.6rem; }
+.imob_resultado_busca_msg{ width: 100%; display: block; margin-bottom: 1.5rem; }
+.imob_resultado_busca_msg h1{ font-size: 2.2rem; }
+.imob_resultado_busca_msg h1 span{ font-weight: bold; }
+.imob_resultado_busca_ordenacao{ background-color: #F1F1F1; border: 1px solid #E4E4E4; border-radius: 0.4rem; padding: 0.8rem; margin-bottom: 1rem; }
+.imob_resultado_busca_ordenacao_botoes{ width: 50%; height: 4rem; line-height: 4rem; float: left; text-align: left; }
+.imob_resultado_busca_ordenacao_botoes_botao{ font-size: 2rem; padding: 0.3rem 0.8rem 0 0.8rem; display: inline-block; }
+.imob_resultado_busca_ordenacao_botoes_botao a{ display: block; }
+.imob_resultado_busca_ordenacao_botoes_botao:hover{ cursor: pointer; color: #fff; border-radius: 0.4rem; transition: .2s }
+.imob_resultado_busca_ordenacao_botoes_botao:first-of-type{ margin-right: 1rem; }
+.imob_resultado_busca_ordenacao_selecao{ width: 50%; height: 4rem; float: left; text-align: right; }
+.imob_resultado_busca_ordenacao_selecao_label{ height: 100%; line-height: 4rem; display: inline-block; margin-right: 1rem; }
+.imob_resultado_busca_ordenacao_selecao_select{ width: 20rem; height: 100%; display: inline-block; border: 1px solid #E4E4E4; }
+.imob_resultado_busca_ordenacao_selecao_select select{ width: 100%; height: 100%; padding: 0 1rem; }
+.imob_resultado_busca_ordenacao_selecao_select select:focus{ outline: none; }
+.imob_resultado_busca_lista{ width: 100%; float: left; background-color: #F1F1F1; padding: 0.8rem; margin-bottom: 1rem; }
+.imob_resultado_busca_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel{ width: 100%; max-height: 24rem; float: left; margin-top: 3rem; background-color: #fff; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel:first-of-type{ margin-top: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos{ width: 37rem; float: left; display: block; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos .owl-nav{ width: 100%; position: absolute; top: 43%; margin-top: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ width: 100%; height: 24rem; line-height: 24rem; float: left; background-color: #EBEBEB; text-align: center; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img img{ max-width: 100%; width: initial; height: 100%; vertical-align: middle; display: initial !important; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes{ width: calc(100% - 37rem); float: right; padding: 0.5rem 1rem 0 1rem; text-align: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local{ width: calc(100% - 4rem); height: 8rem; float: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; display: block; font-size: 1.4rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 2rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 5rem; font-size: 2rem; margin: 0.5rem 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_favorito{ width: 4rem; height: 4rem; position: relative; float: right; background-color: #F1F1F1; font-size: 2.5rem; line-height: 4rem; text-align: center; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_favorito:hover{ cursor: pointer; transition: .2s; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs{ width: 100%; height: 2rem; margin: 2rem 0; float: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul{ list-style-type: none; text-align: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ display: inline-block; margin-right: 3rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li:last-of-type{ margin-right: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco{ width: 100%; height: 3.4rem; margin-bottom: 2.3rem; float: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco h1{ font-size: 2rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_ref_mobile{ display: none; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato{ width: 100%; height: 3.4rem; text-align: right; float: left; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato span{ float: left; padding-top: 1rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 15rem; display: inline-block; color: #fff; text-align: center; padding: 0.7rem 0; margin-right: 1rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao#visite{ width: 10rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao:last-of-type{ margin-right: 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao i{ margin-right: 0.3rem; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_busca_lista .imob_resultado_busca_lista_msg h1{ font-size: 1.7rem; }
+.imob_resultado_busca_paginacao{ width: 100%; float: left; margin-top: 4rem; text-align: center; }
+.imob_resultado_busca_paginacao ul li{ display: inline-block;  border: 1px solid #E4E4E4; }
+.imob_resultado_busca_paginacao ul li:first-of-type{ border-left: 1px solid #E4E4E4; border-top-left-radius: 0.4rem; border-bottom-left-radius: 0.4rem; }
+.imob_resultado_busca_paginacao ul li:last-of-type{ border-top-right-radius: 0.4rem; border-bottom-right-radius: 0.4rem; }
+.imob_resultado_busca_paginacao ul li:hover{ color: #fff; transition: .2s; }
+.imob_resultado_busca_paginacao ul li a{ display: inline-block; padding: 1rem 1.5rem; }
+
+
+/* ************************************************************************************************************************** */
+/*          BUSCA BLOCO           BUSCA BLOCO           BUSCA BLOCO           BUSCA BLOCO                                     */
+/* ************************************************************************************************************************** */
+.imob_resultado_busca_bloco{ width: calc(50% - 1rem); float: left; background-color: #F1F1F1; padding: 0.8rem; margin-bottom: 2rem; }
+.imob_resultado_busca_bloco:nth-child(odd){ margin-right: 1rem; }
+.imob_resultado_busca_bloco:nth-child(even){ margin-left: 1rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel{ width: 100%; float: left; min-height: 48rem; background-color: #fff; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel:last-of-type{ margin-bottom: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos{ width: 100%; display: block; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos .owl-nav{ width: 100%; position: absolute; top: 43%; margin-top: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos_img{ width: 100%; height: 26.5rem; line-height: 26.5rem; text-align: center; background-color: #EBEBEB; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos_img img{ max-width: 100%; width: initial; max-height: 100%; vertical-align: middle; display: initial !important; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes{ width: 100%; padding: 0.5rem 1rem 0 1rem; text-align: left; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local{ width: calc(100% - 4rem); float: left; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; display: block; font-size: 1.4rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 2rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 5rem; font-size: 2rem; margin: 0.5rem 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_favorito{ width: 4rem; height: 4rem; float: right; position: relative; background-color: #F1F1F1; font-size: 2.5rem; line-height: 4rem; text-align: center; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_favorito:hover{ cursor: pointer; transition: .2s; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs{ width: 100%; margin: 2rem 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul{ height: 2rem; list-style-type: none; text-align: left; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ display: inline-block; margin-right: 1.5rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul li:last-of-type{ margin-right: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco{ width: 100%; margin-bottom: 2.3rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco h1{ height: 3.4rem; font-size: 2rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_ref_mobile{ display: none; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato{ width: 100%; text-align: right; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ width: 25%; float: left; padding-top: 1rem; text-align: left; font-size: 1.5rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_btn{ width: 75%; float: right; text-align: right; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 13rem; display: inline-block; color: #fff; text-align: center; font-size: 1.4rem; padding: 0.7rem 0.5rem; margin-right: 1rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao#visite{ width: 10rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao:last-of-type{ margin-right: 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao i{ margin-right: 0.3rem; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_busca_bloco .imob_resultado_busca_lista_msg h1{ font-size: 1.7rem; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   div.imob_resultado_busca{ width: 100%; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel{ max-height: 22.5rem }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos{ width: 30rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ height: 22.5rem; line-height: 22.5rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes{ width: calc(100% - 30rem); }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local{ height: 7.3rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.8rem; margin: 0.9rem 0; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs{ height: 3rem; margin: 1.5rem 0; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul{ height: 4rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ font-size: 1.4rem; margin-right: 2rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco{ height: 3rem; margin-bottom: 2rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 11.2rem; font-size: 1.3rem; }
+
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel{ width: 100%; min-height: 42rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel:nth-child(odd){ margin-left: 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel:nth-child(even){ margin-right: 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos_img{ height: 20.5rem; line-height: 20.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 1.8rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.8rem; margin: 0.9rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul{ height: 3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco{ margin-bottom: 2rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ width: 30%; font-size: 1.4rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_ref span{ display: block; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_btn{ width: 70%; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 10.8rem; font-size: 1.2rem; padding: 0.7rem 0; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   div.imob_resultado_busca{ width: 100%; padding-top: 6rem; }
+   .imob_resultado_busca_ordenacao_botoes{ display: none; }
+   .imob_resultado_busca_ordenacao_selecao{ width: 100%; text-align: left; }
+   .imob_resultado_busca_ordenacao_selecao_label{ width: 50%; float: left; margin: 0; }
+   .imob_resultado_busca_ordenacao_selecao_select{ width: 50%; float: right; }
+   .imob_resultado_busca_msg h1{ font-size: 1.8rem; text-align: center; }
+   .imob_resultado_busca_lista .imob_resultado_busca_msg h1{ font-size: 1.5rem; text-align: center; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista{ padding: 1rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_ordenacao_selecao_label{ display: none; }
+   .imob_resultado_busca_lista .imob_resultado_busca_ordenacao_selecao_select{ width: 15rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel{ max-height: 100%; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos{ width: 100%; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ /*height: 26.4rem; line-height: 26.4rem;*/ height: 30rem; /*line-height: 30rem;*/ }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes{ width: 100%; padding: 1rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local{ width: calc(100% - 3.5rem); height: 6rem; float: left; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local a{ display: block; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span{ font-size: 1.4rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: none; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 3rem; font-size: 1.6rem; font-weight: bold; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_favorito{ width: 3.5rem; height: 3.5rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs{ height: 4rem; margin: 2.5rem 0; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ font-size: 1.4rem; margin-right: 1rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco{ width: 65%; float: left; margin-bottom: 0; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_ref_mobile{ display: block; width: calc(100% - 65%); height: 3.4rem; float: left; text-align: right; font-size: 1.7rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 48% !important; float: left; font-size: 1.3rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ display: none; }
+}
+
+@media only screen and (max-width: 425px) {
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ height: 24rem; line-height: 24rem; }
+}
+
+@media only screen and (max-width: 375px) {
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ height: 21rem; line-height: 21rem; }
+}
+
+@media only screen and (max-width: 320px) {
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos_img{ height: 18rem; line-height: 18rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco{ width: 60%; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_ref_mobile{ width: calc(100% - 60%); font-size: 1.6rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local h1{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ margin-right: 1.3rem; font-size: 1.5rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ font-size: 1.4rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel{ min-height: 42.3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos_img{ height: 19rem; line-height: 19rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: initial; font-size: 1.6rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.6rem; margin: 0.9rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul{ height: 4rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco{ margin-bottom: 2rem; height: auto; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 10.3rem; font-size: 1.2rem; margin-right: 0.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a i{ display: none; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation: landscape){
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_fotos{ width: 32rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes{ width: calc(100% - 32rem); }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local h1{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ margin-right: 1.3rem; font-size: 1.5rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 13rem; font-size: 1.4rem; }
+   .imob_resultado_busca_lista .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel{ min-height: 42.3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_fotos_img{ height: 20rem; line-height: 20rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local span.bairro{ display: initial; font-size: 1.6rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.6rem; margin: 0.9rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul{ height: 4rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco{ margin-bottom: 2rem; height: auto; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a.btn_padrao{ width: 10.3rem; font-size: 1.2rem; margin-right: 0.5rem; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato a i{ display: none; }
+   .imob_resultado_busca_bloco .imob_resultado_busca_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          FAVORITOS           FAVORITOS           FAVORITOS           FAVORITOS           FAVORITOS                         */
+/* ************************************************************************************************************************** */
+section.imob_favoritos{ padding-bottom: 6rem; font-size: 1.6rem; }
+div.imob_resultado_favoritos{ width: 100%; background-color: #fff; font-size: 1.6rem; }
+.imob_resultado_favoritos_msg{ width: 100%; display: block; margin-bottom: 1.5rem; }
+.imob_resultado_favoritos_msg h1{ font-size: 2.2rem; }
+.imob_resultado_favoritos_msg h1 span{ font-weight: bold; }
+.imob_resultado_favoritos_ordenacao{ background-color: #F1F1F1; border: 1px solid #E4E4E4; border-radius: 0.4rem; padding: 0.8rem; margin-bottom: 1rem; }
+.imob_resultado_favoritos_ordenacao_botoes{ width: 50%; height: 4rem; line-height: 4rem; float: left; text-align: left; }
+.imob_resultado_favoritos_ordenacao_botoes_botao{ font-size: 2rem; padding: 0.3rem 0.8rem 0 0.8rem; display: inline-block; }
+.imob_resultado_favoritos_ordenacao_botoes_botao a{ display: block; }
+.imob_resultado_favoritos_ordenacao_botoes_botao:hover{ cursor: pointer; color: #fff; border-radius: 0.4rem; transition: .2s; }
+.imob_resultado_favoritos_ordenacao_botoes_botao:first-of-type{ margin-right: 1rem; }
+.imob_resultado_favoritos_ordenacao_selecao{ width: 50%; height: 4rem; float: left; text-align: right; }
+.imob_resultado_favoritos_ordenacao_selecao_label{ height: 100%; line-height: 4rem; display: inline-block; margin-right: 1rem; }
+.imob_resultado_favoritos_ordenacao_selecao_select{ width: 20rem; height: 100%; display: inline-block; border: 1px solid #E4E4E4; }
+.imob_resultado_favoritos_ordenacao_selecao_select select{ width: 100%; height: 100%; padding: 0 1rem; }
+.imob_resultado_favoritos_ordenacao_selecao_select select:focus{ outline: none; }
+.imob_resultado_favoritos_imoveis{ width: 100%; }
+.imob_resultado_favoritos_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_favoritos_lista{ width: 100%; background-color: #F1F1F1; padding: 0.8rem; margin-bottom: 1rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel{ width: 100%; max-height: 24rem; margin-top: 3rem; background-color: #fff; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel:first-of-type{ margin-top: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos{ width: 37rem; float: left; display: block; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos .owl-nav{ width: 100%; position: absolute; top: 43%; margin-top: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ width: 100%; height: 24rem; line-height: 24rem; float: left; background-color: #EBEBEB; text-align: center; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img img{ max-width: 100%; width: initial; height: 100%; vertical-align: middle; display: initial !important; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes{ width: calc(100% - 37rem); float: right; padding: 0.5rem 1rem 0 1rem; text-align: left; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local{ width: calc(100% - 4rem); float: left; height: 8rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span{ display: block; height: 2rem; font-size: 1.4rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 2rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ font-size: 2rem; margin: 0.5rem 0; height: 5rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_favorito{ width: 4rem; height: 4rem; position: relative; float: right; background-color: #F1F1F1; font-size: 2.5rem; line-height: 4rem; text-align: center; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_favorito:hover{ cursor: pointer; transition: .2s; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs{ width: 100%; margin: 2rem 0; float: left; height: 2rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ list-style-type: none; text-align: left; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ display: inline-block; margin-right: 3rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li:last-of-type{ margin-right: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco{ width: 100%; margin-bottom: 2.3rem; float: left; height: 3.4rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ font-size: 2rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_ref_mobile{ display: none; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato{ width: 100%; text-align: right; float: left; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato span{ float: left; padding-top: 1rem;  }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 15rem; display: inline-block; color: #fff; text-align: center; padding: 0.7rem 0; margin-right: 1rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao#visite{ width: 10rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao:last-of-type{ margin-right: 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao i{ margin-right: 0.3rem; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_msg h1{ font-size: 1.7rem; }
+.imob_resultado_favoritos_paginacao{ width: 100%; margin-top: 4rem; text-align: center; }
+.imob_resultado_favoritos_paginacao ul li{ display: inline-block;  border: 1px solid #E4E4E4; }
+.imob_resultado_favoritos_paginacao ul li:first-of-type{ border-left: 1px solid #E4E4E4; border-top-left-radius: 0.4rem; border-bottom-left-radius: 0.4rem; }
+.imob_resultado_favoritos_paginacao ul li:last-of-type{ border-top-right-radius: 0.4rem; border-bottom-right-radius: 0.4rem; }
+.imob_resultado_favoritos_paginacao ul li:hover{ color: #fff; transition: .2s; }
+.imob_resultado_favoritos_paginacao ul li a{ display: inline-block; padding: 1rem 1.5rem; }
+
+/* ************************************************************************************************************************** */
+/*          FAVORITOS BLOCO           FAVORITOS BLOCO           FAVORITOS BLOCO           FAVORITOS BLOCO                     */
+/* ************************************************************************************************************************** */
+.imob_resultado_favoritos_bloco{ width: calc((100% / 3) - 1rem); float: left; background-color: #F1F1F1; padding: 0.8rem; margin-bottom: 2rem; margin-right: 0.5rem; margin-left: 0.5rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel{ width: 100%; float: left; min-height: 46rem; background-color: #fff; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel:last-of-type{ margin-bottom: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos{ width: 100%; display: block; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos .owl-nav{ width: 100%; position: absolute; top: 43%; margin-top: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos_img{ width: 100%; height: 23.8rem; line-height: 23.8rem; text-align: center; background-color: #EBEBEB; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos_img img{ max-width: 100%; width: initial; max-height: 100%; vertical-align: middle; display: initial !important; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes{ width: 100%; padding: 0.5rem 1rem 0 1rem; text-align: left; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local{ width: calc(100% - 4rem); float: left; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span{ height: 2rem; display: block; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 2rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ height: 5rem; font-size: 2rem; margin: 0.5rem 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_favorito{ width: 4rem; height: 4rem; float: right; position: relative; background-color: #F1F1F1; font-size: 2.5rem; line-height: 4rem; text-align: center; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_favorito:hover{ cursor: pointer; transition: .2s; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs{ width: 100%; margin: 2rem 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ height: 2rem; list-style-type: none; text-align: left; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ display: inline-block; margin-right: 1.5rem; font-size: 1.5rem }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li:last-of-type{ margin-right: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco{ width: 100%; margin-bottom: 2.3rem; height: 3.4rem }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ font-size: 2rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_ref_mobile{ display: none; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato{ width: 100%; text-align: right; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ width: 25%; float: left; padding-top: 1rem; text-align: left; font-size: 1.5rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_btn{ width: 75%; float: right; text-align: right; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 13rem; display: inline-block; color: #fff; text-align: center; font-size: 1.4rem; padding: 0.7rem 0.5rem; margin-right: 1rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao#visite{ width: 10rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao:last-of-type{ margin-right: 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao i{ margin-right: 0.3rem; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_msg{ text-align: center; padding: 1rem 0; }
+.imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_msg h1{ font-size: 1.7rem; }
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel{ max-height: 22.5rem }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos{ width: 30rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 22.5rem; line-height: 22.5rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes{ width: calc(100% - 30rem); }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local{ height: 7.3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 1.8; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.8rem; margin: 0.9rem 0; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs{ height: 3rem; margin: 1.5rem 0; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ height: 3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ font-size: 1.4rem; margin-right: 2rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco{ height: 3rem; margin-bottom: 2rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 14rem; font-size: 1.3rem; }
+
+   .imob_resultado_favoritos_bloco{ width: calc((100% / 2) - 1rem); margin-left: 0; margin-right: 0; }
+   .imob_resultado_favoritos_bloco:nth-child(odd){ margin-right: 1rem; }
+   .imob_resultado_favoritos_bloco:nth-child(even){ margin-left: 1rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel{ width: 100%; min-height: 42rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel:nth-child(odd){ margin-left: 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel:nth-child(even){ margin-right: 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 20.5rem; line-height: 20.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: none; font-size: 1.8rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.8rem; margin: 0.9rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ height: 3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco{ margin-bottom: 2rem; height: auto; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ width: 30%; font-size: 1.4rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref span{ display: block; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_btn{ width: 70%; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 10.5rem; font-size: 1.2rem; padding: 0.7rem 0; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   div.imob_resultado_favoritos{ width: 100%; padding-top: 6rem; }
+   .imob_resultado_favoritos_ordenacao_botoes{ display: none; }
+   .imob_resultado_favoritos_ordenacao_selecao{ width: 100%; text-align: left; }
+   .imob_resultado_favoritos_ordenacao_selecao_label{ width: 50%; float: left; margin: 0; }
+   .imob_resultado_favoritos_ordenacao_selecao_select{ width: 50%; float: right; }
+   .imob_resultado_favoritos_msg h1{ font-size: 1.8rem; text-align: center; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_msg h1{ font-size: 1.5rem; text-align: center; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista{ padding: 1rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_ordenacao_selecao_label{ display: none; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_ordenacao_selecao_select{ width: 15rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel{ max-height: 100%; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos{ width: 100%; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 26.4rem; line-height: 26.4rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes{ width: 100%; padding: 1rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local{ width: calc(100% - 3.5rem); float: left; height: 6rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local a{ display: block; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span{ font-size: 1.4rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: none; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ font-size: 1.6rem; height: 3rem; font-weight: bold; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_favorito{ width: 3.5rem; height: 3.5rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs{ height: 4rem; margin: 2.5rem 0; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ font-size: 1.4rem; margin-right: 1rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco{ width: 65%; float: left; margin-bottom: 0; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_ref_mobile{ display: block; width: calc(100% - 65%); height: 3.4rem; float: left; text-align: right; font-size: 1.7rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 48% !important; float: left; font-size: 1.3rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ display: none; }
+}
+
+
+@media only screen and (max-width: 425px) {
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 24rem; line-height: 24rem; }
+}
+
+@media only screen and (max-width: 375px) {
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 21rem; line-height: 21rem; }
+}
+
+@media only screen and (max-width: 320px) {
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 18rem; line-height: 18rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco{ width: 60%; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_ref_mobile{ width: calc(100% - 60%); font-size: 1.6rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ margin-right: 1.3rem; font-size: 1.5rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ font-size: 1.4rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel{ min-height: 40.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 17.2rem; line-height: 17.2rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: initial; font-size: 1.6rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.6rem; margin: 0.9rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ height: 4rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco{ margin-bottom: 2rem; height: auto; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_btn{ width: calc(100% - 30%); }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 9.2rem; font-size: 1.2rem; margin-right: 0.5rem; padding: 0.7rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a i{ display: none; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ width: 30%; font-size: 1.3rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation: landscape){
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_fotos{ width: 32rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes{ width: calc(100% - 32rem); }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ margin-right: 1.3rem; font-size: 1.5rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ font-size: 1.8rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 13rem; font-size: 1.4rem; }
+   .imob_resultado_favoritos_lista .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ font-size: 1.4rem; }
+
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel{ min-height: 40.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_fotos_img{ height: 18.1rem; line-height: 18.1rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span{ height: 2rem; font-size: 1.3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local span.bairro{ display: initial; font-size: 1.6rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_local h1{ height: 3.5rem; line-height: 1.9rem; font-size: 1.6rem; margin: 0.9rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs{ margin: 1.5rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul{ height: 4rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_especs ul li{ font-size: 1.3rem; margin-right: 1.5rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco{ margin-bottom: 2rem; height: auto; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_preco h1{ height: 3rem; line-height: 3rem; font-size: 1.8rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato{ height: 3rem; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_btn{ width: calc(100% - 30%); }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a.btn_padrao{ width: 9.2rem; font-size: 1.2rem; margin-right: 0.5rem; padding: 0.7rem 0; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato a i{ display: none; }
+   .imob_resultado_favoritos_bloco .imob_resultado_favoritos_lista_imovel_informacoes_contato_ref{ width: 30%; font-size: 1.3rem; }
+}
+
+
+
+/* ************************************************************************************************************************** */
+/*          IMÓVEL           IMÓVEL           IMÓVEL           IMÓVEL           IMÓVEL                                        */
+/* ************************************************************************************************************************** */
+section.imob_imovel{ font-size: 1.6rem; }
+.imob_imovel_ficha{ width: 100%; }
+.imob_imovel_ficha_titulo{ width: 100%; display: block; margin-bottom: 2rem; }
+.imob_imovel_ficha_titulo h1{ font-size: 2.8rem; text-transform: uppercase; }
+.imob_imovel_ficha_fotos .owl-nav{ width: 100%; position: absolute; top: 43%; margin-top: 0; }
+.imob_imovel_ficha_fotos .owl-nav .owl-prev{ position: absolute; left: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_imovel_ficha_fotos .owl-nav .owl-next{ position: absolute; right: 0; margin: 0; background-color: rgba(0, 0, 0, .7); padding: 1rem 1.2rem; font-size: 1.6rem; border-radius: 0; }
+.imob_imovel_ficha_fotos .owl-item img{ display: initial; width: initial; }
+.imob_imovel_ficha_fotos_img{ width: 100%; height: 28rem; background-color: #ebebeb; text-align: center; }
+.imob_imovel_ficha_fotos_img img{ max-width: 100%; height: 100%; }
+.imob_imovel_ficha_1{ width: 100%; background-color: #F1F1F1; padding: 1rem 0; }
+.imob_imovel_ficha_1_especs{ width: 80%; height: 4rem; line-height: 4rem; float: left; text-align: left; list-style-type: none; }
+.imob_imovel_ficha_1_especs li{ display: inline-block; margin-right: 2rem; font-size: 1.9rem; }
+.imob_imovel_ficha_1_especs li:last-of-type{ margin-right: 0; }
+.imob_imovel_ficha_1_favorito{ width: 10%; height: 4rem; line-height: 4rem; display: block; float: left; font-size: 2.5rem; text-align: center; list-style-type: none; border-right: 2px solid #E4E4E4; border-left: 2px solid #E4E4E4; }
+.imob_imovel_ficha_1_favorito i:hover{ cursor: pointer; transition: .2s; color: #f00; }
+.imob_imovel_ficha_1_compartilhar{ width: calc(100% - 90%); height: 4rem; line-height: 4rem; float: left; font-size: 2.5rem; text-align: center; list-style-type: none; }
+.imob_imovel_ficha_1_compartilhar li{ display: inline-block; margin-right: 2rem; }
+.imob_imovel_ficha_1_compartilhar li:last-of-type{ margin-right: 0; }
+.imob_imovel_ficha_2{ width: 100%; float: left; padding-bottom: 10rem; }
+.imob_imovel_ficha_2_especs{ width: 100%; padding: 5rem 0; }
+.imob_imovel_ficha_2_especs li{ display: inline-block; font-size: 1.9rem; margin-right: 3rem; }
+.imob_imovel_ficha_2_especs li:last-of-type{ margin-right: 0; }
+.imob_imovel_ficha_2_descricao{ width: 65%; float: left; margin-right: 7rem; }
+.imob_imovel_ficha_2_descricao_titulo{ width: 100%; padding-bottom: 1.5rem; border-bottom: 1px solid #C5C5C5; }
+.imob_imovel_ficha_2_descricao_titulo h1{ font-size: 2.8rem; }
+.imob_imovel_ficha_2_descricao_desc{ margin-top: 2rem; margin-bottom: 5rem; }
+.imob_imovel_ficha_2_descricao_infra{ width: 100%; float: left; padding-bottom: 1.5rem; border-bottom: 1px solid #C5C5C5; }
+.imob_imovel_ficha_2_descricao_infra h1{ font-size: 2.8rem; }
+.imob_imovel_ficha_2_descricao_infra_lista{ width: 100%; float: left; list-style-type: none; font-size: 1.5rem; margin-top: 2rem; }
+.imob_imovel_ficha_2_descricao_infra_lista li{ width: 49%; float: left; display: block; margin-bottom: 0.6rem; }
+.imob_imovel_ficha_2_descricao_infra_lista li:last-of-type{ margin-bottom: 0; }
+.imob_imovel_ficha_2_proposta{ width: calc((100% - 65%) - 7rem); float: right; }
+.imob_imovel_ficha_2_proposta_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 2rem; border-bottom: 1px solid #C5C5C5; }
+.imob_imovel_ficha_2_proposta_titulo h1{ font-size: 2.8rem; }
+.imob_imovel_ficha_2_proposta_form{ width: 100%; }
+.imob_imovel_ficha_2_proposta_form_input{ width: 100%; height: 4rem; border: 1px solid #E4E4E4; display: block; margin-bottom: 1.5rem; border-radius: 0.4rem; }
+.imob_imovel_ficha_2_proposta_form_input input{ width: 100%; height: 100%; padding: 0 1rem; border-radius: 0.4rem; }
+.imob_imovel_ficha_2_proposta_form_textarea{ width: 100%; height: 20rem; border: 1px solid #E4E4E4; display: block; margin-bottom: 1.5rem; border-radius: 0.4rem; }
+.imob_imovel_ficha_2_proposta_form_textarea textarea{ width: 100%; height: 100%; padding: 1rem; border-radius: 0.4rem; }
+.imob_imovel_ficha_2_proposta_form_button{ width: 100%; height: 4rem; display: block; border-radius: 0.4rem; }
+.imob_imovel_ficha_2_proposta_form_button button{ width: 100%; height: 100%; color: #fff; border-radius: 0.4rem; cursor: pointer; }
+.imob_imovel_ficha_2_proposta_form_button button:focus{ outline: none; }
+.imob_imovel_ficha_mapa{ width: 100%; background-color: #fff; }
+.imob_imovel_ficha_mapa_titulo{ width: 100%; text-align: center; margin-bottom: 3rem; }
+.imob_imovel_ficha_mapa_titulo h1{ font-size: 2.8rem; }
+.imob_imovel_ficha_mapa #mapa{ width: 100%; height: 50rem; }
+.imob_imovel_ficha_mapa_indisponivel{ position: relative; }
+.imob_imovel_ficha_mapa_indisponivel h1{ width: 100%; position: absolute; top: 50%; font-size: 4rem; text-align: center; color: #000; }
+.imob_imovel_ficha_mapa_indisponivel img{ width: 100%; opacity: 0.4; }
+
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+   .imob_imovel_ficha_1_favorito p, .imob_imovel_ficha_1_compartilhar p{ display: none; }
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+   .imob_imovel_ficha_fotos_img{ height: 19rem; }
+   .imob_imovel_ficha_1_favorito p, .imob_imovel_ficha_1_compartilhar p{ display: none; }
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_imovel_ficha_titulo h1{ font-size: 2.5rem; }
+   .imob_imovel_ficha_fotos_img{ height: 22.2rem; }
+   .imob_imovel_ficha_1_especs{ width: 100%; text-align: center; }
+   .imob_imovel_ficha_1_especs li{ font-size: 1.9rem; margin-right: 1.5rem; }
+   .imob_imovel_ficha_1_compartilhar{ width: 49%; float: right; margin-top: 1rem; }
+   .imob_imovel_ficha_1_favorito{ width: 49%; margin-top: 1rem; border: none; }
+   .imob_imovel_ficha_1_favorito p, .imob_imovel_ficha_1_compartilhar p{ font-size: 1.6rem; margin-right: 1rem; height: 4rem; line-height: 4rem; }
+   .imob_imovel_ficha_2_descricao{ width: 100%; margin-right: 0; }
+   .imob_imovel_ficha_2_proposta{ width: 100%; margin-top: 6rem; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   section.imob_imovel{ padding-top: 6rem; }
+   .imob_imovel_ficha_titulo h1{ font-size: 1.9rem; text-align: center; }
+   .imob_imovel_ficha_fotos_img{ height: 24.8rem; }
+   .imob_imovel_ficha_1_especs{ width: 100%; text-align: center; height: auto; }
+   .imob_imovel_ficha_1_especs li{ width: 100%; font-size: 1.6rem; margin-right: 0; }
+   .imob_imovel_ficha_1_compartilhar{display: none; }
+   .imob_imovel_ficha_1_favorito{ display: none; }
+   .imob_imovel_ficha_2_especs{ width: 100%; float: left; text-align: center; }
+   .imob_imovel_ficha_2_finan{ text-align: center; }
+   .imob_imovel_ficha_2_finan span{ font-size: 1.6rem; }
+   .imob_imovel_ficha_2_especs li{ width: 50%; height: 4rem; line-height: 4rem; float: left; font-size: 1.6rem; margin-right: 0; }
+   .imob_imovel_ficha_2_descricao{ width: 100%; margin-right: 0; }
+   .imob_imovel_ficha_2_descricao_titulo h1{ font-size: 2.5rem; }
+   .imob_imovel_ficha_2_descricao_infra_lista{ margin-right: 1rem; }
+   .imob_imovel_ficha_2_descricao_infra_lista li, .imob_imovel_ficha_2_descricao_infra_lista_2 li{ font-size: 1.3rem; margin-bottom: 0.7rem; }
+   .imob_imovel_ficha_2_descricao_infra_lista_2{ width: calc(50% - 1rem); }
+   .imob_imovel_ficha_2_proposta{ width: 100%; margin-top: 6rem; }
+   .imob_imovel_ficha_2_proposta_titulo h1{ font-size: 2.5rem; }
+   .imob_imovel_ficha_mapa div#mapa{ height: 30rem !important; }
+   .imob_imovel_ficha_mapa_titulo h1{ font-size: 2.5rem; }
+}
+
+@media only screen and (max-width: 425px) {
+   .imob_imovel_ficha_fotos_img{ height: 24rem; }
+}
+
+@media only screen and (max-width: 375px) {
+   .imob_imovel_ficha_fotos_img{ height: 21rem; }
+}
+
+@media only screen and (max-width: 320px) {
+   .imob_imovel_ficha_fotos_img{ height: 18rem; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   .imob_imovel_ficha_fotos_img{ height: 15rem; }
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation: landscape){
+   .imob_imovel_ficha_fotos_img{ height: 15rem; }
+   .imob_imovel_ficha_mapa div#mapa{ height: 40rem !important; }
+}
+
+
+
+
+/* ************************************************************************************************************************** */
+/*          CADASTRAR IMÓVEL           CADASTRAR IMÓVEL           CADASTRAR IMÓVEL           CADASTRAR IMÓVEL                 */
+/* ************************************************************************************************************************** */
+section.imob_cadastrar_imovel{ width: 100%; padding: 6rem 0; font-size: 1.6rem; }
+.imob_cadastrar_imovel_titulo{ width: 100%; padding-bottom: 1.5rem; margin-bottom: 3rem; border-bottom: 1px solid #C5C5C5; }
+.imob_cadastrar_imovel_titulo h1{ font-size: 2.8rem; }
+.imob_form_cadastrar_imovel_aviso{ margin-bottom: 3rem; }
+.imob_form_cadastrar_imovel_aviso span{ display: block; font-size: 1.5rem; font-style: italic; }
+.imob_cadastrar_imovel_form{ width: 100%; }
+form#imob_form_cadastrar_imovel{ width: 100%; }
+.imob_form_cadastrar_imovel_dados_1{ width: 100%; margin-bottom: 4rem; }
+.imob_form_cadastrar_imovel_dados_1 h2{ font-weight: bold; margin-bottom: 2rem; }
+.imob_form_cadastrar_imovel_dados_2{ width: 100%; }
+.imob_form_cadastrar_imovel_dados_2 h2{ font-weight: bold; margin-bottom: 2rem; }
+.imob_form_cadastrar_imovel_bloco{ margin-bottom: 1.5rem; }
+.imob_form_cadastrar_imovel_bloco#bloco_quero{ width: 49%; float: left; }
+.imob_form_cadastrar_imovel_bloco#bloco_tipo{ width: 49%; float: right; }
+.imob_form_cadastrar_imovel_bloco#bloco_cidade{ width: 49%; float: left; }
+.imob_form_cadastrar_imovel_bloco#bloco_cep{ width: 49%; float: right; }
+.imob_form_cadastrar_imovel_bloco#bloco_endereco{ width: 49%; float: left; }
+.imob_form_cadastrar_imovel_bloco#bloco_bairro{ width: 49%; float: right; }
+.imob_form_cadastrar_imovel_bloco#bloco_maisinfo{ width: 100% }
+.imob_form_cadastrar_imovel_bloco#bloco_nome{ width: 100% }
+.imob_form_cadastrar_imovel_bloco#bloco_email{ width: 49%; float: left; }
+.imob_form_cadastrar_imovel_bloco#bloco_telefone{ width: 49%; float: right; }
+.imob_form_cadastrar_imovel_bloco#bloco_outrasinfo{ width: 100% }
+.imob_form_cadastrar_imovel_bloco#bloco_botao{ width: 25rem; margin: 0 auto; }
+.imob_form_cadastrar_imovel_label{ width: 100%; margin-bottom: 0.5rem; }
+.imob_form_cadastrar_imovel_label label{ font-size: 1.4rem; }
+.imob_form_cadastrar_imovel_select{ width: 100%; height: 4rem; border: 1px solid #E4E4E4; display: block; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_select select{ width: 100%; height: 100%; padding: 0.5rem 1rem; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_select h1{ width: 100%; height: 100%; padding: 0.9rem 1rem; }
+.imob_form_cadastrar_imovel_input{ width: 100%; height: 4rem; border: 1px solid #E4E4E4; display: block; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_input input{ width: 100%; height: 100%; padding: 0.5rem 1rem; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_textarea{ width: 100%; height: 10rem; border: 1px solid #E4E4E4; display: block; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_textarea textarea{ width: 100%; height: 100%; padding: 0.5rem 1rem; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_button{ width: 100%; height: 4rem; display: block; border-radius: 0.4rem; }
+.imob_form_cadastrar_imovel_button button{ width: 100%; height: 100%; color: #fff; border-radius: 0.4rem; cursor: pointer }
+
+
+
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+   
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+   
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_form_cadastrar_imovel_bloco#bloco_botao{ width: 100%; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_cadastrar_imovel_titulo{ text-align: center; }
+   .imob_form_cadastrar_imovel_bloco#bloco_quero{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_tipo{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_cidade{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_cep{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_endereco{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_bairro{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_email{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_telefone{ width: 100%; float: none; }
+   .imob_form_cadastrar_imovel_bloco#bloco_botao{ width: 100%; }
+}
+
+/*       IPAD PRO VERTICAL       */
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (orientation: portrait){
+   
+}
+
+/*       IPAD HORIZONTAL       */
+@media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation: landscape){
+
+}
+
+
+
+
+/* ************************************************************************************************************************** */
+/*          RODAPE           RODAPE           RODAPE           RODAPE           RODAPE                                        */
+/* ************************************************************************************************************************** */
+footer.imob_rodape{ padding: 4rem 0 0 0; background-color: #333333; color: #fff; font-size: 1.6rem; clear: both; }
+.imob_rodape_opcoes_item{ width: calc(100% / 4); float: left; }
+.imob_rodape_opcoes_item_titulo{ width: 100%; margin-bottom: 4rem; }
+.imob_rodape_opcoes_item_titulo h1{ font-size: 2rem; }
+.imob_rodape_opcoes_item_tipos{ width: 100%; }
+.imob_rodape_opcoes_item_tipos a.btn_padrao{ width: 20rem; display: block; text-align: center; padding: 1rem 0; margin-bottom: 1rem; }
+.imob_rodape_opcoes_item_tipos a.btn_padrao:hover{ background-color: #fff; transition: .3s; }
+.imob_rodape_opcoes_item_empresa ul{ list-style-type: none; }
+.imob_rodape_opcoes_item_empresa ul li{ display: block; margin-bottom: 1rem; }
+.imob_rodape_opcoes_item_empresa ul li:last-of-type{ margin-bottom: 0; }
+.imob_rodape_opcoes_item_empresa ul li a{ font-size: 1.4rem; }
+.imob_rodape_opcoes_item_empresa ul li a:hover{ text-decoration: underline; transition: .3s; }
+.imob_rodape_opcoes_item_atendimento ul{ list-style-type: none; }
+.imob_rodape_opcoes_item_atendimento ul li{ display: block; margin-bottom: 1rem; }
+.imob_rodape_opcoes_item_atendimento ul li:last-of-type{ margin-bottom: 0; }
+.imob_rodape_opcoes_item_atendimento ul li a{ font-size: 1.4rem; }
+.imob_rodape_opcoes_item_atendimento ul li a:hover{ text-decoration: underline; transition: .3s; }
+.imob_rodape_opcoes_item_redes ul{ list-style-type: none; }
+.imob_rodape_opcoes_item_redes ul li{ width: 4.5rem; background-color: #fff; color: #333333; text-align: center; display: inline-block; margin-right: 1rem; margin-bottom: 1.5rem; border-radius: 100%; }
+.imob_rodape_opcoes_item_redes ul li:last-of-type{ margin-right: 0; }
+.imob_rodape_opcoes_item_redes ul li a{ width: 100%; border-radius: 100%; display: inline-block; font-size: 1.8rem; padding: 1rem; }
+.imob_rodape_opcoes_item_redes ul li:hover{ transform: scale(1.15, 1.15); transition: .2s; }
+.imob_assinatura{ margin-top: 4rem; padding: 1.5rem 0; }
+.imob_assinatura_texto{ text-align: center; }
+
+/*    DESKTOP LARGE    */
+@media screen and (min-width: 1320px) {
+
+}
+
+/*        DESKTOP      */
+@media screen and (min-width: 1024px) and (max-width: 1319px) {
+
+}
+
+/*       TABLET        */
+@media only screen and (min-width: 641px) and (max-width: 1023px) {
+   .imob_rodape_opcoes_item_tipos a.btn_padrao{ width: 15rem; }
+   .imob_rodape_opcoes_item_redes ul li{ width: 3.5rem; }
+   .imob_rodape_opcoes_item_redes ul li a{ padding: 0.5rem; }
+}
+
+/*       CELULAR       */
+@media only screen and (max-width: 640px) {
+   .imob_rodape_opcoes_item{ width: 100%; }
+   .imob_assinatura_texto p{ font-size: 1.3rem; }
+   .imob_rodape_opcoes_item_tipos a.btn_padrao{ width: 100%; }
+   .imob_rodape_opcoes_item:nth-child(2), .imob_rodape_opcoes_item:nth-child(3){ display: none; }
+   .imob_rodape_opcoes_item:nth-child(4){ text-align: center; margin-top: 3rem; }
+
+}

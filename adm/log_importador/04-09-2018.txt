@@ -1,0 +1,230 @@
+04/09/2018 10:01:13
+PRIMEIRA IMPORTACAO = 0 
+XML parseado. Iniciando importacao dos imoveis. 
+
+
+FIM DA IMPORTACAO 
+0 IMOVEIS NO TOTAL04/09/2018 10:02:26
+PRIMEIRA IMPORTACAO = 0 
+XML parseado. Iniciando importacao dos imoveis. 
+
+04/09/2018 10:03:22
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 10:03:51
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 10:04:25
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 10:04:53
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 10:06:58
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 10:07:19
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+04/09/2018 04:14:35
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:15:32
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:16:24
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:17:07
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:17:09
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:17:31
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:18:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:18:49
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:19:14
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:19:36
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:21:11
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:21:33
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:22:07
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:22:27
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:22:32
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:22:35
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:24:19
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:24:44
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:25:14
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:25:50
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:26:25
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:26:39
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:27:09
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:27:24
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:27:44
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:27:59
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:34:19
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------
+04/09/2018 04:34:42
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+
+INICIO IMOVEL 199 
+----------------------------------

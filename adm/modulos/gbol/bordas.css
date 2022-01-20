@@ -1,0 +1,15 @@
+.box1t, .box1b, .box1tl, .box1tr {background-image:url(boxxt.gif); height:4px}
+.box1l, .box1r, .box1bl, .box1bl, .box1br {background-image:url(boxyb.gif); width:4px}
+
+.box1tl {background-position: right -20px; background-repeat: no-repeat}
+.box1t  {background-position: 0 -25px;     background-repeat: repeat-x}
+.box1tr {background-position: 0 -35px;     background-repeat: no-repeat}
+
+.box1bl {background-position: -20px 0;     background-repeat: no-repeat}
+.box1b  {background-position: 0 -30px;     background-repeat: repeat-x}
+.box1br {background-position: -35px 0;     background-repeat: no-repeat}
+
+.box1l  {background-position: -25px 0px;     background-repeat: repeat-y}
+.box1r  {background-position: -30px 0px;     background-repeat: repeat-y}
+
+.box1c  {background:#ffffff;padding:8px}

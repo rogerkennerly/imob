@@ -1,0 +1,673 @@
+27/09/2018 08:30:51
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 618 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 144603611901.jpg SERA IMPORTADA 
+A FOTO 144603611902.jpg SERA IMPORTADA 
+A FOTO 144603611903.jpg SERA IMPORTADA 
+A FOTO 144603611904.jpg SERA IMPORTADA 
+A FOTO 144603612005.jpg SERA IMPORTADA 
+A FOTO 144603618901.jpg SERA IMPORTADA 
+A FOTO 144603618902.jpg SERA IMPORTADA 
+A FOTO 144603618903.jpg SERA IMPORTADA 
+A FOTO 144603618904.jpg SERA IMPORTADA 
+A FOTO 144603619005.jpg SERA IMPORTADA 
+A FOTO SAM_3577.jpg SERA IMPORTADA 
+A FOTO SAM_3578.jpg SERA IMPORTADA 
+A FOTO SAM_3580.jpg SERA IMPORTADA 
+A FOTO SAM_3582.jpg SERA IMPORTADA 
+A FOTO SAM_3583.jpg SERA IMPORTADA 
+A FOTO SAM_3584.jpg SERA IMPORTADA 
+A FOTO SAM_3585.jpg SERA IMPORTADA 
+A FOTO SAM_3586.jpg SERA IMPORTADA 
+A FOTO SAM_3587.jpg SERA IMPORTADA 
+A FOTO SAM_3588.jpg SERA IMPORTADA 
+A FOTO SAM_3589.jpg SERA IMPORTADA 
+A FOTO SAM_3591.jpg SERA IMPORTADA 
+A FOTO SAM_3592.jpg SERA IMPORTADA 
+A FOTO SAM_3594.jpg SERA IMPORTADA 
+A FOTO SAM_3595.jpg SERA IMPORTADA 
+A FOTO SAM_3596.jpg SERA IMPORTADA 
+A FOTO SAM_3597.jpg SERA IMPORTADA 
+A FOTO SAM_3598.jpg SERA IMPORTADA 
+A FOTO SAM_3599.jpg SERA IMPORTADA 
+A FOTO SAM_3600.jpg SERA IMPORTADA 
+A FOTO SAM_3601.jpg SERA IMPORTADA 
+A FOTO SAM_3607.jpg SERA IMPORTADA 
+A FOTO SAM_3609.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 831 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 146282055801.jpg SERA IMPORTADA 
+A FOTO 146282055902.jpg SERA IMPORTADA 
+A FOTO 146282055903.jpg SERA IMPORTADA 
+A FOTO 146282055904.jpg SERA IMPORTADA 
+A FOTO 146282055905.jpg SERA IMPORTADA 
+A FOTO 146282058701.jpg SERA IMPORTADA 
+A FOTO 146282058702.jpg SERA IMPORTADA 
+A FOTO 146282058703.jpg SERA IMPORTADA 
+A FOTO 146282058704.jpg SERA IMPORTADA 
+A FOTO 146282058705.jpg SERA IMPORTADA 
+A FOTO 146282062101.jpg SERA IMPORTADA 
+A FOTO 146282062202.jpg SERA IMPORTADA 
+A FOTO 146282062203.jpg SERA IMPORTADA 
+A FOTO 146282062204.jpg SERA IMPORTADA 
+A FOTO 146282062205.jpg SERA IMPORTADA 
+A FOTO 146282062301.jpg SERA IMPORTADA 
+A FOTO 146282062402.jpg SERA IMPORTADA 
+A FOTO 146282062403.jpg SERA IMPORTADA 
+A FOTO 146282062404.jpg SERA IMPORTADA 
+A FOTO 146282071601.jpg SERA IMPORTADA 
+A FOTO 146282071602.jpg SERA IMPORTADA 
+A FOTO 146282071703.jpg SERA IMPORTADA 
+A FOTO 146282071704.jpg SERA IMPORTADA 
+A FOTO 146282071705.jpg SERA IMPORTADA 
+A FOTO 146282074101.jpg SERA IMPORTADA 
+A FOTO 146282074102.jpg SERA IMPORTADA 
+A FOTO 146282074103.jpg SERA IMPORTADA 
+A FOTO 146282074104.jpg SERA IMPORTADA 
+A FOTO 146282074105.jpg SERA IMPORTADA 
+A FOTO 146282076801.jpg SERA IMPORTADA 
+A FOTO 146282076802.jpg SERA IMPORTADA 
+A FOTO 146282076803.jpg SERA IMPORTADA 
+A FOTO 146282076804.jpg SERA IMPORTADA 
+A FOTO 146282076805.jpg SERA IMPORTADA 
+A FOTO 146282077701.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 888 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 1162 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 149062528101.jpg SERA IMPORTADA 
+A FOTO 149062528102.jpg SERA IMPORTADA 
+A FOTO 149062528104.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 1266 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 150333712901.jpg SERA IMPORTADA 
+A FOTO 150333712902.jpg SERA IMPORTADA 
+A FOTO 150333712903.jpg SERA IMPORTADA 
+A FOTO 150333712904.jpg SERA IMPORTADA 
+A FOTO 150333713005.jpg SERA IMPORTADA 
+A FOTO 150333717401.jpg SERA IMPORTADA 
+A FOTO 150333717402.jpg SERA IMPORTADA 
+A FOTO 150333717403.jpg SERA IMPORTADA 
+A FOTO 150333717404.jpg SERA IMPORTADA 
+A FOTO 150333717405.jpg SERA IMPORTADA 
+A FOTO 150333721001.jpg SERA IMPORTADA 
+A FOTO 150333721002.jpg SERA IMPORTADA 
+A FOTO 150333721003.jpg SERA IMPORTADA 
+A FOTO 150333721004.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 1305 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 151619405401.jpg SERA IMPORTADA 
+A FOTO 151619405402.jpg SERA IMPORTADA 
+A FOTO 151619405403.jpg SERA IMPORTADA 
+A FOTO 151619405404.jpg SERA IMPORTADA 
+A FOTO 151619405405.jpg SERA IMPORTADA 
+A FOTO 151619408501.jpg SERA IMPORTADA 
+A FOTO 151619408502.jpg SERA IMPORTADA 
+A FOTO 151619408503.jpg SERA IMPORTADA 
+A FOTO 151619408604.jpg SERA IMPORTADA 
+A FOTO 151619408605.jpg SERA IMPORTADA 
+A FOTO 151619412201.jpg SERA IMPORTADA 
+A FOTO 151619412202.jpg SERA IMPORTADA 
+A FOTO 151619412303.jpg SERA IMPORTADA 
+A FOTO 151619412304.jpg SERA IMPORTADA 
+A FOTO 151619412305.jpg SERA IMPORTADA 
+A FOTO 151619415001.jpg SERA IMPORTADA 
+A FOTO 151619415102.jpg SERA IMPORTADA 
+A FOTO 151619415103.jpg SERA IMPORTADA 
+A FOTO 151619415104.jpg SERA IMPORTADA 
+A FOTO 151619415105.jpg SERA IMPORTADA 
+A FOTO 151619425702.jpg SERA IMPORTADA 
+A FOTO 151619425703.jpg SERA IMPORTADA 
+A FOTO 151619425804.jpg SERA IMPORTADA 
+A FOTO 151619425805.jpg SERA IMPORTADA 
+A FOTO 151619429901.jpg SERA IMPORTADA 
+A FOTO 151619429902.jpg SERA IMPORTADA 
+A FOTO 151619430003.jpg SERA IMPORTADA 
+A FOTO 151619430004.jpg SERA IMPORTADA 
+A FOTO 151619430005.jpg SERA IMPORTADA 
+A FOTO 151619432001.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 1341 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1369 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 151206206301.jpg SERA IMPORTADA 
+A FOTO 151206206302.jpg SERA IMPORTADA 
+A FOTO 151206206303.jpg SERA IMPORTADA 
+A FOTO 151206206304.jpg SERA IMPORTADA 
+A FOTO 151206206305.jpg SERA IMPORTADA 
+A FOTO 151206272801.jpg SERA IMPORTADA 
+A FOTO 151206272802.jpg SERA IMPORTADA 
+A FOTO 151206272803.jpg SERA IMPORTADA 
+A FOTO 151206272804.jpg SERA IMPORTADA 
+A FOTO 151206272905.jpg SERA IMPORTADA 
+A FOTO 151206276901.jpg SERA IMPORTADA 
+A FOTO 151206276902.jpg SERA IMPORTADA 
+A FOTO 151206276903.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 1388 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 151576254201.jpg SERA IMPORTADA 
+A FOTO 151576254302.jpg SERA IMPORTADA 
+A FOTO 151576254303.jpg SERA IMPORTADA 
+A FOTO 151576254304.jpg SERA IMPORTADA 
+A FOTO 151576254305.jpg SERA IMPORTADA 
+A FOTO 151576257201.jpg SERA IMPORTADA 
+A FOTO 151576257202.jpg SERA IMPORTADA 
+A FOTO 151576257203.jpg SERA IMPORTADA 
+A FOTO 151576257204.jpg SERA IMPORTADA 
+A FOTO 151576257305.jpg SERA IMPORTADA 
+A FOTO 151576259801.jpg SERA IMPORTADA 
+A FOTO 151576259902.jpg SERA IMPORTADA 
+A FOTO 151576259903.jpg SERA IMPORTADA 
+A FOTO 151576259904.jpg SERA IMPORTADA 
+A FOTO 151576259905.jpg SERA IMPORTADA 
+A FOTO 151576263401.jpg SERA IMPORTADA 
+A FOTO 151576263402.jpg SERA IMPORTADA 
+A FOTO 151576263403.jpg SERA IMPORTADA 
+A FOTO 151576263404.jpg SERA IMPORTADA 
+A FOTO 151576263405.jpg SERA IMPORTADA 
+A FOTO 151576266401.jpg SERA IMPORTADA 
+A FOTO 151576266402.jpg SERA IMPORTADA 
+A FOTO 151576266403.jpg SERA IMPORTADA 
+A FOTO 151576266404.jpg SERA IMPORTADA 
+A FOTO 151576266505.jpg SERA IMPORTADA 
+A FOTO 151576278201.jpg SERA IMPORTADA 
+A FOTO 151576278202.jpg SERA IMPORTADA 
+A FOTO 151576278203.jpg SERA IMPORTADA 
+A FOTO 151576278204.jpg SERA IMPORTADA 
+A FOTO 151576278205.jpg SERA IMPORTADA 
+A FOTO 151576282101.jpg SERA IMPORTADA 
+A FOTO 151576282102.jpg SERA IMPORTADA 
+A FOTO 151576282203.jpg SERA IMPORTADA 
+A FOTO 151576282204.jpg SERA IMPORTADA 
+A FOTO 151576282205.jpg SERA IMPORTADA 
+A FOTO 151576284901.jpg SERA IMPORTADA 
+A FOTO 151576284902.jpg SERA IMPORTADA 
+A FOTO 151576284903.jpg SERA IMPORTADA 
+A FOTO 151576284904.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 1415 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1457 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1466 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1470 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1471 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1472 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1473 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1476 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1482 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1483 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1484 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1485 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1486 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1487 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1488 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1489 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1490 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1491 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1492 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1494 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1495 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1496 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1498 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1501 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1502 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1503 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1504 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1505 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1507 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1508 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1509 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1510 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1513 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1514 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1515 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1517 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1518 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1519 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1522 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1523 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1524 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1525 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1526 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1527 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1529 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1530 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1532 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1534 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1535 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1537 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1538 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1540 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1546 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1547 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1548 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1549 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1550 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1552 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1553 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1554 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1555 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1556 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1557 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1568 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1569 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1572 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1573 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1574 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1576 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1578 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1579 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1580 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1581 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1583 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1584 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1585 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1586 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1589 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1590 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1591 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1592 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1593 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1594 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1595 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1596 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1597 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1602 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1603 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1604 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1605 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+INICIO IMOVEL 1606 
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+======================================================================================================= 
+
+FIM DA IMPORTACAO 
+100 IMOVEIS NO TOTAL

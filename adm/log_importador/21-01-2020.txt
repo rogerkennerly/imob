@@ -1,0 +1,1943 @@
+21/01/2020 08:02:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+
+INICIO IMOVEL 167A 
+----------------------------------
+
+INICIO IMOVEL 125V 
+----------------------------------
+
+INICIO IMOVEL 127V 
+----------------------------------
+
+INICIO IMOVEL 179A 
+----------------------------------
+
+INICIO IMOVEL 146V 
+----------------------------------
+
+INICIO IMOVEL 149V 
+----------------------------------
+
+INICIO IMOVEL 209A 
+----------------------------------
+
+INICIO IMOVEL 153V 
+----------------------------------
+
+INICIO IMOVEL 156V 
+----------------------------------
+
+INICIO IMOVEL 157V 
+----------------------------------
+
+INICIO IMOVEL 161V 
+----------------------------------
+
+INICIO IMOVEL 163V 
+----------------------------------
+
+INICIO IMOVEL 164V 
+----------------------------------
+
+INICIO IMOVEL 165V 
+----------------------------------
+
+INICIO IMOVEL 166V 
+----------------------------------
+
+INICIO IMOVEL 240A 
+----------------------------------
+
+INICIO IMOVEL 243A 
+----------------------------------
+
+INICIO IMOVEL 169V 
+----------------------------------
+
+INICIO IMOVEL 171V 
+----------------------------------
+
+INICIO IMOVEL 172V 
+----------------------------------
+
+INICIO IMOVEL 173V 
+----------------------------------
+
+INICIO IMOVEL 174V 
+----------------------------------
+
+INICIO IMOVEL 175V 
+----------------------------------
+
+INICIO IMOVEL 177V 
+----------------------------------
+
+INICIO IMOVEL 250A 
+----------------------------------
+
+INICIO IMOVEL 253A 
+----------------------------------
+
+INICIO IMOVEL 178V 
+----------------------------------
+
+INICIO IMOVEL 180V 
+----------------------------------
+
+INICIO IMOVEL 181V 
+----------------------------------
+
+INICIO IMOVEL 182V 
+----------------------------------
+
+INICIO IMOVEL 270A 
+----------------------------------
+
+INICIO IMOVEL 274A 
+----------------------------------
+
+INICIO IMOVEL 185V 
+----------------------------------
+
+INICIO IMOVEL 187V 
+----------------------------------
+
+INICIO IMOVEL 188V 
+----------------------------------
+
+INICIO IMOVEL 189V 
+----------------------------------
+
+INICIO IMOVEL 276A 
+----------------------------------
+
+INICIO IMOVEL 190V 
+----------------------------------
+
+INICIO IMOVEL 191V 
+----------------------------------
+
+INICIO IMOVEL 278A 
+----------------------------------
+
+INICIO IMOVEL 192V 
+----------------------------------
+
+INICIO IMOVEL 193V 
+----------------------------------
+
+INICIO IMOVEL 280A 
+----------------------------------
+
+FIM DA IMPORTACAO 
+44 IMOVEIS NO TOTAL21/01/2020 08:12:19
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 125V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ce21fbe9838f5400e2ab491fedaa596b.JPG SERA IMPORTADA 
+A FOTO 9268e4f2cbcfc5edae80466911d9ac26.JPG SERA IMPORTADA 
+A FOTO 99b99f6b5b41747b96b1d5190497c3d3.JPG SERA IMPORTADA 
+A FOTO 18baef486151ee14b825deee7bbfb896.JPG SERA IMPORTADA 
+A FOTO 8868a55a34f767d0cced9df31b605206.JPG SERA IMPORTADA 
+A FOTO 4bf53759ddf1fac07ca1fb3f5043df6e.JPG SERA IMPORTADA 
+A FOTO 776d53a890b2ee2bf2eb097c55ec2374.JPG SERA IMPORTADA 
+A FOTO 036efe462067502e79bb85f67b7da099.JPG SERA IMPORTADA 
+A FOTO 90b2241d45a20d65242a1ea6bd6175fd.JPG SERA IMPORTADA 
+A FOTO f00f96dc33ccbfaba988ba42b6f1d081.JPG SERA IMPORTADA 
+A FOTO 496803c17948f93e59cd837e5205b77d.JPG SERA IMPORTADA 
+A FOTO 23deb3b6ff5c52ae8deea3a088ffccd1.JPG SERA IMPORTADA 
+A FOTO 3de52c288a48e4f46add80eb3887bc41.JPG SERA IMPORTADA 
+A FOTO 67be89981062d5b1b03f8773a7a4bdaf.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 127V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 8cd01244d1d1ebd432c23344dc3ecf2c.JPG SERA IMPORTADA 
+A FOTO 980a3f39e1ffc8583bb298bde99e429b.JPG SERA IMPORTADA 
+A FOTO 3e3bf9f95e01e024aeba8a1c7ffe1e94.JPG SERA IMPORTADA 
+A FOTO 0b92a53608b4b6493d93b5b81f74c7cc.JPG SERA IMPORTADA 
+A FOTO 4ef0536e09953349145890116a3b5bfa.JPG SERA IMPORTADA 
+A FOTO f1f6e66d63a41e2ceef943ca0c8c12d1.JPG SERA IMPORTADA 
+A FOTO 707ebb45fa6b17c31c0243921ff65944.JPG SERA IMPORTADA 
+A FOTO 733941f4c25da2600481ab53f51384a2.JPG SERA IMPORTADA 
+A FOTO ab5d09ac5d794e706b6bc0093388d63b.JPG SERA IMPORTADA 
+A FOTO a9cce513c232064b96e953320f2a838c.JPG SERA IMPORTADA 
+A FOTO 4d6dc769cffe50fa6ef59804e114e8b3.JPG SERA IMPORTADA 
+A FOTO 4a67e54fbbcd7d27648cb9f997d12eff.JPG SERA IMPORTADA 
+A FOTO 8012c2495b2f48d12050b8d69f0c9168.JPG SERA IMPORTADA 
+A FOTO a56b6fa0c1595d85d42e4a875c26e948.JPG SERA IMPORTADA 
+A FOTO b70a84ad692321a84c7fad3be7b43640.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 179A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO d65b9c91cff420bf6479430bd7eb947d.JPG SERA IMPORTADA 
+A FOTO 82df1acce225e11563503fa46ec9216d.JPG SERA IMPORTADA 
+A FOTO 76c89a5a0e6b814322da65379aadcc79.JPG SERA IMPORTADA 
+A FOTO 07edc7c2505cecccb0eb5fb8d5e99f3a.JPG SERA IMPORTADA 
+A FOTO f7f91f8e727b753b209a2709906fa197.JPG SERA IMPORTADA 
+A FOTO d82d199067e8688d44ca28d6c6d4c866.JPG SERA IMPORTADA 
+A FOTO 3c21f125a500e6cedbd5b9e9eb11299f.JPG SERA IMPORTADA 
+A FOTO 4cc9be532b6b7a437ec7e8abf76ef9f0.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 146V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fb865d9ad12884f0d22ebd7eabe09d1b.jpg SERA IMPORTADA 
+A FOTO 6f30c4d2329b32733421b6646e7a729b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 149V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 942bbff6689f4ac82ce6f368bce58571.jpg SERA IMPORTADA 
+A FOTO 927fc713e245ef4a8aa9fb77ee4ca8a3.jpg SERA IMPORTADA 
+A FOTO 1e211b2904a0b32953218d2bae7c4865.jpg SERA IMPORTADA 
+A FOTO 813f6213838d18e39e989a3f146789ba.jpg SERA IMPORTADA 
+A FOTO fee8bfc5310be5b3b8df2ed10f86cd8f.jpg SERA IMPORTADA 
+A FOTO c7105d7671e858e1562905e11361bfb3.jpg SERA IMPORTADA 
+A FOTO 0295651ccc2403ac9680e7c10e5857be.jpg SERA IMPORTADA 
+A FOTO 4e7de530781b9714fcb88b8165c9d6bf.jpg SERA IMPORTADA 
+A FOTO f98bc2f55f8966ea530f1d91e4d86fc5.jpg SERA IMPORTADA 
+A FOTO 6dc74390ad9748181961b7d454dde9a6.jpg SERA IMPORTADA 
+A FOTO e602533ec12a26b5e9b12a0dc547babe.jpg SERA IMPORTADA 
+A FOTO 19c1c8ba8e6dd653d5ec8017f886dd5a.jpg SERA IMPORTADA 
+A FOTO e501e569efd3474a24d9543541df0765.jpg SERA IMPORTADA 
+A FOTO f033a0389fd7a48aa576d1ee6bb9ed5e.jpg SERA IMPORTADA 
+A FOTO aa858a93beb77cf556059c084ace1d1c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 209A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ff475ac292da05296f9ba2124b0db48f.jpg SERA IMPORTADA 
+A FOTO cb97c445d84d71009ed2fc79de622ae4.jpg SERA IMPORTADA 
+A FOTO beaafd25d01c55a31a5198f2d92e8e2f.jpg SERA IMPORTADA 
+A FOTO 58317433ee17292f447509fc31804e93.jpg SERA IMPORTADA 
+A FOTO 2deaa52c7d8a07f82cc1dfce7d55e527.jpg SERA IMPORTADA 
+A FOTO 4355d19a9310f72bc32a1ffde487f951.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 153V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 1c9ef1cffd7945f2845cc317eb75024e.jpg SERA IMPORTADA 
+A FOTO a67137ea782ede627e70c6e9844a310e.jpg SERA IMPORTADA 
+A FOTO c24336221b7204a916db67274e011563.jpg SERA IMPORTADA 
+A FOTO 281540c54433093220a0fccb033c5fb7.jpg SERA IMPORTADA 
+A FOTO 87cf4f41bf7864dd77238b7540612d42.jpg SERA IMPORTADA 
+A FOTO e0701105bff9920aaf4234efbb0f1056.jpg SERA IMPORTADA 
+A FOTO 990eddbe7ed13e4994e4afed91dbd730.jpg SERA IMPORTADA 
+A FOTO a105a7e626f4392654e07cd568060bda.jpg SERA IMPORTADA 
+A FOTO d3419bc9df23b08d5ec28206e90d4079.jpg SERA IMPORTADA 
+A FOTO 757f167981fc185ca490679c1e164926.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 156V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO b87f7a41e532b35c871c590d665ea67d.jpg SERA IMPORTADA 
+A FOTO ef511ca647f7543e402737caedf06b97.jpg SERA IMPORTADA 
+A FOTO 6a3ad1365dbce6ded6e08c492375f492.jpg SERA IMPORTADA 
+A FOTO 7ad227383afd3acd94bd4ef5ab8b40d3.jpg SERA IMPORTADA 
+A FOTO 28ba7d4f6053bef330baf934ef8aa680.jpg SERA IMPORTADA 
+A FOTO a8757593084d39270dbbbbb8ebddb753.jpg SERA IMPORTADA 
+A FOTO 028a0d57a653732c82b5048911994e18.jpg SERA IMPORTADA 
+A FOTO 607b950e1f340908fa7b25766eaa6abf.jpg SERA IMPORTADA 
+A FOTO 599c8b4d6ee65c50ee4829f607a770f0.jpg SERA IMPORTADA 
+A FOTO 3edd9b450a8223a6cdf4caca950ef7cc.jpg SERA IMPORTADA 
+A FOTO 92382be93614f66faa9cc7982efd7d8a.jpg SERA IMPORTADA 
+A FOTO 230d9c68eb5a44458f453269538da689.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 157V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 562e0f6a3f01ef0ecad4220a260898ad.jpg SERA IMPORTADA 
+A FOTO 458396248c5b9562e458759373a1f913.jpg SERA IMPORTADA 
+A FOTO abcd68d969d6127d22a505adc3c53548.jpg SERA IMPORTADA 
+A FOTO d8220caeae7e2b9ef5796d03ed19c375.jpg SERA IMPORTADA 
+A FOTO d3cea35ab22b84ef6fe87451b9fb317c.jpg SERA IMPORTADA 
+A FOTO 195cf20f97b5d709b4b1ed4ee11b4f4b.jpg SERA IMPORTADA 
+A FOTO c6abc64718cd9b6e1855a3053d96417d.jpg SERA IMPORTADA 
+A FOTO 006f526b21ce41a44b0a2855fc351ab8.jpg SERA IMPORTADA 
+A FOTO d1efb4e8f7349a204600377e0615a8de.jpg SERA IMPORTADA 
+A FOTO 10824953e7a3cf0c56e95991706011ce.jpg SERA IMPORTADA 
+A FOTO 935f8e0731f6586db4a8d81a418d1cbe.jpg SERA IMPORTADA 
+A FOTO 91957f31f25a4e93bdc2ae9beb467205.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 161V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2bbf0fc510544ae3d2e7edb9caf59325.jpg SERA IMPORTADA 
+A FOTO e15b72b9e0c5222e6bcd963d4b1288c9.jpg SERA IMPORTADA 
+A FOTO 13941168f2075d331253df5ed399357f.jpg SERA IMPORTADA 
+A FOTO b206e4f7e199e402940a4ba755740bc3.jpg SERA IMPORTADA 
+A FOTO ac9dbf7f7d0fc6e3b8ab347b1b0a5426.jpg SERA IMPORTADA 
+A FOTO e0d9b899d5b763d24b3ba5d635a6774a.jpg SERA IMPORTADA 
+A FOTO 3722934994878fd2c4c510962e748646.jpg SERA IMPORTADA 
+A FOTO 0cb067ba86b4a66ca9f1838ff6953bf7.jpg SERA IMPORTADA 
+A FOTO d42d7f2a7cd9bf32e59830e7ed3e1cf9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 163V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c9ff82bd72f0d41e609100343f9ce22.jpg SERA IMPORTADA 
+A FOTO a95609e9b9a0aaac04a7c3c3a1777c1c.jpg SERA IMPORTADA 
+A FOTO 551a8e8f144f377dc9b606a9248277fd.jpg SERA IMPORTADA 
+A FOTO e1f1b57f4260ac8b4e39309816d23913.jpg SERA IMPORTADA 
+A FOTO 95e9db320fb22a5367a6ad919fa3b306.jpg SERA IMPORTADA 
+A FOTO 9fd7da454b3a42845ff5d8124f0ab3ab.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 164V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 935e13611f2f2dbc6285eb6c6d13aed5.jpg SERA IMPORTADA 
+A FOTO 46dbee4a89a4f3a880593ab2475ffe90.jpg SERA IMPORTADA 
+A FOTO 851e6b686a19cc7dc144466ba124c967.jpg SERA IMPORTADA 
+A FOTO 86c617f9bfa6273ebaf9ed09e00aec7e.png SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 165V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f0935dd9a0e22745bd4e3f243955d743.jpg SERA IMPORTADA 
+A FOTO 478139213b485a1333a38a411e252f67.jpg SERA IMPORTADA 
+A FOTO c72e0db1e725445d0c5fac6ad1226b15.jpg SERA IMPORTADA 
+A FOTO b89ac06229d45a9cd0ddaac32aee1159.jpg SERA IMPORTADA 
+A FOTO bed087a76b2fdafeae9da59d29aa02bd.jpg SERA IMPORTADA 
+A FOTO 1d29db3cd548782e3f43c9a9dafc1ca2.jpg SERA IMPORTADA 
+A FOTO cd49ce635d1af1d27d0f2845c0aad47e.jpg SERA IMPORTADA 
+A FOTO e1cdd0eee32011e55224e44ea10941aa.jpg SERA IMPORTADA 
+A FOTO a911fbd8a2f81f40614f47e7797bf0f6.jpg SERA IMPORTADA 
+A FOTO c43af452313362657f076dd3ab797e30.jpg SERA IMPORTADA 
+A FOTO 2c1ddce7db153057e1ca161ac7cc534d.jpg SERA IMPORTADA 
+A FOTO 68aa9dd0bffb511c93ae8e8f9a6cc146.jpg SERA IMPORTADA 
+A FOTO aeb78124bfc2a6fd5fad42448ad1c867.jpg SERA IMPORTADA 
+A FOTO 158bae2fd1f647b9a6ad4f0a24d3988c.jpg SERA IMPORTADA 
+A FOTO efd5bf6a1f9ffee91494c287bb9c1628.jpg SERA IMPORTADA 
+A FOTO 8f1d13aae3752de059099b13e34e0dac.jpg SERA IMPORTADA 
+A FOTO b1c9f95b1d3818d5071153df42241397.jpg SERA IMPORTADA 
+A FOTO 2ef0240abaed5d6e89e47b3051d2eb32.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 166V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f42061be89828743e4bd92b29c6f40a3.jpeg SERA IMPORTADA 
+A FOTO 68052f23801eefc4784e685c647640b2.jpg SERA IMPORTADA 
+A FOTO 740a019d8ca9dc08bde76552b41330b5.jpg SERA IMPORTADA 
+A FOTO cba5d6761ead906490f2c04cca586a37.jpg SERA IMPORTADA 
+A FOTO 945de82032c051de82c3f34e6528a63a.jpg SERA IMPORTADA 
+A FOTO 093b2a161469b88dad19275232f050bf.jpg SERA IMPORTADA 
+A FOTO b341937c58eac56f7f4042db2a80db6e.jpg SERA IMPORTADA 
+A FOTO ddfc9e8c495c49e254ce480f3e0de9c1.jpg SERA IMPORTADA 
+A FOTO 34d83c4c803361a0467b8ebdbdb186d7.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 240A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 302dfccfb16e4d1e21512dd29be4b1cd.jpg SERA IMPORTADA 
+A FOTO a2efaa91107c916eb468bfa3a5e61610.jpg SERA IMPORTADA 
+A FOTO eb4f566e057909caa45790f3de524d24.jpg SERA IMPORTADA 
+A FOTO ff77fa120bfb0033c543d5884af15e76.jpg SERA IMPORTADA 
+A FOTO 0df6be25d203569856dba0135dc08656.jpg SERA IMPORTADA 
+A FOTO 17f2a45f6d45ef665a6abd0589482ed4.jpg SERA IMPORTADA 
+A FOTO f9072e14c611cd98b04c82859cd93798.jpg SERA IMPORTADA 
+A FOTO 9813314656e71d49f7b084b7bfafe52e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 243A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 568e5ad66431c59edf1949068b1dbd1b.jpeg SERA IMPORTADA 
+A FOTO 320055a3ddacae9c78b15f418d91a870.jpg SERA IMPORTADA 
+A FOTO b79ba379a9f92e4d0e03c22c96d23f7a.jpg SERA IMPORTADA 
+A FOTO ee0258eeb086804b01a608da683baf67.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 169V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a258db6383cf1e92956e4213c8f4bad.jpg SERA IMPORTADA 
+A FOTO 851974fb9bf50e0c3ac1e5c6ca6a4676.jpg SERA IMPORTADA 
+A FOTO 09c6ec7ca2cfd0b18d3b652150fa2475.jpg SERA IMPORTADA 
+A FOTO 170bd25926b763409fbd3fbf6f21919e.jpg SERA IMPORTADA 
+A FOTO 76f64d1b6acac2332049fe88c164c236.jpg SERA IMPORTADA 
+A FOTO 4032863eba91bb33bcf672722969d93b.jpg SERA IMPORTADA 
+A FOTO 89e9c3945d168f2910df9b2e1659ac62.jpg SERA IMPORTADA 
+A FOTO 24913cf3650c054b05a6f94f4cae2277.jpg SERA IMPORTADA 
+A FOTO c3291ca147cd6f57f395386ea8c75427.jpg SERA IMPORTADA 
+A FOTO 1365aa7ee6f2c6cbb883270602e7ce2a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 171V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 27f1ba8dcec0d7fb2f83dc65929fbf68.jpg SERA IMPORTADA 
+A FOTO ef422946f1fe86534b3879c7daa30148.jpg SERA IMPORTADA 
+A FOTO 92d4d944b1c6fccfc0e1961ca1860d57.jpg SERA IMPORTADA 
+A FOTO b52a95584492d9f4370978b509b9bc8c.jpg SERA IMPORTADA 
+A FOTO 611b9b9f6491a860a11d6e69ab18b108.jpg SERA IMPORTADA 
+A FOTO 864423c660bed86ce087612545c38029.jpg SERA IMPORTADA 
+A FOTO efd5afd11a16326c81d099c671012438.jpg SERA IMPORTADA 
+A FOTO 1305e5810845c54fa9929c3e3e3d818b.jpg SERA IMPORTADA 
+A FOTO a8cb0dea14462711d72253500f601add.jpg SERA IMPORTADA 
+A FOTO ce51380dd69a8d1708773df20b37fc60.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 172V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268befda2d2f669bffad24f5585b2134.jpg SERA IMPORTADA 
+A FOTO 9755aec2ef8c2d6d3df2e93bc8a6aa2d.jpg SERA IMPORTADA 
+A FOTO 24fe701a90b034224d9093f4f226e14b.jpg SERA IMPORTADA 
+A FOTO 9f0812f575d441fa3d2da9d95c4eae0a.jpg SERA IMPORTADA 
+A FOTO 5ac1e0c67076d1fc39cf82d823e2907f.jpg SERA IMPORTADA 
+A FOTO f7d4e75094f78a70e861c494c9854044.jpg SERA IMPORTADA 
+A FOTO 5c9584915a6d4300027af5e9d6ee48d8.jpg SERA IMPORTADA 
+A FOTO b60148da72452b05fe40e82762f2da93.jpg SERA IMPORTADA 
+A FOTO d842bcf844d0f1559d61ad12b2d4f9cd.jpg SERA IMPORTADA 
+A FOTO d33852fceb0b0d3756ae5b4c2ff6bf0a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 173V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7284d57dd0f34ab42377be1c3a1a9f69.jpg SERA IMPORTADA 
+A FOTO f76de19bfb1999d5069e9e7ecff3e504.jpg SERA IMPORTADA 
+A FOTO 84274fca33c3228632554b84ae430636.jpg SERA IMPORTADA 
+A FOTO a10742827313939c8c053f14a3146bd0.jpg SERA IMPORTADA 
+A FOTO eeda4cb0bc80add5fefd87dc0fa02b7d.jpg SERA IMPORTADA 
+A FOTO fca280f3a553b6ee745eb1094117dec2.jpg SERA IMPORTADA 
+A FOTO 0358c89e1580f1e3ace79f50fc1c813a.jpg SERA IMPORTADA 
+A FOTO 6d602546a9b7c321ceaa1d7b4565da96.jpg SERA IMPORTADA 
+A FOTO 7a357a94f90efec9c4a5c49ff0713e08.jpg SERA IMPORTADA 
+A FOTO c35d5bf38e8e5df9bfcabe8a69803d4e.jpg SERA IMPORTADA 
+A FOTO dd37195ca77d0e99f4c6abba45a35815.jpg SERA IMPORTADA 
+A FOTO e82e9326e1de2eddc6e16ad76c031e68.jpg SERA IMPORTADA 
+A FOTO 09627a069f7f79cd568575ff75a480ca.jpg SERA IMPORTADA 
+A FOTO 7a92590dbfdcba1fba57318b301936a1.jpg SERA IMPORTADA 
+A FOTO dd594650788bb4dba2fadaf17e073ca6.jpg SERA IMPORTADA 
+A FOTO 4a74e9a35dd371e077f9b6021541154f.jpg SERA IMPORTADA 
+A FOTO 21c8dacd2eccb055cda08015a379f47a.jpg SERA IMPORTADA 
+A FOTO 2b7c0724d3895bbf3cd449b43673ab80.jpg SERA IMPORTADA 
+A FOTO 7e5a619409438b9d9b2659a1aa77a872.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 174V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7158553a3725ca3bb696af25639a3137.jpg SERA IMPORTADA 
+A FOTO 29b8ab1f0d92dbd30c2933f29bdaf190.jpg SERA IMPORTADA 
+A FOTO 7038a953d2bea7e4e2deead53d3a6b7e.jpg SERA IMPORTADA 
+A FOTO c862132a22b37b4f0388aa74d19454a0.jpg SERA IMPORTADA 
+A FOTO b95a430504f282576aca60545f5476bc.jpg SERA IMPORTADA 
+A FOTO f0f9e13c79fa14cb92f98dd872be53d6.jpg SERA IMPORTADA 
+A FOTO f0244285cbe603076d8c233e1aed94d8.jpg SERA IMPORTADA 
+A FOTO 3e9281ee014a49a723ef8860bd89b1a6.jpg SERA IMPORTADA 
+A FOTO 3fe664856927f6a4f7e7856c7028ad8c.jpg SERA IMPORTADA 
+A FOTO 8ce432fd0efa2a0880d8ae2eea32f2d5.jpg SERA IMPORTADA 
+A FOTO c40dc162ff36f69f9ae6fa5a809d63be.jpg SERA IMPORTADA 
+A FOTO 76b73440dd55b494fb918ffed45834b6.jpg SERA IMPORTADA 
+A FOTO 5207676c45aa9ecb79dd6049809f445f.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 175V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ffa52becb3da30c5765f8eee7474f24f.jpeg SERA IMPORTADA 
+A FOTO 72d1ec365d7005dc00dcf4df954a9edd.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 177V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 03ba8f800e3ed42db8408559370df33d.jpg SERA IMPORTADA 
+A FOTO bc99b787335cfa2d083debcf57b3b66c.jpg SERA IMPORTADA 
+A FOTO b3d8355bf1de948b80cba8d5c773cd60.jpg SERA IMPORTADA 
+A FOTO 23eff68717168171e4e494475ab4175a.jpg SERA IMPORTADA 
+A FOTO 2bbd11e8b41b06c4b4177672f30b927d.jpg SERA IMPORTADA 
+A FOTO deb55da5445f6ac2a010f5cffade5ddc.jpg SERA IMPORTADA 
+A FOTO f4c13b9b408d4214a1e15cc4e2cf3aaf.jpg SERA IMPORTADA 
+A FOTO 792f810063d0dd40ad36d71dba1969e2.jpg SERA IMPORTADA 
+A FOTO 7962fb8ce6e85cf78468b2a340568970.jpg SERA IMPORTADA 
+A FOTO 8c300312b8ea80c6fc16f4be9e5a3eb1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 250A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a3f615cd1f2c7d72cce064be63c82f6d.jpg SERA IMPORTADA 
+A FOTO 9f8dff677050d72f61c49ee16bb119a3.jpg SERA IMPORTADA 
+A FOTO a0fad37f0bcd2d3b2fcfa65d9dec9684.jpg SERA IMPORTADA 
+A FOTO a24bf005f0acee77e5f510bed92d6422.jpg SERA IMPORTADA 
+A FOTO 5952b406e802978c6003b10ce5526572.jpg SERA IMPORTADA 
+A FOTO bfe25074c4049d05bb90eee532d07c6b.jpg SERA IMPORTADA 
+A FOTO 56c448098fa20d1cf2e7e9efe9e28014.jpg SERA IMPORTADA 
+A FOTO ae0f440809ec99cdf76c81655df9c12d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 253A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a908ad32c0282a23fe4ebabe5c2ff171.jpg SERA IMPORTADA 
+A FOTO fa0b0c7a3d175c9cec9cad28bac512de.jpg SERA IMPORTADA 
+A FOTO f8d816c13423be45db2f286353dd9fc7.jpg SERA IMPORTADA 
+A FOTO 53fee766fe63bd18d34d425bc7d43bc7.jpg SERA IMPORTADA 
+A FOTO 75cee39aaf8750832babaf3bfff8bb25.jpg SERA IMPORTADA 
+A FOTO bbc3d5350680f375c0391355ce276d1e.jpg SERA IMPORTADA 
+A FOTO fd8d63ba3d07e65929c800b8828efe9d.jpg SERA IMPORTADA 
+A FOTO 1c9be77dd6f22b57f0145cca28047479.jpg SERA IMPORTADA 
+A FOTO b1be88c0c4b57c2ddc46667593522467.jpg SERA IMPORTADA 
+A FOTO 102e50ceb78969a58ca2335bc52b7e2e.jpg SERA IMPORTADA 
+A FOTO aae8f5e846f8d3ea731b4aba958201ff.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 178V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 080bcda806b82c633ab8438484da6216.jpg SERA IMPORTADA 
+A FOTO c9a4f6a3429b374beef7c2fed0fbe1d7.jpg SERA IMPORTADA 
+A FOTO 4a35c7a17cbe5c146ad822f638beba39.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 180V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO c74b7ce10327d0d1636ebfec5aa3eec6.jpg SERA IMPORTADA 
+A FOTO 885f45fd3795693897d95677265c9e5c.jpg SERA IMPORTADA 
+A FOTO 92cb676c48ac7ec0f6262edbceaac71e.jpg SERA IMPORTADA 
+A FOTO 1824a912ebe2462a27cc57d2cafa56a7.jpg SERA IMPORTADA 
+A FOTO ded3f851c9efe51cd92f7533dd331aa7.jpg SERA IMPORTADA 
+A FOTO c6fa130a8f267eefcc68bec19837e002.jpg SERA IMPORTADA 
+A FOTO 35b85fa86c3baeacda5aad98ce0cbd61.jpg SERA IMPORTADA 
+A FOTO 9d83ed38841d4f7ca51f42c92fc44253.jpg SERA IMPORTADA 
+A FOTO 059126529dd096012cde9162b775185a.jpg SERA IMPORTADA 
+A FOTO b5dc9e65fe847fa602ee97dd09f1b7f2.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 181V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO bcbbe2414339c00e88be28d1c960ba8d.jpg SERA IMPORTADA 
+A FOTO ea25069170dddef8c599e209b77ab129.jpg SERA IMPORTADA 
+A FOTO b1765a5a355911e065172ed5830b2f6e.jpg SERA IMPORTADA 
+A FOTO a4578f46949784819f55229fe86634e1.jpg SERA IMPORTADA 
+A FOTO 4eadf6612dba95fd8afe0c3e8a7fadcf.jpg SERA IMPORTADA 
+A FOTO 65c5444ec5a56060625e30cb4c675e99.jpg SERA IMPORTADA 
+A FOTO a87452bc51c7f0209212ed934dfe016b.jpg SERA IMPORTADA 
+A FOTO d44ab069f450362c3409b891e9172e09.jpg SERA IMPORTADA 
+A FOTO 8bed6c465f4bfb17f0e6ac0b6d03e854.jpg SERA IMPORTADA 
+A FOTO 86e5f13fcfc3e48dcf7478daf439eb0d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 182V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ad6d51dca41ec4b7a30bc051d1bb2b3e.jpg SERA IMPORTADA 
+A FOTO d3d9f9825a57d28f0088902e5cb2f84b.jpg SERA IMPORTADA 
+A FOTO fcdfe2cf4dad928b63cb808c9ac416f2.jpg SERA IMPORTADA 
+A FOTO 9544460b5d5af876a7f5592e91e9ce56.jpg SERA IMPORTADA 
+A FOTO 4be16a8fbc03b4c358a29965508df45a.jpg SERA IMPORTADA 
+A FOTO 3c2c2fe4cb75306216a89af70667ecc1.jpg SERA IMPORTADA 
+A FOTO 33ee855af2ccc4562befa531f42cef30.jpg SERA IMPORTADA 
+A FOTO f532f1d67ac57e33ce1f2cd0d6a21c39.jpg SERA IMPORTADA 
+A FOTO cc69970059b883be097e7095c493325c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 270A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c935749a5352f6a36e156433ef67d92.jpg SERA IMPORTADA 
+A FOTO 4ccfdc0dc95147ae70308f27fceaee2b.JPG SERA IMPORTADA 
+A FOTO 3ad19530748dafcfc3275b9baf5a8336.JPG SERA IMPORTADA 
+A FOTO 068a55376f68a61050a4bd112326ae0e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 274A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0457af37ac947015abb4c2dceff7e204.jpeg SERA IMPORTADA 
+A FOTO a5c4999976049381af55183b01d2604e.jpeg SERA IMPORTADA 
+A FOTO 24a484080e08a3f7e314c636ab343c77.jpeg SERA IMPORTADA 
+A FOTO f1d7781e95756a1863879f53d445c18c.jpeg SERA IMPORTADA 
+A FOTO 2cb93c601fbe9a92e55df82c6b134c4e.jpeg SERA IMPORTADA 
+A FOTO 6614c34b925922902f2bc31524489977.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 185V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268549cbb6449c597a1026b651c792ea.jpg SERA IMPORTADA 
+A FOTO 567ed98b62a280556aac3e1d43a134d9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 187V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2902cf2fb1db7e8b3de4b422a09b1d87.jpg SERA IMPORTADA 
+A FOTO 37b48c93898dbb8fe5034a409795efa5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 188V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 134164a5e50a175e6304b991525c0344.jpg SERA IMPORTADA 
+A FOTO 2b4af7f817c1ad797209389f0b0774dd.jpg SERA IMPORTADA 
+A FOTO 2dbb4f17c81bc74f6106a463e8889d22.jpg SERA IMPORTADA 
+A FOTO eedd1f0e745647455cb6a46bbbffb77a.jpg SERA IMPORTADA 
+A FOTO b59ca198050273c9d2d54d471d19f366.jpg SERA IMPORTADA 
+A FOTO 8d0e1b2a1d5a5d7f992c42c84b5419a1.jpg SERA IMPORTADA 
+A FOTO 2e50620bbf08f510e5e76e6574e05e5f.jpg SERA IMPORTADA 
+A FOTO 9709349df4fa41fe7a040b0318f8f77d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 189V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO eb807b0ddbf55dcc15bf5bfc998e4ba2.jpg SERA IMPORTADA 
+A FOTO e67c413727bf85500300d10bdd3b092f.jpg SERA IMPORTADA 
+A FOTO dfdeab2ff00fdaf4034ab49780b9c3fc.jpg SERA IMPORTADA 
+A FOTO 1b510b63f4e9cce273d4c831c9cf2fcb.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 276A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fd708d38117e1aa00ae649445df8e49a.jpg SERA IMPORTADA 
+A FOTO 4fc4885041e0bd4d68c34d61ed8af056.jpg SERA IMPORTADA 
+A FOTO 0828790b252bc7b4143e14160e820f02.jpg SERA IMPORTADA 
+A FOTO 01fb71728e7e776b5ad37d9440ac8067.jpg SERA IMPORTADA 
+A FOTO 2fabf0c35c4403096ef308bd6b17d7ed.jpg SERA IMPORTADA 
+A FOTO 528d76da2a2ce4672960bbc32d1f78ac.jpg SERA IMPORTADA 
+A FOTO f6598eb175c5270b29c5157a64792fed.jpg SERA IMPORTADA 
+A FOTO ca09524ad0b568796a5fe49bd51a9a29.jpg SERA IMPORTADA 
+A FOTO a29bf218050bcdd62701a0ea39a5e0c1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 190V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 94d7f312b01073c7d8e9790944b3c7fe.jpg SERA IMPORTADA 
+A FOTO 4706f0a0454f693ae7e802099c062732.jpg SERA IMPORTADA 
+A FOTO c4e726ac3e990dc6fc6a109b8c5d517b.jpg SERA IMPORTADA 
+A FOTO 87d6e3bf5b196996f01b04a4f2cb7d3d.jpg SERA IMPORTADA 
+A FOTO c847ce5981cc7328f88690c04b73d708.jpg SERA IMPORTADA 
+A FOTO 14d07ea8bab27546c86bca38659cf2cf.jpg SERA IMPORTADA 
+A FOTO c3880cf41d45f82eaefb61454dc1c85b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 191V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 138c6209856cff21a3778a96f3621a55.jpg SERA IMPORTADA 
+A FOTO d3cd483ea1dba5b9a31019a4497037c8.jpg SERA IMPORTADA 
+A FOTO 58948fdd281cecc60e38d774bab8383b.jpg SERA IMPORTADA 
+A FOTO 50693d0fcfaf5ec132d1efdd98db243a.jpg SERA IMPORTADA 
+A FOTO 3a3e5daa6f3023bebccb0f930afc60a8.jpg SERA IMPORTADA 
+A FOTO cdcb8159ca6f688a64f171b13ff969ee.jpg SERA IMPORTADA 
+A FOTO c7fce6d3b9efe085d4708a51a04674f5.jpg SERA IMPORTADA 
+A FOTO 6d8753b4a327aa8e175dd232520e43af.jpg SERA IMPORTADA 
+A FOTO f33c78b90b8c61e839ed4420069ad7b1.jpg SERA IMPORTADA 
+A FOTO 059259b7dfecfaaea8a53d0264d875d1.jpg SERA IMPORTADA 
+A FOTO c790d0df37bc58094656698810c1a380.jpg SERA IMPORTADA 
+A FOTO 047d0046e9f08a0693fb9453c9b6a897.jpg SERA IMPORTADA 
+A FOTO 4ca3bfec505e4710573efe095ba2bc50.jpg SERA IMPORTADA 
+A FOTO b5e0a7b39bc731c7e4453350e5408aec.jpg SERA IMPORTADA 
+A FOTO 9edb7901fa1948acdf06b36d72f67e3c.jpg SERA IMPORTADA 
+A FOTO d0cd0d95c554ca93b12bf50cc9bbd802.jpg SERA IMPORTADA 
+A FOTO 2febdee2a459ad04a14abbe81c4c6495.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 278A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 37939b58dccb634c89c8709e1454df0a.JPG SERA IMPORTADA 
+A FOTO 205c2bb3d193d2a401a595e7ceaa6fc1.JPG SERA IMPORTADA 
+A FOTO 77f21cce5f7cd9cea9b22ae68227a30f.JPG SERA IMPORTADA 
+A FOTO f8f4d9da67101ebb0ef20260c0a49100.JPG SERA IMPORTADA 
+A FOTO a105fecf64adbb25e21e1d5e1a3d0eef.JPG SERA IMPORTADA 
+A FOTO 97ceaf14c175fcd5f54180109ad614de.JPG SERA IMPORTADA 
+A FOTO 1a9037ec98539b3a5360660a28e84576.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 192V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 833547eeaccb9c1fc52306e9b7784878.jpeg SERA IMPORTADA 
+A FOTO 3651733bcefa92dc38d3ed878800c0c1.jpg SERA IMPORTADA 
+A FOTO ac042c76a96a512567f739225790f1bb.jpg SERA IMPORTADA 
+A FOTO dd135cc1782e00d6efe7e6c0baaaacdc.jpg SERA IMPORTADA 
+A FOTO 559d44d6c2e2f73823d5c04f51cda3d5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 193V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 280A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 45387b2b9ae0bad6df7a72de1227ef1a.jpg SERA IMPORTADA 
+A FOTO 715d723e32dfa4fbbcdd300fdc147ff1.jpg SERA IMPORTADA 
+A FOTO 800f655491907ce42b0a7c587a49bb62.jpg SERA IMPORTADA 
+A FOTO 39b30899d5ddc50654a44c504ea43a84.jpg SERA IMPORTADA 
+A FOTO c8e2b0374393a633c46a9f9c0996bc16.jpg SERA IMPORTADA 
+A FOTO 82a4477fae9785fc84f74af4e238346f.jpg SERA IMPORTADA 
+A FOTO c123c13cae6f6e514520d995a7072959.jpg SERA IMPORTADA 
+A FOTO 9da806638157db6d1ccff5de3baf29ae.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+FIM DA IMPORTACAO 
+44 IMOVEIS NO TOTAL21/01/2020 08:15:18
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 125V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ce21fbe9838f5400e2ab491fedaa596b.JPG SERA IMPORTADA 
+A FOTO 9268e4f2cbcfc5edae80466911d9ac26.JPG SERA IMPORTADA 
+A FOTO 99b99f6b5b41747b96b1d5190497c3d3.JPG SERA IMPORTADA 
+A FOTO 18baef486151ee14b825deee7bbfb896.JPG SERA IMPORTADA 
+A FOTO 8868a55a34f767d0cced9df31b605206.JPG SERA IMPORTADA 
+A FOTO 4bf53759ddf1fac07ca1fb3f5043df6e.JPG SERA IMPORTADA 
+A FOTO 776d53a890b2ee2bf2eb097c55ec2374.JPG SERA IMPORTADA 
+A FOTO 036efe462067502e79bb85f67b7da099.JPG SERA IMPORTADA 
+A FOTO 90b2241d45a20d65242a1ea6bd6175fd.JPG SERA IMPORTADA 
+A FOTO f00f96dc33ccbfaba988ba42b6f1d081.JPG SERA IMPORTADA 
+A FOTO 496803c17948f93e59cd837e5205b77d.JPG SERA IMPORTADA 
+A FOTO 23deb3b6ff5c52ae8deea3a088ffccd1.JPG SERA IMPORTADA 
+A FOTO 3de52c288a48e4f46add80eb3887bc41.JPG SERA IMPORTADA 
+A FOTO 67be89981062d5b1b03f8773a7a4bdaf.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 127V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 8cd01244d1d1ebd432c23344dc3ecf2c.JPG SERA IMPORTADA 
+A FOTO 980a3f39e1ffc8583bb298bde99e429b.JPG SERA IMPORTADA 
+A FOTO 3e3bf9f95e01e024aeba8a1c7ffe1e94.JPG SERA IMPORTADA 
+A FOTO 0b92a53608b4b6493d93b5b81f74c7cc.JPG SERA IMPORTADA 
+A FOTO 4ef0536e09953349145890116a3b5bfa.JPG SERA IMPORTADA 
+A FOTO f1f6e66d63a41e2ceef943ca0c8c12d1.JPG SERA IMPORTADA 
+A FOTO 707ebb45fa6b17c31c0243921ff65944.JPG SERA IMPORTADA 
+A FOTO 733941f4c25da2600481ab53f51384a2.JPG SERA IMPORTADA 
+A FOTO ab5d09ac5d794e706b6bc0093388d63b.JPG SERA IMPORTADA 
+A FOTO a9cce513c232064b96e953320f2a838c.JPG SERA IMPORTADA 
+A FOTO 4d6dc769cffe50fa6ef59804e114e8b3.JPG SERA IMPORTADA 
+A FOTO 4a67e54fbbcd7d27648cb9f997d12eff.JPG SERA IMPORTADA 
+A FOTO 8012c2495b2f48d12050b8d69f0c9168.JPG SERA IMPORTADA 
+A FOTO a56b6fa0c1595d85d42e4a875c26e948.JPG SERA IMPORTADA 
+A FOTO b70a84ad692321a84c7fad3be7b43640.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 179A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO d65b9c91cff420bf6479430bd7eb947d.JPG SERA IMPORTADA 
+A FOTO 82df1acce225e11563503fa46ec9216d.JPG SERA IMPORTADA 
+A FOTO 76c89a5a0e6b814322da65379aadcc79.JPG SERA IMPORTADA 
+A FOTO 07edc7c2505cecccb0eb5fb8d5e99f3a.JPG SERA IMPORTADA 
+A FOTO f7f91f8e727b753b209a2709906fa197.JPG SERA IMPORTADA 
+A FOTO d82d199067e8688d44ca28d6c6d4c866.JPG SERA IMPORTADA 
+A FOTO 3c21f125a500e6cedbd5b9e9eb11299f.JPG SERA IMPORTADA 
+A FOTO 4cc9be532b6b7a437ec7e8abf76ef9f0.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 146V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fb865d9ad12884f0d22ebd7eabe09d1b.jpg SERA IMPORTADA 
+A FOTO 6f30c4d2329b32733421b6646e7a729b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 149V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 942bbff6689f4ac82ce6f368bce58571.jpg SERA IMPORTADA 
+A FOTO 927fc713e245ef4a8aa9fb77ee4ca8a3.jpg SERA IMPORTADA 
+A FOTO 1e211b2904a0b32953218d2bae7c4865.jpg SERA IMPORTADA 
+A FOTO 813f6213838d18e39e989a3f146789ba.jpg SERA IMPORTADA 
+A FOTO fee8bfc5310be5b3b8df2ed10f86cd8f.jpg SERA IMPORTADA 
+A FOTO c7105d7671e858e1562905e11361bfb3.jpg SERA IMPORTADA 
+A FOTO 0295651ccc2403ac9680e7c10e5857be.jpg SERA IMPORTADA 
+A FOTO 4e7de530781b9714fcb88b8165c9d6bf.jpg SERA IMPORTADA 
+A FOTO f98bc2f55f8966ea530f1d91e4d86fc5.jpg SERA IMPORTADA 
+A FOTO 6dc74390ad9748181961b7d454dde9a6.jpg SERA IMPORTADA 
+A FOTO e602533ec12a26b5e9b12a0dc547babe.jpg SERA IMPORTADA 
+A FOTO 19c1c8ba8e6dd653d5ec8017f886dd5a.jpg SERA IMPORTADA 
+A FOTO e501e569efd3474a24d9543541df0765.jpg SERA IMPORTADA 
+A FOTO f033a0389fd7a48aa576d1ee6bb9ed5e.jpg SERA IMPORTADA 
+A FOTO aa858a93beb77cf556059c084ace1d1c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 209A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ff475ac292da05296f9ba2124b0db48f.jpg SERA IMPORTADA 
+A FOTO cb97c445d84d71009ed2fc79de622ae4.jpg SERA IMPORTADA 
+A FOTO beaafd25d01c55a31a5198f2d92e8e2f.jpg SERA IMPORTADA 
+A FOTO 58317433ee17292f447509fc31804e93.jpg SERA IMPORTADA 
+A FOTO 2deaa52c7d8a07f82cc1dfce7d55e527.jpg SERA IMPORTADA 
+A FOTO 4355d19a9310f72bc32a1ffde487f951.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 153V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 1c9ef1cffd7945f2845cc317eb75024e.jpg SERA IMPORTADA 
+A FOTO a67137ea782ede627e70c6e9844a310e.jpg SERA IMPORTADA 
+A FOTO c24336221b7204a916db67274e011563.jpg SERA IMPORTADA 
+A FOTO 281540c54433093220a0fccb033c5fb7.jpg SERA IMPORTADA 
+A FOTO 87cf4f41bf7864dd77238b7540612d42.jpg SERA IMPORTADA 
+A FOTO e0701105bff9920aaf4234efbb0f1056.jpg SERA IMPORTADA 
+A FOTO 990eddbe7ed13e4994e4afed91dbd730.jpg SERA IMPORTADA 
+A FOTO a105a7e626f4392654e07cd568060bda.jpg SERA IMPORTADA 
+A FOTO d3419bc9df23b08d5ec28206e90d4079.jpg SERA IMPORTADA 
+A FOTO 757f167981fc185ca490679c1e164926.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 156V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO b87f7a41e532b35c871c590d665ea67d.jpg SERA IMPORTADA 
+A FOTO ef511ca647f7543e402737caedf06b97.jpg SERA IMPORTADA 
+A FOTO 6a3ad1365dbce6ded6e08c492375f492.jpg SERA IMPORTADA 
+A FOTO 7ad227383afd3acd94bd4ef5ab8b40d3.jpg SERA IMPORTADA 
+A FOTO 28ba7d4f6053bef330baf934ef8aa680.jpg SERA IMPORTADA 
+A FOTO a8757593084d39270dbbbbb8ebddb753.jpg SERA IMPORTADA 
+A FOTO 028a0d57a653732c82b5048911994e18.jpg SERA IMPORTADA 
+A FOTO 607b950e1f340908fa7b25766eaa6abf.jpg SERA IMPORTADA 
+A FOTO 599c8b4d6ee65c50ee4829f607a770f0.jpg SERA IMPORTADA 
+A FOTO 3edd9b450a8223a6cdf4caca950ef7cc.jpg SERA IMPORTADA 
+A FOTO 92382be93614f66faa9cc7982efd7d8a.jpg SERA IMPORTADA 
+A FOTO 230d9c68eb5a44458f453269538da689.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 157V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 562e0f6a3f01ef0ecad4220a260898ad.jpg SERA IMPORTADA 
+A FOTO 458396248c5b9562e458759373a1f913.jpg SERA IMPORTADA 
+A FOTO abcd68d969d6127d22a505adc3c53548.jpg SERA IMPORTADA 
+A FOTO d8220caeae7e2b9ef5796d03ed19c375.jpg SERA IMPORTADA 
+A FOTO d3cea35ab22b84ef6fe87451b9fb317c.jpg SERA IMPORTADA 
+A FOTO 195cf20f97b5d709b4b1ed4ee11b4f4b.jpg SERA IMPORTADA 
+A FOTO c6abc64718cd9b6e1855a3053d96417d.jpg SERA IMPORTADA 
+A FOTO 006f526b21ce41a44b0a2855fc351ab8.jpg SERA IMPORTADA 
+A FOTO d1efb4e8f7349a204600377e0615a8de.jpg SERA IMPORTADA 
+A FOTO 10824953e7a3cf0c56e95991706011ce.jpg SERA IMPORTADA 
+A FOTO 935f8e0731f6586db4a8d81a418d1cbe.jpg SERA IMPORTADA 
+A FOTO 91957f31f25a4e93bdc2ae9beb467205.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 161V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2bbf0fc510544ae3d2e7edb9caf59325.jpg SERA IMPORTADA 
+A FOTO e15b72b9e0c5222e6bcd963d4b1288c9.jpg SERA IMPORTADA 
+A FOTO 13941168f2075d331253df5ed399357f.jpg SERA IMPORTADA 
+A FOTO b206e4f7e199e402940a4ba755740bc3.jpg SERA IMPORTADA 
+A FOTO ac9dbf7f7d0fc6e3b8ab347b1b0a5426.jpg SERA IMPORTADA 
+A FOTO e0d9b899d5b763d24b3ba5d635a6774a.jpg SERA IMPORTADA 
+A FOTO 3722934994878fd2c4c510962e748646.jpg SERA IMPORTADA 
+A FOTO 0cb067ba86b4a66ca9f1838ff6953bf7.jpg SERA IMPORTADA 
+A FOTO d42d7f2a7cd9bf32e59830e7ed3e1cf9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 163V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c9ff82bd72f0d41e609100343f9ce22.jpg SERA IMPORTADA 
+A FOTO a95609e9b9a0aaac04a7c3c3a1777c1c.jpg SERA IMPORTADA 
+A FOTO 551a8e8f144f377dc9b606a9248277fd.jpg SERA IMPORTADA 
+A FOTO e1f1b57f4260ac8b4e39309816d23913.jpg SERA IMPORTADA 
+A FOTO 95e9db320fb22a5367a6ad919fa3b306.jpg SERA IMPORTADA 
+A FOTO 9fd7da454b3a42845ff5d8124f0ab3ab.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 164V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 935e13611f2f2dbc6285eb6c6d13aed5.jpg SERA IMPORTADA 
+A FOTO 46dbee4a89a4f3a880593ab2475ffe90.jpg SERA IMPORTADA 
+A FOTO 851e6b686a19cc7dc144466ba124c967.jpg SERA IMPORTADA 
+A FOTO 86c617f9bfa6273ebaf9ed09e00aec7e.png SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 165V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f0935dd9a0e22745bd4e3f243955d743.jpg SERA IMPORTADA 
+A FOTO 478139213b485a1333a38a411e252f67.jpg SERA IMPORTADA 
+A FOTO c72e0db1e725445d0c5fac6ad1226b15.jpg SERA IMPORTADA 
+A FOTO b89ac06229d45a9cd0ddaac32aee1159.jpg SERA IMPORTADA 
+A FOTO bed087a76b2fdafeae9da59d29aa02bd.jpg SERA IMPORTADA 
+A FOTO 1d29db3cd548782e3f43c9a9dafc1ca2.jpg SERA IMPORTADA 
+A FOTO cd49ce635d1af1d27d0f2845c0aad47e.jpg SERA IMPORTADA 
+A FOTO e1cdd0eee32011e55224e44ea10941aa.jpg SERA IMPORTADA 
+A FOTO a911fbd8a2f81f40614f47e7797bf0f6.jpg SERA IMPORTADA 
+A FOTO c43af452313362657f076dd3ab797e30.jpg SERA IMPORTADA 
+A FOTO 2c1ddce7db153057e1ca161ac7cc534d.jpg SERA IMPORTADA 
+A FOTO 68aa9dd0bffb511c93ae8e8f9a6cc146.jpg SERA IMPORTADA 
+A FOTO aeb78124bfc2a6fd5fad42448ad1c867.jpg SERA IMPORTADA 
+A FOTO 158bae2fd1f647b9a6ad4f0a24d3988c.jpg SERA IMPORTADA 
+A FOTO efd5bf6a1f9ffee91494c287bb9c1628.jpg SERA IMPORTADA 
+A FOTO 8f1d13aae3752de059099b13e34e0dac.jpg SERA IMPORTADA 
+A FOTO b1c9f95b1d3818d5071153df42241397.jpg SERA IMPORTADA 
+A FOTO 2ef0240abaed5d6e89e47b3051d2eb32.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 166V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f42061be89828743e4bd92b29c6f40a3.jpeg SERA IMPORTADA 
+A FOTO 68052f23801eefc4784e685c647640b2.jpg SERA IMPORTADA 
+A FOTO 740a019d8ca9dc08bde76552b41330b5.jpg SERA IMPORTADA 
+A FOTO cba5d6761ead906490f2c04cca586a37.jpg SERA IMPORTADA 
+A FOTO 945de82032c051de82c3f34e6528a63a.jpg SERA IMPORTADA 
+A FOTO 093b2a161469b88dad19275232f050bf.jpg SERA IMPORTADA 
+A FOTO b341937c58eac56f7f4042db2a80db6e.jpg SERA IMPORTADA 
+A FOTO ddfc9e8c495c49e254ce480f3e0de9c1.jpg SERA IMPORTADA 
+A FOTO 34d83c4c803361a0467b8ebdbdb186d7.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 240A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 302dfccfb16e4d1e21512dd29be4b1cd.jpg SERA IMPORTADA 
+A FOTO a2efaa91107c916eb468bfa3a5e61610.jpg SERA IMPORTADA 
+A FOTO eb4f566e057909caa45790f3de524d24.jpg SERA IMPORTADA 
+A FOTO ff77fa120bfb0033c543d5884af15e76.jpg SERA IMPORTADA 
+A FOTO 0df6be25d203569856dba0135dc08656.jpg SERA IMPORTADA 
+A FOTO 17f2a45f6d45ef665a6abd0589482ed4.jpg SERA IMPORTADA 
+A FOTO f9072e14c611cd98b04c82859cd93798.jpg SERA IMPORTADA 
+A FOTO 9813314656e71d49f7b084b7bfafe52e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 243A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 568e5ad66431c59edf1949068b1dbd1b.jpeg SERA IMPORTADA 
+A FOTO 320055a3ddacae9c78b15f418d91a870.jpg SERA IMPORTADA 
+A FOTO b79ba379a9f92e4d0e03c22c96d23f7a.jpg SERA IMPORTADA 
+A FOTO ee0258eeb086804b01a608da683baf67.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 169V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a258db6383cf1e92956e4213c8f4bad.jpg SERA IMPORTADA 
+A FOTO 851974fb9bf50e0c3ac1e5c6ca6a4676.jpg SERA IMPORTADA 
+A FOTO 09c6ec7ca2cfd0b18d3b652150fa2475.jpg SERA IMPORTADA 
+A FOTO 170bd25926b763409fbd3fbf6f21919e.jpg SERA IMPORTADA 
+A FOTO 76f64d1b6acac2332049fe88c164c236.jpg SERA IMPORTADA 
+A FOTO 4032863eba91bb33bcf672722969d93b.jpg SERA IMPORTADA 
+A FOTO 89e9c3945d168f2910df9b2e1659ac62.jpg SERA IMPORTADA 
+A FOTO 24913cf3650c054b05a6f94f4cae2277.jpg SERA IMPORTADA 
+A FOTO c3291ca147cd6f57f395386ea8c75427.jpg SERA IMPORTADA 
+A FOTO 1365aa7ee6f2c6cbb883270602e7ce2a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 171V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 27f1ba8dcec0d7fb2f83dc65929fbf68.jpg SERA IMPORTADA 
+A FOTO ef422946f1fe86534b3879c7daa30148.jpg SERA IMPORTADA 
+A FOTO 92d4d944b1c6fccfc0e1961ca1860d57.jpg SERA IMPORTADA 
+A FOTO b52a95584492d9f4370978b509b9bc8c.jpg SERA IMPORTADA 
+A FOTO 611b9b9f6491a860a11d6e69ab18b108.jpg SERA IMPORTADA 
+A FOTO 864423c660bed86ce087612545c38029.jpg SERA IMPORTADA 
+A FOTO efd5afd11a16326c81d099c671012438.jpg SERA IMPORTADA 
+A FOTO 1305e5810845c54fa9929c3e3e3d818b.jpg SERA IMPORTADA 
+A FOTO a8cb0dea14462711d72253500f601add.jpg SERA IMPORTADA 
+A FOTO ce51380dd69a8d1708773df20b37fc60.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 172V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268befda2d2f669bffad24f5585b2134.jpg SERA IMPORTADA 
+A FOTO 9755aec2ef8c2d6d3df2e93bc8a6aa2d.jpg SERA IMPORTADA 
+A FOTO 24fe701a90b034224d9093f4f226e14b.jpg SERA IMPORTADA 
+A FOTO 9f0812f575d441fa3d2da9d95c4eae0a.jpg SERA IMPORTADA 
+A FOTO 5ac1e0c67076d1fc39cf82d823e2907f.jpg SERA IMPORTADA 
+A FOTO f7d4e75094f78a70e861c494c9854044.jpg SERA IMPORTADA 
+A FOTO 5c9584915a6d4300027af5e9d6ee48d8.jpg SERA IMPORTADA 
+A FOTO b60148da72452b05fe40e82762f2da93.jpg SERA IMPORTADA 
+A FOTO d842bcf844d0f1559d61ad12b2d4f9cd.jpg SERA IMPORTADA 
+A FOTO d33852fceb0b0d3756ae5b4c2ff6bf0a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 173V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7284d57dd0f34ab42377be1c3a1a9f69.jpg SERA IMPORTADA 
+A FOTO f76de19bfb1999d5069e9e7ecff3e504.jpg SERA IMPORTADA 
+A FOTO 84274fca33c3228632554b84ae430636.jpg SERA IMPORTADA 
+A FOTO a10742827313939c8c053f14a3146bd0.jpg SERA IMPORTADA 
+A FOTO eeda4cb0bc80add5fefd87dc0fa02b7d.jpg SERA IMPORTADA 
+A FOTO fca280f3a553b6ee745eb1094117dec2.jpg SERA IMPORTADA 
+A FOTO 0358c89e1580f1e3ace79f50fc1c813a.jpg SERA IMPORTADA 
+A FOTO 6d602546a9b7c321ceaa1d7b4565da96.jpg SERA IMPORTADA 
+A FOTO 7a357a94f90efec9c4a5c49ff0713e08.jpg SERA IMPORTADA 
+A FOTO c35d5bf38e8e5df9bfcabe8a69803d4e.jpg SERA IMPORTADA 
+A FOTO dd37195ca77d0e99f4c6abba45a35815.jpg SERA IMPORTADA 
+A FOTO e82e9326e1de2eddc6e16ad76c031e68.jpg SERA IMPORTADA 
+A FOTO 09627a069f7f79cd568575ff75a480ca.jpg SERA IMPORTADA 
+A FOTO 7a92590dbfdcba1fba57318b301936a1.jpg SERA IMPORTADA 
+A FOTO dd594650788bb4dba2fadaf17e073ca6.jpg SERA IMPORTADA 
+A FOTO 4a74e9a35dd371e077f9b6021541154f.jpg SERA IMPORTADA 
+A FOTO 21c8dacd2eccb055cda08015a379f47a.jpg SERA IMPORTADA 
+A FOTO 2b7c0724d3895bbf3cd449b43673ab80.jpg SERA IMPORTADA 
+A FOTO 7e5a619409438b9d9b2659a1aa77a872.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 174V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7158553a3725ca3bb696af25639a3137.jpg SERA IMPORTADA 
+A FOTO 29b8ab1f0d92dbd30c2933f29bdaf190.jpg SERA IMPORTADA 
+A FOTO 7038a953d2bea7e4e2deead53d3a6b7e.jpg SERA IMPORTADA 
+A FOTO c862132a22b37b4f0388aa74d19454a0.jpg SERA IMPORTADA 
+A FOTO b95a430504f282576aca60545f5476bc.jpg SERA IMPORTADA 
+A FOTO f0f9e13c79fa14cb92f98dd872be53d6.jpg SERA IMPORTADA 
+A FOTO f0244285cbe603076d8c233e1aed94d8.jpg SERA IMPORTADA 
+A FOTO 3e9281ee014a49a723ef8860bd89b1a6.jpg SERA IMPORTADA 
+A FOTO 3fe664856927f6a4f7e7856c7028ad8c.jpg SERA IMPORTADA 
+A FOTO 8ce432fd0efa2a0880d8ae2eea32f2d5.jpg SERA IMPORTADA 
+A FOTO c40dc162ff36f69f9ae6fa5a809d63be.jpg SERA IMPORTADA 
+A FOTO 76b73440dd55b494fb918ffed45834b6.jpg SERA IMPORTADA 
+A FOTO 5207676c45aa9ecb79dd6049809f445f.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 175V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ffa52becb3da30c5765f8eee7474f24f.jpeg SERA IMPORTADA 
+A FOTO 72d1ec365d7005dc00dcf4df954a9edd.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 177V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 03ba8f800e3ed42db8408559370df33d.jpg SERA IMPORTADA 
+A FOTO bc99b787335cfa2d083debcf57b3b66c.jpg SERA IMPORTADA 
+A FOTO b3d8355bf1de948b80cba8d5c773cd60.jpg SERA IMPORTADA 
+A FOTO 23eff68717168171e4e494475ab4175a.jpg SERA IMPORTADA 
+A FOTO 2bbd11e8b41b06c4b4177672f30b927d.jpg SERA IMPORTADA 
+A FOTO deb55da5445f6ac2a010f5cffade5ddc.jpg SERA IMPORTADA 
+A FOTO f4c13b9b408d4214a1e15cc4e2cf3aaf.jpg SERA IMPORTADA 
+A FOTO 792f810063d0dd40ad36d71dba1969e2.jpg SERA IMPORTADA 
+A FOTO 7962fb8ce6e85cf78468b2a340568970.jpg SERA IMPORTADA 
+A FOTO 8c300312b8ea80c6fc16f4be9e5a3eb1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 250A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a3f615cd1f2c7d72cce064be63c82f6d.jpg SERA IMPORTADA 
+A FOTO 9f8dff677050d72f61c49ee16bb119a3.jpg SERA IMPORTADA 
+A FOTO a0fad37f0bcd2d3b2fcfa65d9dec9684.jpg SERA IMPORTADA 
+A FOTO a24bf005f0acee77e5f510bed92d6422.jpg SERA IMPORTADA 
+A FOTO 5952b406e802978c6003b10ce5526572.jpg SERA IMPORTADA 
+A FOTO bfe25074c4049d05bb90eee532d07c6b.jpg SERA IMPORTADA 
+A FOTO 56c448098fa20d1cf2e7e9efe9e28014.jpg SERA IMPORTADA 
+A FOTO ae0f440809ec99cdf76c81655df9c12d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 253A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a908ad32c0282a23fe4ebabe5c2ff171.jpg SERA IMPORTADA 
+A FOTO fa0b0c7a3d175c9cec9cad28bac512de.jpg SERA IMPORTADA 
+A FOTO f8d816c13423be45db2f286353dd9fc7.jpg SERA IMPORTADA 
+A FOTO 53fee766fe63bd18d34d425bc7d43bc7.jpg SERA IMPORTADA 
+A FOTO 75cee39aaf8750832babaf3bfff8bb25.jpg SERA IMPORTADA 
+A FOTO bbc3d5350680f375c0391355ce276d1e.jpg SERA IMPORTADA 
+A FOTO fd8d63ba3d07e65929c800b8828efe9d.jpg SERA IMPORTADA 
+A FOTO 1c9be77dd6f22b57f0145cca28047479.jpg SERA IMPORTADA 
+A FOTO b1be88c0c4b57c2ddc46667593522467.jpg SERA IMPORTADA 
+A FOTO 102e50ceb78969a58ca2335bc52b7e2e.jpg SERA IMPORTADA 
+A FOTO aae8f5e846f8d3ea731b4aba958201ff.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 178V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 080bcda806b82c633ab8438484da6216.jpg SERA IMPORTADA 
+A FOTO c9a4f6a3429b374beef7c2fed0fbe1d7.jpg SERA IMPORTADA 
+A FOTO 4a35c7a17cbe5c146ad822f638beba39.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 180V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO c74b7ce10327d0d1636ebfec5aa3eec6.jpg SERA IMPORTADA 
+A FOTO 885f45fd3795693897d95677265c9e5c.jpg SERA IMPORTADA 
+A FOTO 92cb676c48ac7ec0f6262edbceaac71e.jpg SERA IMPORTADA 
+A FOTO 1824a912ebe2462a27cc57d2cafa56a7.jpg SERA IMPORTADA 
+A FOTO ded3f851c9efe51cd92f7533dd331aa7.jpg SERA IMPORTADA 
+A FOTO c6fa130a8f267eefcc68bec19837e002.jpg SERA IMPORTADA 
+A FOTO 35b85fa86c3baeacda5aad98ce0cbd61.jpg SERA IMPORTADA 
+A FOTO 9d83ed38841d4f7ca51f42c92fc44253.jpg SERA IMPORTADA 
+A FOTO 059126529dd096012cde9162b775185a.jpg SERA IMPORTADA 
+A FOTO b5dc9e65fe847fa602ee97dd09f1b7f2.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 181V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO bcbbe2414339c00e88be28d1c960ba8d.jpg SERA IMPORTADA 
+A FOTO ea25069170dddef8c599e209b77ab129.jpg SERA IMPORTADA 
+A FOTO b1765a5a355911e065172ed5830b2f6e.jpg SERA IMPORTADA 
+A FOTO a4578f46949784819f55229fe86634e1.jpg SERA IMPORTADA 
+A FOTO 4eadf6612dba95fd8afe0c3e8a7fadcf.jpg SERA IMPORTADA 
+A FOTO 65c5444ec5a56060625e30cb4c675e99.jpg SERA IMPORTADA 
+A FOTO a87452bc51c7f0209212ed934dfe016b.jpg SERA IMPORTADA 
+A FOTO d44ab069f450362c3409b891e9172e09.jpg SERA IMPORTADA 
+A FOTO 8bed6c465f4bfb17f0e6ac0b6d03e854.jpg SERA IMPORTADA 
+A FOTO 86e5f13fcfc3e48dcf7478daf439eb0d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 182V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ad6d51dca41ec4b7a30bc051d1bb2b3e.jpg SERA IMPORTADA 
+A FOTO d3d9f9825a57d28f0088902e5cb2f84b.jpg SERA IMPORTADA 
+A FOTO fcdfe2cf4dad928b63cb808c9ac416f2.jpg SERA IMPORTADA 
+A FOTO 9544460b5d5af876a7f5592e91e9ce56.jpg SERA IMPORTADA 
+A FOTO 4be16a8fbc03b4c358a29965508df45a.jpg SERA IMPORTADA 
+A FOTO 3c2c2fe4cb75306216a89af70667ecc1.jpg SERA IMPORTADA 
+A FOTO 33ee855af2ccc4562befa531f42cef30.jpg SERA IMPORTADA 
+A FOTO f532f1d67ac57e33ce1f2cd0d6a21c39.jpg SERA IMPORTADA 
+A FOTO cc69970059b883be097e7095c493325c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 270A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c935749a5352f6a36e156433ef67d92.jpg SERA IMPORTADA 
+A FOTO 4ccfdc0dc95147ae70308f27fceaee2b.JPG SERA IMPORTADA 
+A FOTO 3ad19530748dafcfc3275b9baf5a8336.JPG SERA IMPORTADA 
+A FOTO 068a55376f68a61050a4bd112326ae0e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 274A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0457af37ac947015abb4c2dceff7e204.jpeg SERA IMPORTADA 
+A FOTO a5c4999976049381af55183b01d2604e.jpeg SERA IMPORTADA 
+A FOTO 24a484080e08a3f7e314c636ab343c77.jpeg SERA IMPORTADA 
+A FOTO f1d7781e95756a1863879f53d445c18c.jpeg SERA IMPORTADA 
+A FOTO 2cb93c601fbe9a92e55df82c6b134c4e.jpeg SERA IMPORTADA 
+A FOTO 6614c34b925922902f2bc31524489977.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 185V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268549cbb6449c597a1026b651c792ea.jpg SERA IMPORTADA 
+A FOTO 567ed98b62a280556aac3e1d43a134d9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 187V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2902cf2fb1db7e8b3de4b422a09b1d87.jpg SERA IMPORTADA 
+A FOTO 37b48c93898dbb8fe5034a409795efa5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 188V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 134164a5e50a175e6304b991525c0344.jpg SERA IMPORTADA 
+A FOTO 2b4af7f817c1ad797209389f0b0774dd.jpg SERA IMPORTADA 
+A FOTO 2dbb4f17c81bc74f6106a463e8889d22.jpg SERA IMPORTADA 
+A FOTO eedd1f0e745647455cb6a46bbbffb77a.jpg SERA IMPORTADA 
+A FOTO b59ca198050273c9d2d54d471d19f366.jpg SERA IMPORTADA 
+A FOTO 8d0e1b2a1d5a5d7f992c42c84b5419a1.jpg SERA IMPORTADA 
+A FOTO 2e50620bbf08f510e5e76e6574e05e5f.jpg SERA IMPORTADA 
+A FOTO 9709349df4fa41fe7a040b0318f8f77d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 189V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO eb807b0ddbf55dcc15bf5bfc998e4ba2.jpg SERA IMPORTADA 
+A FOTO e67c413727bf85500300d10bdd3b092f.jpg SERA IMPORTADA 
+A FOTO dfdeab2ff00fdaf4034ab49780b9c3fc.jpg SERA IMPORTADA 
+A FOTO 1b510b63f4e9cce273d4c831c9cf2fcb.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 276A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fd708d38117e1aa00ae649445df8e49a.jpg SERA IMPORTADA 
+A FOTO 4fc4885041e0bd4d68c34d61ed8af056.jpg SERA IMPORTADA 
+A FOTO 0828790b252bc7b4143e14160e820f02.jpg SERA IMPORTADA 
+A FOTO 01fb71728e7e776b5ad37d9440ac8067.jpg SERA IMPORTADA 
+A FOTO 2fabf0c35c4403096ef308bd6b17d7ed.jpg SERA IMPORTADA 
+A FOTO 528d76da2a2ce4672960bbc32d1f78ac.jpg SERA IMPORTADA 
+A FOTO f6598eb175c5270b29c5157a64792fed.jpg SERA IMPORTADA 
+A FOTO ca09524ad0b568796a5fe49bd51a9a29.jpg SERA IMPORTADA 
+A FOTO a29bf218050bcdd62701a0ea39a5e0c1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 190V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 94d7f312b01073c7d8e9790944b3c7fe.jpg SERA IMPORTADA 
+A FOTO 4706f0a0454f693ae7e802099c062732.jpg SERA IMPORTADA 
+A FOTO c4e726ac3e990dc6fc6a109b8c5d517b.jpg SERA IMPORTADA 
+A FOTO 87d6e3bf5b196996f01b04a4f2cb7d3d.jpg SERA IMPORTADA 
+A FOTO c847ce5981cc7328f88690c04b73d708.jpg SERA IMPORTADA 
+A FOTO 14d07ea8bab27546c86bca38659cf2cf.jpg SERA IMPORTADA 
+A FOTO c3880cf41d45f82eaefb61454dc1c85b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 191V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 138c6209856cff21a3778a96f3621a55.jpg SERA IMPORTADA 
+A FOTO d3cd483ea1dba5b9a31019a4497037c8.jpg SERA IMPORTADA 
+A FOTO 58948fdd281cecc60e38d774bab8383b.jpg SERA IMPORTADA 
+A FOTO 50693d0fcfaf5ec132d1efdd98db243a.jpg SERA IMPORTADA 
+A FOTO 3a3e5daa6f3023bebccb0f930afc60a8.jpg SERA IMPORTADA 
+A FOTO cdcb8159ca6f688a64f171b13ff969ee.jpg SERA IMPORTADA 
+A FOTO c7fce6d3b9efe085d4708a51a04674f5.jpg SERA IMPORTADA 
+A FOTO 6d8753b4a327aa8e175dd232520e43af.jpg SERA IMPORTADA 
+A FOTO f33c78b90b8c61e839ed4420069ad7b1.jpg SERA IMPORTADA 
+A FOTO 059259b7dfecfaaea8a53d0264d875d1.jpg SERA IMPORTADA 
+A FOTO c790d0df37bc58094656698810c1a380.jpg SERA IMPORTADA 
+A FOTO 047d0046e9f08a0693fb9453c9b6a897.jpg SERA IMPORTADA 
+A FOTO 4ca3bfec505e4710573efe095ba2bc50.jpg SERA IMPORTADA 
+A FOTO b5e0a7b39bc731c7e4453350e5408aec.jpg SERA IMPORTADA 
+A FOTO 9edb7901fa1948acdf06b36d72f67e3c.jpg SERA IMPORTADA 
+A FOTO d0cd0d95c554ca93b12bf50cc9bbd802.jpg SERA IMPORTADA 
+A FOTO 2febdee2a459ad04a14abbe81c4c6495.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 278A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 37939b58dccb634c89c8709e1454df0a.JPG SERA IMPORTADA 
+A FOTO 205c2bb3d193d2a401a595e7ceaa6fc1.JPG SERA IMPORTADA 
+A FOTO 77f21cce5f7cd9cea9b22ae68227a30f.JPG SERA IMPORTADA 
+A FOTO f8f4d9da67101ebb0ef20260c0a49100.JPG SERA IMPORTADA 
+A FOTO a105fecf64adbb25e21e1d5e1a3d0eef.JPG SERA IMPORTADA 
+A FOTO 97ceaf14c175fcd5f54180109ad614de.JPG SERA IMPORTADA 
+A FOTO 1a9037ec98539b3a5360660a28e84576.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 192V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 833547eeaccb9c1fc52306e9b7784878.jpeg SERA IMPORTADA 
+A FOTO 3651733bcefa92dc38d3ed878800c0c1.jpg SERA IMPORTADA 
+A FOTO ac042c76a96a512567f739225790f1bb.jpg SERA IMPORTADA 
+A FOTO dd135cc1782e00d6efe7e6c0baaaacdc.jpg SERA IMPORTADA 
+A FOTO 559d44d6c2e2f73823d5c04f51cda3d5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 193V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 280A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 45387b2b9ae0bad6df7a72de1227ef1a.jpg SERA IMPORTADA 
+A FOTO 715d723e32dfa4fbbcdd300fdc147ff1.jpg SERA IMPORTADA 
+A FOTO 800f655491907ce42b0a7c587a49bb62.jpg SERA IMPORTADA 
+A FOTO 39b30899d5ddc50654a44c504ea43a84.jpg SERA IMPORTADA 
+A FOTO c8e2b0374393a633c46a9f9c0996bc16.jpg SERA IMPORTADA 
+A FOTO 82a4477fae9785fc84f74af4e238346f.jpg SERA IMPORTADA 
+A FOTO c123c13cae6f6e514520d995a7072959.jpg SERA IMPORTADA 
+A FOTO 9da806638157db6d1ccff5de3baf29ae.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+FIM DA IMPORTACAO 
+44 IMOVEIS NO TOTAL21/01/2020 08:18:06
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+21/01/2020 08:20:27
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+21/01/2020 08:33:55
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+FIM DA IMPORTACAO 
+0 IMOVEIS NO TOTAL21/01/2020 08:34:40
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+21/01/2020 08:35:53
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 122V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 167A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a9a567301cad9c4dd12c603d9decd03.JPG SERA IMPORTADA 
+A FOTO 251609ca4a9144487516340f0e1af1cb.JPG SERA IMPORTADA 
+A FOTO e04cc44fe730dc7c4b7643d3f2222895.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 125V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ce21fbe9838f5400e2ab491fedaa596b.JPG SERA IMPORTADA 
+A FOTO 9268e4f2cbcfc5edae80466911d9ac26.JPG SERA IMPORTADA 
+A FOTO 99b99f6b5b41747b96b1d5190497c3d3.JPG SERA IMPORTADA 
+A FOTO 18baef486151ee14b825deee7bbfb896.JPG SERA IMPORTADA 
+A FOTO 8868a55a34f767d0cced9df31b605206.JPG SERA IMPORTADA 
+A FOTO 4bf53759ddf1fac07ca1fb3f5043df6e.JPG SERA IMPORTADA 
+A FOTO 776d53a890b2ee2bf2eb097c55ec2374.JPG SERA IMPORTADA 
+A FOTO 036efe462067502e79bb85f67b7da099.JPG SERA IMPORTADA 
+A FOTO 90b2241d45a20d65242a1ea6bd6175fd.JPG SERA IMPORTADA 
+A FOTO f00f96dc33ccbfaba988ba42b6f1d081.JPG SERA IMPORTADA 
+A FOTO 496803c17948f93e59cd837e5205b77d.JPG SERA IMPORTADA 
+A FOTO 23deb3b6ff5c52ae8deea3a088ffccd1.JPG SERA IMPORTADA 
+A FOTO 3de52c288a48e4f46add80eb3887bc41.JPG SERA IMPORTADA 
+A FOTO 67be89981062d5b1b03f8773a7a4bdaf.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 127V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 8cd01244d1d1ebd432c23344dc3ecf2c.JPG SERA IMPORTADA 
+A FOTO 980a3f39e1ffc8583bb298bde99e429b.JPG SERA IMPORTADA 
+A FOTO 3e3bf9f95e01e024aeba8a1c7ffe1e94.JPG SERA IMPORTADA 
+A FOTO 0b92a53608b4b6493d93b5b81f74c7cc.JPG SERA IMPORTADA 
+A FOTO 4ef0536e09953349145890116a3b5bfa.JPG SERA IMPORTADA 
+A FOTO f1f6e66d63a41e2ceef943ca0c8c12d1.JPG SERA IMPORTADA 
+A FOTO 707ebb45fa6b17c31c0243921ff65944.JPG SERA IMPORTADA 
+A FOTO 733941f4c25da2600481ab53f51384a2.JPG SERA IMPORTADA 
+A FOTO ab5d09ac5d794e706b6bc0093388d63b.JPG SERA IMPORTADA 
+A FOTO a9cce513c232064b96e953320f2a838c.JPG SERA IMPORTADA 
+A FOTO 4d6dc769cffe50fa6ef59804e114e8b3.JPG SERA IMPORTADA 
+A FOTO 4a67e54fbbcd7d27648cb9f997d12eff.JPG SERA IMPORTADA 
+A FOTO 8012c2495b2f48d12050b8d69f0c9168.JPG SERA IMPORTADA 
+A FOTO a56b6fa0c1595d85d42e4a875c26e948.JPG SERA IMPORTADA 
+A FOTO b70a84ad692321a84c7fad3be7b43640.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 179A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO d65b9c91cff420bf6479430bd7eb947d.JPG SERA IMPORTADA 
+A FOTO 82df1acce225e11563503fa46ec9216d.JPG SERA IMPORTADA 
+A FOTO 76c89a5a0e6b814322da65379aadcc79.JPG SERA IMPORTADA 
+A FOTO 07edc7c2505cecccb0eb5fb8d5e99f3a.JPG SERA IMPORTADA 
+A FOTO f7f91f8e727b753b209a2709906fa197.JPG SERA IMPORTADA 
+A FOTO d82d199067e8688d44ca28d6c6d4c866.JPG SERA IMPORTADA 
+A FOTO 3c21f125a500e6cedbd5b9e9eb11299f.JPG SERA IMPORTADA 
+A FOTO 4cc9be532b6b7a437ec7e8abf76ef9f0.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 146V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fb865d9ad12884f0d22ebd7eabe09d1b.jpg SERA IMPORTADA 
+A FOTO 6f30c4d2329b32733421b6646e7a729b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 149V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 942bbff6689f4ac82ce6f368bce58571.jpg SERA IMPORTADA 
+A FOTO 927fc713e245ef4a8aa9fb77ee4ca8a3.jpg SERA IMPORTADA 
+A FOTO 1e211b2904a0b32953218d2bae7c4865.jpg SERA IMPORTADA 
+A FOTO 813f6213838d18e39e989a3f146789ba.jpg SERA IMPORTADA 
+A FOTO fee8bfc5310be5b3b8df2ed10f86cd8f.jpg SERA IMPORTADA 
+A FOTO c7105d7671e858e1562905e11361bfb3.jpg SERA IMPORTADA 
+A FOTO 0295651ccc2403ac9680e7c10e5857be.jpg SERA IMPORTADA 
+A FOTO 4e7de530781b9714fcb88b8165c9d6bf.jpg SERA IMPORTADA 
+A FOTO f98bc2f55f8966ea530f1d91e4d86fc5.jpg SERA IMPORTADA 
+A FOTO 6dc74390ad9748181961b7d454dde9a6.jpg SERA IMPORTADA 
+A FOTO e602533ec12a26b5e9b12a0dc547babe.jpg SERA IMPORTADA 
+A FOTO 19c1c8ba8e6dd653d5ec8017f886dd5a.jpg SERA IMPORTADA 
+A FOTO e501e569efd3474a24d9543541df0765.jpg SERA IMPORTADA 
+A FOTO f033a0389fd7a48aa576d1ee6bb9ed5e.jpg SERA IMPORTADA 
+A FOTO aa858a93beb77cf556059c084ace1d1c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 209A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ff475ac292da05296f9ba2124b0db48f.jpg SERA IMPORTADA 
+A FOTO cb97c445d84d71009ed2fc79de622ae4.jpg SERA IMPORTADA 
+A FOTO beaafd25d01c55a31a5198f2d92e8e2f.jpg SERA IMPORTADA 
+A FOTO 58317433ee17292f447509fc31804e93.jpg SERA IMPORTADA 
+A FOTO 2deaa52c7d8a07f82cc1dfce7d55e527.jpg SERA IMPORTADA 
+A FOTO 4355d19a9310f72bc32a1ffde487f951.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 153V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 1c9ef1cffd7945f2845cc317eb75024e.jpg SERA IMPORTADA 
+A FOTO a67137ea782ede627e70c6e9844a310e.jpg SERA IMPORTADA 
+A FOTO c24336221b7204a916db67274e011563.jpg SERA IMPORTADA 
+A FOTO 281540c54433093220a0fccb033c5fb7.jpg SERA IMPORTADA 
+A FOTO 87cf4f41bf7864dd77238b7540612d42.jpg SERA IMPORTADA 
+A FOTO e0701105bff9920aaf4234efbb0f1056.jpg SERA IMPORTADA 
+A FOTO 990eddbe7ed13e4994e4afed91dbd730.jpg SERA IMPORTADA 
+A FOTO a105a7e626f4392654e07cd568060bda.jpg SERA IMPORTADA 
+A FOTO d3419bc9df23b08d5ec28206e90d4079.jpg SERA IMPORTADA 
+A FOTO 757f167981fc185ca490679c1e164926.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 156V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO b87f7a41e532b35c871c590d665ea67d.jpg SERA IMPORTADA 
+A FOTO ef511ca647f7543e402737caedf06b97.jpg SERA IMPORTADA 
+A FOTO 6a3ad1365dbce6ded6e08c492375f492.jpg SERA IMPORTADA 
+A FOTO 7ad227383afd3acd94bd4ef5ab8b40d3.jpg SERA IMPORTADA 
+A FOTO 28ba7d4f6053bef330baf934ef8aa680.jpg SERA IMPORTADA 
+A FOTO a8757593084d39270dbbbbb8ebddb753.jpg SERA IMPORTADA 
+A FOTO 028a0d57a653732c82b5048911994e18.jpg SERA IMPORTADA 
+A FOTO 607b950e1f340908fa7b25766eaa6abf.jpg SERA IMPORTADA 
+A FOTO 599c8b4d6ee65c50ee4829f607a770f0.jpg SERA IMPORTADA 
+A FOTO 3edd9b450a8223a6cdf4caca950ef7cc.jpg SERA IMPORTADA 
+A FOTO 92382be93614f66faa9cc7982efd7d8a.jpg SERA IMPORTADA 
+A FOTO 230d9c68eb5a44458f453269538da689.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 157V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 562e0f6a3f01ef0ecad4220a260898ad.jpg SERA IMPORTADA 
+A FOTO 458396248c5b9562e458759373a1f913.jpg SERA IMPORTADA 
+A FOTO abcd68d969d6127d22a505adc3c53548.jpg SERA IMPORTADA 
+A FOTO d8220caeae7e2b9ef5796d03ed19c375.jpg SERA IMPORTADA 
+A FOTO d3cea35ab22b84ef6fe87451b9fb317c.jpg SERA IMPORTADA 
+A FOTO 195cf20f97b5d709b4b1ed4ee11b4f4b.jpg SERA IMPORTADA 
+A FOTO c6abc64718cd9b6e1855a3053d96417d.jpg SERA IMPORTADA 
+A FOTO 006f526b21ce41a44b0a2855fc351ab8.jpg SERA IMPORTADA 
+A FOTO d1efb4e8f7349a204600377e0615a8de.jpg SERA IMPORTADA 
+A FOTO 10824953e7a3cf0c56e95991706011ce.jpg SERA IMPORTADA 
+A FOTO 935f8e0731f6586db4a8d81a418d1cbe.jpg SERA IMPORTADA 
+A FOTO 91957f31f25a4e93bdc2ae9beb467205.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 161V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2bbf0fc510544ae3d2e7edb9caf59325.jpg SERA IMPORTADA 
+A FOTO e15b72b9e0c5222e6bcd963d4b1288c9.jpg SERA IMPORTADA 
+A FOTO 13941168f2075d331253df5ed399357f.jpg SERA IMPORTADA 
+A FOTO b206e4f7e199e402940a4ba755740bc3.jpg SERA IMPORTADA 
+A FOTO ac9dbf7f7d0fc6e3b8ab347b1b0a5426.jpg SERA IMPORTADA 
+A FOTO e0d9b899d5b763d24b3ba5d635a6774a.jpg SERA IMPORTADA 
+A FOTO 3722934994878fd2c4c510962e748646.jpg SERA IMPORTADA 
+A FOTO 0cb067ba86b4a66ca9f1838ff6953bf7.jpg SERA IMPORTADA 
+A FOTO d42d7f2a7cd9bf32e59830e7ed3e1cf9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 163V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c9ff82bd72f0d41e609100343f9ce22.jpg SERA IMPORTADA 
+A FOTO a95609e9b9a0aaac04a7c3c3a1777c1c.jpg SERA IMPORTADA 
+A FOTO 551a8e8f144f377dc9b606a9248277fd.jpg SERA IMPORTADA 
+A FOTO e1f1b57f4260ac8b4e39309816d23913.jpg SERA IMPORTADA 
+A FOTO 95e9db320fb22a5367a6ad919fa3b306.jpg SERA IMPORTADA 
+A FOTO 9fd7da454b3a42845ff5d8124f0ab3ab.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 164V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 935e13611f2f2dbc6285eb6c6d13aed5.jpg SERA IMPORTADA 
+A FOTO 46dbee4a89a4f3a880593ab2475ffe90.jpg SERA IMPORTADA 
+A FOTO 851e6b686a19cc7dc144466ba124c967.jpg SERA IMPORTADA 
+A FOTO 86c617f9bfa6273ebaf9ed09e00aec7e.png SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 165V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f0935dd9a0e22745bd4e3f243955d743.jpg SERA IMPORTADA 
+A FOTO 478139213b485a1333a38a411e252f67.jpg SERA IMPORTADA 
+A FOTO c72e0db1e725445d0c5fac6ad1226b15.jpg SERA IMPORTADA 
+A FOTO b89ac06229d45a9cd0ddaac32aee1159.jpg SERA IMPORTADA 
+A FOTO bed087a76b2fdafeae9da59d29aa02bd.jpg SERA IMPORTADA 
+A FOTO 1d29db3cd548782e3f43c9a9dafc1ca2.jpg SERA IMPORTADA 
+A FOTO cd49ce635d1af1d27d0f2845c0aad47e.jpg SERA IMPORTADA 
+A FOTO e1cdd0eee32011e55224e44ea10941aa.jpg SERA IMPORTADA 
+A FOTO a911fbd8a2f81f40614f47e7797bf0f6.jpg SERA IMPORTADA 
+A FOTO c43af452313362657f076dd3ab797e30.jpg SERA IMPORTADA 
+A FOTO 2c1ddce7db153057e1ca161ac7cc534d.jpg SERA IMPORTADA 
+A FOTO 68aa9dd0bffb511c93ae8e8f9a6cc146.jpg SERA IMPORTADA 
+A FOTO aeb78124bfc2a6fd5fad42448ad1c867.jpg SERA IMPORTADA 
+A FOTO 158bae2fd1f647b9a6ad4f0a24d3988c.jpg SERA IMPORTADA 
+A FOTO efd5bf6a1f9ffee91494c287bb9c1628.jpg SERA IMPORTADA 
+A FOTO 8f1d13aae3752de059099b13e34e0dac.jpg SERA IMPORTADA 
+A FOTO b1c9f95b1d3818d5071153df42241397.jpg SERA IMPORTADA 
+A FOTO 2ef0240abaed5d6e89e47b3051d2eb32.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 166V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO f42061be89828743e4bd92b29c6f40a3.jpeg SERA IMPORTADA 
+A FOTO 68052f23801eefc4784e685c647640b2.jpg SERA IMPORTADA 
+A FOTO 740a019d8ca9dc08bde76552b41330b5.jpg SERA IMPORTADA 
+A FOTO cba5d6761ead906490f2c04cca586a37.jpg SERA IMPORTADA 
+A FOTO 945de82032c051de82c3f34e6528a63a.jpg SERA IMPORTADA 
+A FOTO 093b2a161469b88dad19275232f050bf.jpg SERA IMPORTADA 
+A FOTO b341937c58eac56f7f4042db2a80db6e.jpg SERA IMPORTADA 
+A FOTO ddfc9e8c495c49e254ce480f3e0de9c1.jpg SERA IMPORTADA 
+A FOTO 34d83c4c803361a0467b8ebdbdb186d7.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 240A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 302dfccfb16e4d1e21512dd29be4b1cd.jpg SERA IMPORTADA 
+A FOTO a2efaa91107c916eb468bfa3a5e61610.jpg SERA IMPORTADA 
+A FOTO eb4f566e057909caa45790f3de524d24.jpg SERA IMPORTADA 
+A FOTO ff77fa120bfb0033c543d5884af15e76.jpg SERA IMPORTADA 
+A FOTO 0df6be25d203569856dba0135dc08656.jpg SERA IMPORTADA 
+A FOTO 17f2a45f6d45ef665a6abd0589482ed4.jpg SERA IMPORTADA 
+A FOTO f9072e14c611cd98b04c82859cd93798.jpg SERA IMPORTADA 
+A FOTO 9813314656e71d49f7b084b7bfafe52e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 243A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 568e5ad66431c59edf1949068b1dbd1b.jpeg SERA IMPORTADA 
+A FOTO 320055a3ddacae9c78b15f418d91a870.jpg SERA IMPORTADA 
+A FOTO b79ba379a9f92e4d0e03c22c96d23f7a.jpg SERA IMPORTADA 
+A FOTO ee0258eeb086804b01a608da683baf67.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 169V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9a258db6383cf1e92956e4213c8f4bad.jpg SERA IMPORTADA 
+A FOTO 851974fb9bf50e0c3ac1e5c6ca6a4676.jpg SERA IMPORTADA 
+A FOTO 09c6ec7ca2cfd0b18d3b652150fa2475.jpg SERA IMPORTADA 
+A FOTO 170bd25926b763409fbd3fbf6f21919e.jpg SERA IMPORTADA 
+A FOTO 76f64d1b6acac2332049fe88c164c236.jpg SERA IMPORTADA 
+A FOTO 4032863eba91bb33bcf672722969d93b.jpg SERA IMPORTADA 
+A FOTO 89e9c3945d168f2910df9b2e1659ac62.jpg SERA IMPORTADA 
+A FOTO 24913cf3650c054b05a6f94f4cae2277.jpg SERA IMPORTADA 
+A FOTO c3291ca147cd6f57f395386ea8c75427.jpg SERA IMPORTADA 
+A FOTO 1365aa7ee6f2c6cbb883270602e7ce2a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 171V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 27f1ba8dcec0d7fb2f83dc65929fbf68.jpg SERA IMPORTADA 
+A FOTO ef422946f1fe86534b3879c7daa30148.jpg SERA IMPORTADA 
+A FOTO 92d4d944b1c6fccfc0e1961ca1860d57.jpg SERA IMPORTADA 
+A FOTO b52a95584492d9f4370978b509b9bc8c.jpg SERA IMPORTADA 
+A FOTO 611b9b9f6491a860a11d6e69ab18b108.jpg SERA IMPORTADA 
+A FOTO 864423c660bed86ce087612545c38029.jpg SERA IMPORTADA 
+A FOTO efd5afd11a16326c81d099c671012438.jpg SERA IMPORTADA 
+A FOTO 1305e5810845c54fa9929c3e3e3d818b.jpg SERA IMPORTADA 
+A FOTO a8cb0dea14462711d72253500f601add.jpg SERA IMPORTADA 
+A FOTO ce51380dd69a8d1708773df20b37fc60.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 172V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268befda2d2f669bffad24f5585b2134.jpg SERA IMPORTADA 
+A FOTO 9755aec2ef8c2d6d3df2e93bc8a6aa2d.jpg SERA IMPORTADA 
+A FOTO 24fe701a90b034224d9093f4f226e14b.jpg SERA IMPORTADA 
+A FOTO 9f0812f575d441fa3d2da9d95c4eae0a.jpg SERA IMPORTADA 
+A FOTO 5ac1e0c67076d1fc39cf82d823e2907f.jpg SERA IMPORTADA 
+A FOTO f7d4e75094f78a70e861c494c9854044.jpg SERA IMPORTADA 
+A FOTO 5c9584915a6d4300027af5e9d6ee48d8.jpg SERA IMPORTADA 
+A FOTO b60148da72452b05fe40e82762f2da93.jpg SERA IMPORTADA 
+A FOTO d842bcf844d0f1559d61ad12b2d4f9cd.jpg SERA IMPORTADA 
+A FOTO d33852fceb0b0d3756ae5b4c2ff6bf0a.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 173V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7284d57dd0f34ab42377be1c3a1a9f69.jpg SERA IMPORTADA 
+A FOTO f76de19bfb1999d5069e9e7ecff3e504.jpg SERA IMPORTADA 
+A FOTO 84274fca33c3228632554b84ae430636.jpg SERA IMPORTADA 
+A FOTO a10742827313939c8c053f14a3146bd0.jpg SERA IMPORTADA 
+A FOTO eeda4cb0bc80add5fefd87dc0fa02b7d.jpg SERA IMPORTADA 
+A FOTO fca280f3a553b6ee745eb1094117dec2.jpg SERA IMPORTADA 
+A FOTO 0358c89e1580f1e3ace79f50fc1c813a.jpg SERA IMPORTADA 
+A FOTO 6d602546a9b7c321ceaa1d7b4565da96.jpg SERA IMPORTADA 
+A FOTO 7a357a94f90efec9c4a5c49ff0713e08.jpg SERA IMPORTADA 
+A FOTO c35d5bf38e8e5df9bfcabe8a69803d4e.jpg SERA IMPORTADA 
+A FOTO dd37195ca77d0e99f4c6abba45a35815.jpg SERA IMPORTADA 
+A FOTO e82e9326e1de2eddc6e16ad76c031e68.jpg SERA IMPORTADA 
+A FOTO 09627a069f7f79cd568575ff75a480ca.jpg SERA IMPORTADA 
+A FOTO 7a92590dbfdcba1fba57318b301936a1.jpg SERA IMPORTADA 
+A FOTO dd594650788bb4dba2fadaf17e073ca6.jpg SERA IMPORTADA 
+A FOTO 4a74e9a35dd371e077f9b6021541154f.jpg SERA IMPORTADA 
+A FOTO 21c8dacd2eccb055cda08015a379f47a.jpg SERA IMPORTADA 
+A FOTO 2b7c0724d3895bbf3cd449b43673ab80.jpg SERA IMPORTADA 
+A FOTO 7e5a619409438b9d9b2659a1aa77a872.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 174V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 7158553a3725ca3bb696af25639a3137.jpg SERA IMPORTADA 
+A FOTO 29b8ab1f0d92dbd30c2933f29bdaf190.jpg SERA IMPORTADA 
+A FOTO 7038a953d2bea7e4e2deead53d3a6b7e.jpg SERA IMPORTADA 
+A FOTO c862132a22b37b4f0388aa74d19454a0.jpg SERA IMPORTADA 
+A FOTO b95a430504f282576aca60545f5476bc.jpg SERA IMPORTADA 
+A FOTO f0f9e13c79fa14cb92f98dd872be53d6.jpg SERA IMPORTADA 
+A FOTO f0244285cbe603076d8c233e1aed94d8.jpg SERA IMPORTADA 
+A FOTO 3e9281ee014a49a723ef8860bd89b1a6.jpg SERA IMPORTADA 
+A FOTO 3fe664856927f6a4f7e7856c7028ad8c.jpg SERA IMPORTADA 
+A FOTO 8ce432fd0efa2a0880d8ae2eea32f2d5.jpg SERA IMPORTADA 
+A FOTO c40dc162ff36f69f9ae6fa5a809d63be.jpg SERA IMPORTADA 
+A FOTO 76b73440dd55b494fb918ffed45834b6.jpg SERA IMPORTADA 
+A FOTO 5207676c45aa9ecb79dd6049809f445f.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 175V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ffa52becb3da30c5765f8eee7474f24f.jpeg SERA IMPORTADA 
+A FOTO 72d1ec365d7005dc00dcf4df954a9edd.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 177V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 03ba8f800e3ed42db8408559370df33d.jpg SERA IMPORTADA 
+A FOTO bc99b787335cfa2d083debcf57b3b66c.jpg SERA IMPORTADA 
+A FOTO b3d8355bf1de948b80cba8d5c773cd60.jpg SERA IMPORTADA 
+A FOTO 23eff68717168171e4e494475ab4175a.jpg SERA IMPORTADA 
+A FOTO 2bbd11e8b41b06c4b4177672f30b927d.jpg SERA IMPORTADA 
+A FOTO deb55da5445f6ac2a010f5cffade5ddc.jpg SERA IMPORTADA 
+A FOTO f4c13b9b408d4214a1e15cc4e2cf3aaf.jpg SERA IMPORTADA 
+A FOTO 792f810063d0dd40ad36d71dba1969e2.jpg SERA IMPORTADA 
+A FOTO 7962fb8ce6e85cf78468b2a340568970.jpg SERA IMPORTADA 
+A FOTO 8c300312b8ea80c6fc16f4be9e5a3eb1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 250A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a3f615cd1f2c7d72cce064be63c82f6d.jpg SERA IMPORTADA 
+A FOTO 9f8dff677050d72f61c49ee16bb119a3.jpg SERA IMPORTADA 
+A FOTO a0fad37f0bcd2d3b2fcfa65d9dec9684.jpg SERA IMPORTADA 
+A FOTO a24bf005f0acee77e5f510bed92d6422.jpg SERA IMPORTADA 
+A FOTO 5952b406e802978c6003b10ce5526572.jpg SERA IMPORTADA 
+A FOTO bfe25074c4049d05bb90eee532d07c6b.jpg SERA IMPORTADA 
+A FOTO 56c448098fa20d1cf2e7e9efe9e28014.jpg SERA IMPORTADA 
+A FOTO ae0f440809ec99cdf76c81655df9c12d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 253A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO a908ad32c0282a23fe4ebabe5c2ff171.jpg SERA IMPORTADA 
+A FOTO fa0b0c7a3d175c9cec9cad28bac512de.jpg SERA IMPORTADA 
+A FOTO f8d816c13423be45db2f286353dd9fc7.jpg SERA IMPORTADA 
+A FOTO 53fee766fe63bd18d34d425bc7d43bc7.jpg SERA IMPORTADA 
+A FOTO 75cee39aaf8750832babaf3bfff8bb25.jpg SERA IMPORTADA 
+A FOTO bbc3d5350680f375c0391355ce276d1e.jpg SERA IMPORTADA 
+A FOTO fd8d63ba3d07e65929c800b8828efe9d.jpg SERA IMPORTADA 
+A FOTO 1c9be77dd6f22b57f0145cca28047479.jpg SERA IMPORTADA 
+A FOTO b1be88c0c4b57c2ddc46667593522467.jpg SERA IMPORTADA 
+A FOTO 102e50ceb78969a58ca2335bc52b7e2e.jpg SERA IMPORTADA 
+A FOTO aae8f5e846f8d3ea731b4aba958201ff.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 178V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 080bcda806b82c633ab8438484da6216.jpg SERA IMPORTADA 
+A FOTO c9a4f6a3429b374beef7c2fed0fbe1d7.jpg SERA IMPORTADA 
+A FOTO 4a35c7a17cbe5c146ad822f638beba39.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 180V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO c74b7ce10327d0d1636ebfec5aa3eec6.jpg SERA IMPORTADA 
+A FOTO 885f45fd3795693897d95677265c9e5c.jpg SERA IMPORTADA 
+A FOTO 92cb676c48ac7ec0f6262edbceaac71e.jpg SERA IMPORTADA 
+A FOTO 1824a912ebe2462a27cc57d2cafa56a7.jpg SERA IMPORTADA 
+A FOTO ded3f851c9efe51cd92f7533dd331aa7.jpg SERA IMPORTADA 
+A FOTO c6fa130a8f267eefcc68bec19837e002.jpg SERA IMPORTADA 
+A FOTO 35b85fa86c3baeacda5aad98ce0cbd61.jpg SERA IMPORTADA 
+A FOTO 9d83ed38841d4f7ca51f42c92fc44253.jpg SERA IMPORTADA 
+A FOTO 059126529dd096012cde9162b775185a.jpg SERA IMPORTADA 
+A FOTO b5dc9e65fe847fa602ee97dd09f1b7f2.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 181V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO bcbbe2414339c00e88be28d1c960ba8d.jpg SERA IMPORTADA 
+A FOTO ea25069170dddef8c599e209b77ab129.jpg SERA IMPORTADA 
+A FOTO b1765a5a355911e065172ed5830b2f6e.jpg SERA IMPORTADA 
+A FOTO a4578f46949784819f55229fe86634e1.jpg SERA IMPORTADA 
+A FOTO 4eadf6612dba95fd8afe0c3e8a7fadcf.jpg SERA IMPORTADA 
+A FOTO 65c5444ec5a56060625e30cb4c675e99.jpg SERA IMPORTADA 
+A FOTO a87452bc51c7f0209212ed934dfe016b.jpg SERA IMPORTADA 
+A FOTO d44ab069f450362c3409b891e9172e09.jpg SERA IMPORTADA 
+A FOTO 8bed6c465f4bfb17f0e6ac0b6d03e854.jpg SERA IMPORTADA 
+A FOTO 86e5f13fcfc3e48dcf7478daf439eb0d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 182V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO ad6d51dca41ec4b7a30bc051d1bb2b3e.jpg SERA IMPORTADA 
+A FOTO d3d9f9825a57d28f0088902e5cb2f84b.jpg SERA IMPORTADA 
+A FOTO fcdfe2cf4dad928b63cb808c9ac416f2.jpg SERA IMPORTADA 
+A FOTO 9544460b5d5af876a7f5592e91e9ce56.jpg SERA IMPORTADA 
+A FOTO 4be16a8fbc03b4c358a29965508df45a.jpg SERA IMPORTADA 
+A FOTO 3c2c2fe4cb75306216a89af70667ecc1.jpg SERA IMPORTADA 
+A FOTO 33ee855af2ccc4562befa531f42cef30.jpg SERA IMPORTADA 
+A FOTO f532f1d67ac57e33ce1f2cd0d6a21c39.jpg SERA IMPORTADA 
+A FOTO cc69970059b883be097e7095c493325c.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 270A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 9c935749a5352f6a36e156433ef67d92.jpg SERA IMPORTADA 
+A FOTO 4ccfdc0dc95147ae70308f27fceaee2b.JPG SERA IMPORTADA 
+A FOTO 3ad19530748dafcfc3275b9baf5a8336.JPG SERA IMPORTADA 
+A FOTO 068a55376f68a61050a4bd112326ae0e.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 274A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0457af37ac947015abb4c2dceff7e204.jpeg SERA IMPORTADA 
+A FOTO a5c4999976049381af55183b01d2604e.jpeg SERA IMPORTADA 
+A FOTO 24a484080e08a3f7e314c636ab343c77.jpeg SERA IMPORTADA 
+A FOTO f1d7781e95756a1863879f53d445c18c.jpeg SERA IMPORTADA 
+A FOTO 2cb93c601fbe9a92e55df82c6b134c4e.jpeg SERA IMPORTADA 
+A FOTO 6614c34b925922902f2bc31524489977.jpeg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 185V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 268549cbb6449c597a1026b651c792ea.jpg SERA IMPORTADA 
+A FOTO 567ed98b62a280556aac3e1d43a134d9.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 187V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 2902cf2fb1db7e8b3de4b422a09b1d87.jpg SERA IMPORTADA 
+A FOTO 37b48c93898dbb8fe5034a409795efa5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 188V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 134164a5e50a175e6304b991525c0344.jpg SERA IMPORTADA 
+A FOTO 2b4af7f817c1ad797209389f0b0774dd.jpg SERA IMPORTADA 
+A FOTO 2dbb4f17c81bc74f6106a463e8889d22.jpg SERA IMPORTADA 
+A FOTO eedd1f0e745647455cb6a46bbbffb77a.jpg SERA IMPORTADA 
+A FOTO b59ca198050273c9d2d54d471d19f366.jpg SERA IMPORTADA 
+A FOTO 8d0e1b2a1d5a5d7f992c42c84b5419a1.jpg SERA IMPORTADA 
+A FOTO 2e50620bbf08f510e5e76e6574e05e5f.jpg SERA IMPORTADA 
+A FOTO 9709349df4fa41fe7a040b0318f8f77d.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 189V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO eb807b0ddbf55dcc15bf5bfc998e4ba2.jpg SERA IMPORTADA 
+A FOTO e67c413727bf85500300d10bdd3b092f.jpg SERA IMPORTADA 
+A FOTO dfdeab2ff00fdaf4034ab49780b9c3fc.jpg SERA IMPORTADA 
+A FOTO 1b510b63f4e9cce273d4c831c9cf2fcb.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 276A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO fd708d38117e1aa00ae649445df8e49a.jpg SERA IMPORTADA 
+A FOTO 4fc4885041e0bd4d68c34d61ed8af056.jpg SERA IMPORTADA 
+A FOTO 0828790b252bc7b4143e14160e820f02.jpg SERA IMPORTADA 
+A FOTO 01fb71728e7e776b5ad37d9440ac8067.jpg SERA IMPORTADA 
+A FOTO 2fabf0c35c4403096ef308bd6b17d7ed.jpg SERA IMPORTADA 
+A FOTO 528d76da2a2ce4672960bbc32d1f78ac.jpg SERA IMPORTADA 
+A FOTO f6598eb175c5270b29c5157a64792fed.jpg SERA IMPORTADA 
+A FOTO ca09524ad0b568796a5fe49bd51a9a29.jpg SERA IMPORTADA 
+A FOTO a29bf218050bcdd62701a0ea39a5e0c1.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 190V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 94d7f312b01073c7d8e9790944b3c7fe.jpg SERA IMPORTADA 
+A FOTO 4706f0a0454f693ae7e802099c062732.jpg SERA IMPORTADA 
+A FOTO c4e726ac3e990dc6fc6a109b8c5d517b.jpg SERA IMPORTADA 
+A FOTO 87d6e3bf5b196996f01b04a4f2cb7d3d.jpg SERA IMPORTADA 
+A FOTO c847ce5981cc7328f88690c04b73d708.jpg SERA IMPORTADA 
+A FOTO 14d07ea8bab27546c86bca38659cf2cf.jpg SERA IMPORTADA 
+A FOTO c3880cf41d45f82eaefb61454dc1c85b.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 191V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 138c6209856cff21a3778a96f3621a55.jpg SERA IMPORTADA 
+A FOTO d3cd483ea1dba5b9a31019a4497037c8.jpg SERA IMPORTADA 
+A FOTO 58948fdd281cecc60e38d774bab8383b.jpg SERA IMPORTADA 
+A FOTO 50693d0fcfaf5ec132d1efdd98db243a.jpg SERA IMPORTADA 
+A FOTO 3a3e5daa6f3023bebccb0f930afc60a8.jpg SERA IMPORTADA 
+A FOTO cdcb8159ca6f688a64f171b13ff969ee.jpg SERA IMPORTADA 
+A FOTO c7fce6d3b9efe085d4708a51a04674f5.jpg SERA IMPORTADA 
+A FOTO 6d8753b4a327aa8e175dd232520e43af.jpg SERA IMPORTADA 
+A FOTO f33c78b90b8c61e839ed4420069ad7b1.jpg SERA IMPORTADA 
+A FOTO 059259b7dfecfaaea8a53d0264d875d1.jpg SERA IMPORTADA 
+A FOTO c790d0df37bc58094656698810c1a380.jpg SERA IMPORTADA 
+A FOTO 047d0046e9f08a0693fb9453c9b6a897.jpg SERA IMPORTADA 
+A FOTO 4ca3bfec505e4710573efe095ba2bc50.jpg SERA IMPORTADA 
+A FOTO b5e0a7b39bc731c7e4453350e5408aec.jpg SERA IMPORTADA 
+A FOTO 9edb7901fa1948acdf06b36d72f67e3c.jpg SERA IMPORTADA 
+A FOTO d0cd0d95c554ca93b12bf50cc9bbd802.jpg SERA IMPORTADA 
+A FOTO 2febdee2a459ad04a14abbe81c4c6495.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 278A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 37939b58dccb634c89c8709e1454df0a.JPG SERA IMPORTADA 
+A FOTO 205c2bb3d193d2a401a595e7ceaa6fc1.JPG SERA IMPORTADA 
+A FOTO 77f21cce5f7cd9cea9b22ae68227a30f.JPG SERA IMPORTADA 
+A FOTO f8f4d9da67101ebb0ef20260c0a49100.JPG SERA IMPORTADA 
+A FOTO a105fecf64adbb25e21e1d5e1a3d0eef.JPG SERA IMPORTADA 
+A FOTO 97ceaf14c175fcd5f54180109ad614de.JPG SERA IMPORTADA 
+A FOTO 1a9037ec98539b3a5360660a28e84576.JPG SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 192V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 833547eeaccb9c1fc52306e9b7784878.jpeg SERA IMPORTADA 
+A FOTO 3651733bcefa92dc38d3ed878800c0c1.jpg SERA IMPORTADA 
+A FOTO ac042c76a96a512567f739225790f1bb.jpg SERA IMPORTADA 
+A FOTO dd135cc1782e00d6efe7e6c0baaaacdc.jpg SERA IMPORTADA 
+A FOTO 559d44d6c2e2f73823d5c04f51cda3d5.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 193V 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 280A 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 45387b2b9ae0bad6df7a72de1227ef1a.jpg SERA IMPORTADA 
+A FOTO 715d723e32dfa4fbbcdd300fdc147ff1.jpg SERA IMPORTADA 
+A FOTO 800f655491907ce42b0a7c587a49bb62.jpg SERA IMPORTADA 
+A FOTO 39b30899d5ddc50654a44c504ea43a84.jpg SERA IMPORTADA 
+A FOTO c8e2b0374393a633c46a9f9c0996bc16.jpg SERA IMPORTADA 
+A FOTO 82a4477fae9785fc84f74af4e238346f.jpg SERA IMPORTADA 
+A FOTO c123c13cae6f6e514520d995a7072959.jpg SERA IMPORTADA 
+A FOTO 9da806638157db6d1ccff5de3baf29ae.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+FIM DA IMPORTACAO 
+44 IMOVEIS NO TOTAL

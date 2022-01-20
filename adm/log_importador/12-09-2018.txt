@@ -1,0 +1,156 @@
+12/09/2018 10:59:27
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 01:40:04
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 01:48:20
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 01:57:00
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+12/09/2018 03:21:58
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL  
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+12/09/2018 03:24:15
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 201 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+12/09/2018 03:30:42
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 201 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 03:36:46
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 201 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 03:38:11
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 201 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 03:41:16
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL  
+----------------------------------
+IMOVEL NAO TEM FOTOS NO XML, TODAS AS FOTOS DO SISTEMA FORAM DELETADAS 
+12/09/2018 03:42:43
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 05:02:27
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+FIM DA IMPORTACAO 
+3 IMOVEIS NO TOTAL12/09/2018 05:13:16
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+12/09/2018 05:14:42
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+12/09/2018 05:16:28
+PRIMEIRA IMPORTACAO = 0 
+Iniciando importacao dos imoveis. 
+
+INICIO IMOVEL 199 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+======================================================================================================= 
+
+INICIO IMOVEL 201 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+A FOTO 0008.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+INICIO IMOVEL 277 
+----------------------------------
+O IMÓVEL TEM FOTOS 
+A FOTO 0001.jpg SERA IMPORTADA 
+A FOTO 0002.jpg SERA IMPORTADA 
+A FOTO 0003.jpg SERA IMPORTADA 
+A FOTO 0004.jpg SERA IMPORTADA 
+A FOTO 0005.jpg SERA IMPORTADA 
+A FOTO 0006.jpg SERA IMPORTADA 
+A FOTO 0007.jpg SERA IMPORTADA 
+======================================================================================================= 
+
+FIM DA IMPORTACAO 
+6 IMOVEIS NO TOTAL

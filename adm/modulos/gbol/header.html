@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Gerador de Boletos Hospedaria</title>
+
+<script language="JavaScript" src="/adm/modulos/gbol/js/basicos.js"  type="text/JavaScript"></script>
+<script language="JavaScript" src="/adm/modulos/gbol/js/clientes.js" type="text/JavaScript"></script>
+
+<SCRIPT Language="JavaScript">
+function perguntar(link,pergunta)  { if(confirm(pergunta)){ window.location = link ; } }
+function mostrar(info)  { if(confirm(info)){ } }
+function muda_banco() { 
+  document.form1.op.value="T";
+  document.forms["myform"].submit();
+}
+function checkForm(the_form, tipo, do_check) {
+    var elts      = document.forms[the_form].elements;
+    var elts_cnt  = elts.length;
+    for (var i = 0; i < elts_cnt; i++)
+    { var whichElt = elts[i].name;
+      if (whichElt.indexOf(tipo) >= 0) { document.forms[the_form].elements[whichElt].checked = do_check; }
+    }
+    return true;
+}
+</script>
+</head>
