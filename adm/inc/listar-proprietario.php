@@ -179,6 +179,7 @@
             <th class="center">CIDADE</th>
             <th class="center">BAIRRO</th>
             <th class="center">ENDEREÇO</th>
+            <th class="center">IMÓVEIS</th>
             <th class="center" colspan="2">OPÇÕES</th>
           </tr>
         </thead>
@@ -195,6 +196,15 @@
             <td class="center"><?php echo $r["cidade"]; ?></td>
             <td class="center"><?php echo $r["bairro"]; ?></td>
             <td class="center"><?php echo $r["endereco"]; ?></td>
+            <td class="center">
+              <?php
+              $link = '?pg=listar-imoveis&proprietario='.$r["id"];
+              $contador_imoveis = "SELECT id FROM imovel WHERE id_proprietario = '".$r['id']."'";
+              $contador_imoveis = mysql_query($contador_imoveis);
+              $contador_imoveis = mysql_num_rows($contador_imoveis);
+              ?>
+              <a href="<?php echo $link; ?>"><i class="fas fa-home" style="font-size:1.8rem;color:#666;" title="<?php echo $contador_imoveis; ?>"></i></a>
+            </td>
             <td class="center">
               <?php
               $link = '?pg=proprietario&op=editar&id_proprietario='.$r["id"];

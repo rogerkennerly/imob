@@ -17,6 +17,26 @@
 	}
 	$config = listar("config");//pega as configs do sistema - criado pra ver se a restrição de proprietarios está ativa
 	$config = mysql_fetch_assoc($config);
+
+  $disponivel_todos = "";
+
+  
+  //SELECT INICIAL DA PAGINA
+  $select_imoveis_inicial = "SELECT * FROM imovel WHERE pre_cadastro <> 1 AND disponivel = 'S' ORDER BY id DESC";
+          
+  //FILTRAGEM DE IMOVEIS DE UM DETERMINADO PROPRIETARIO
+  if($_GET['proprietario']){
+    $id_proprietario = evita_injection($_GET['proprietario']);
+    $select_imoveis_inicial = "SELECT * FROM imovel WHERE pre_cadastro <> 1 AND id_proprietario = '$id_proprietario' ORDER BY id DESC";
+
+    
+    $id_proprietario = evita_injection($_GET['proprietario']);
+    $sp = "SELECT nome FROM proprietario WHERE id = '$id_proprietario'";
+    $qp = mysql_query($sp);
+    $rp = mysql_fetch_assoc($qp);
+
+    $disponivel_todos = "selected";
+  }
 ?>
 
 <div class="page-content">
@@ -61,7 +81,7 @@
             </td>
             <td align="center" colspan="4">
               Proprietário:<br/>
-              <input type="text" name="proprietario" id="proprietario" placeholder="" style="width:100%;">
+              <input type="text" name="proprietario" id="proprietario" placeholder="" style="width:100%;" value="<?php echo $rp['nome']; ?>">
             </td>
           </tr>
           <tr>
@@ -100,7 +120,7 @@
               <select name="disponivel" id="disponivel" style="width:100%;">
                 <option value="S">Sim</option>
                 <option value="N">Não</option>
-                <option value="0">Todos</option>
+                <option value="0" <?php echo $disponivel_todos; ?>>Todos</option>
               </select>
             </td>
             <td align="center">
@@ -132,26 +152,24 @@
         .chosen100 .chosen-container{width:100% !important;}
       </style>
       <div class="retorno_filtrar_listagem_imoveis">
-          <?php
-          $sn = "SELECT * FROM imovel WHERE pre_cadastro <> 1 AND disponivel = 'S' ORDER BY id DESC";
-					
+          <?php					
 					if($_GET['op'] == 'list_cliente'){
 						$id_cliente = $_GET['id_cliente'];
 						
-						$sn = "SELECT * FROM imovel WHERE pre_cadastro <> 1 AND disponivel = 'S' AND (";
+						$select_imoveis_inicial = "SELECT * FROM imovel WHERE pre_cadastro <> 1 AND disponivel = 'S' AND (";
 						for($x=0; $x<count($_SESSION['refs'][$id_cliente]); $x++){
 							if($x>0 AND $x<count($_SESSION['refs'][$id_cliente])){
-								$sn .= " OR ";
+								$select_imoveis_inicial .= " OR ";
 							}
-							$sn .= "ref = '".$_SESSION['refs'][$id_cliente][$x]."'";
+							$select_imoveis_inicial .= "ref = '".$_SESSION['refs'][$id_cliente][$x]."'";
 						}
-						$sn .= ") ORDER BY id DESC";
+						$select_imoveis_inicial .= ") ORDER BY id DESC";
 					}
-					// echo $sn;
-          $qn = mysql_query($sn);
+					// echo $select_imoveis_inicial;
+          $qn = mysql_query($select_imoveis_inicial);
           echo "Total de imóveis encontrados: ".mysql_num_rows($qn);
-          $sn .= " LIMIT 0,20";
-          $imoveis = mysql_query($sn);?>
+          $select_imoveis_inicial .= " LIMIT 0,20";
+          $imoveis = mysql_query($select_imoveis_inicial);?>
         <table id="sample-table-1" class="table table-striped table-bordered table-hover">
           <thead>
             <tr>
