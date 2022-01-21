@@ -6,15 +6,18 @@
   if($_POST["op"] == "alterar"){
     $nome        = evita_injection($_POST["nome"]);
     $nome_antigo = evita_injection($_POST["nome_antigo"]);
+    $id_cidade = evita_injection($_POST["id_cidade"]);
     if(isset($nome)){
       $id_registro = evita_injection($_POST["id_registro"]);
       $s = "UPDATE $tabela SET nome = '$nome', id_cidade = '$id_cidade' WHERE id = '".$id_registro."'";
+      // echo $s;
       mysql_query($s);
       
       $descricao_log = "Bairro alterado de $nome_antigo para $nome";
       gravalog($_SESSION["sessao_id_user"], 5, 2, $descricao_log, $s);
     }
     $msg = sucesso("Bairro Alterado com sucesso!");
+    $cidade_atual = $id_cidade;
   }
   elseif($_POST){
     $nome      = evita_injection($_POST["nome"]);
@@ -37,7 +40,7 @@
   
   if($_GET["op"] == "excluir"){
     $id_registro = evita_injection($_GET["id_registro"]);
-    $s_nome = mysql_query("SELECT id FROM imovel WHERE id_bairro IN (SELECT id FROM bairro WHERE id = '$id_registro')");
+    $s_nome = mysql_query("SELECT * FROM imovel WHERE id_bairro IN (SELECT id FROM bairro WHERE id = '$id_registro')");
     // $s_nome = mysql_query("SELECT nome, id_cidade, id FROM $tabela WHERE id = '$id_registro'");
     $r_nome = mysql_fetch_assoc($s_nome);
     
@@ -55,15 +58,24 @@
 		}
   }
   
+  $display_cad = "style='display:none;'";
+  $display_cidade = "style='display:block;'";
   if($_GET["op"] == "editar"){
     $id_registro = evita_injection($_GET["id_registro"]);
     $id_cidade   = evita_injection($_GET["id_cidade"]);
     $campo_editar = retorna_campo($tabela, "nome", $id_registro);
     $op = "alterar";
+    
+    $display_cad = "style='display:block;'";
+    $display_cidade = "style='display:none;'";
   }
+  
+  if($_GET['cidade_atual'] OR $cidade_atual){
+    if($_GET['cidade_atual']){$cidade_atual = evita_injection($_GET['cidade_atual']);}
 
-  $s = "SELECT * FROM $tabela ORDER BY nome";
-  $q = mysql_query($s);
+    $s = "SELECT * FROM $tabela WHERE id_cidade = '$cidade_atual' ORDER BY nome";
+    $q = mysql_query($s);
+  }
 ?>
 
 <div class="page-content">
@@ -77,13 +89,14 @@
     <?php echo $msg; ?>
     <div style="width:55rem;padding-left:1rem;">
       <div class="widget-box" style="margin-bottom:50px;">
-        <div class="widget-header widget-header-flat">
+        <div class="widget-header widget-header-flat" style="cursor:pointer;" onclick="$('#cad_bairro').toggle()">
           <h4 class="smaller">
-            <i class="fa fa-plus" aria-hidden="true"></i>
-            Novo Bairro
+            <?php
+            if($_GET['op'] == 'editar'){echo "Editar Bairro";}
+            else{echo '<i class="fa fa-plus" aria-hidden="true"></i> Cadastrar Novo Bairro';}?>
           </h4>
         </div>
-        <div class="widget-body">
+        <div class="widget-body" id="cad_bairro" <?php echo $display_cad; ?>>
           <div class="widget-main">
             <form method="POST" action="index.php?pg=bairros" id="form_cadastro">
               <input type="hidden" name="op" value="<?php echo $op; ?>">
@@ -112,7 +125,42 @@
           </div>
         </div>
       </div>
+
       
+      <div class="widget-box" style="margin-bottom:50px;">
+        <div class="widget-header widget-header-flat" style="cursor:pointer;" onclick="$('#cidade_bairro').toggle()">
+          <h4 class="smaller">
+            Cidade
+          </h4>
+        </div>
+        <div class="widget-body" id="cidade_bairro" <?php echo $display_cidade; ?>>
+          <div class="widget-main">
+            <form method="GET" action="index.php?pg=bairros" id="form_cidade_atual">
+              <input type="hidden" name="pg" value="bairros">
+              Cidade:<br/>
+              <?php
+              $cidade = listar("cidade");?>
+              <select name="cidade_atual" class="form_cadastro_cidade" style="width:100%;">
+                <option>Selecione uma cidade</option>
+                <?php
+                while($r = mysql_fetch_assoc($cidade)){
+                  $selected = "";
+                  if($cidade_atual == $r["id"]){$selected = "selected";}?>
+                <option value="<?php echo $r["id"]; ?>" <?php echo $selected; ?>><?php echo $r["nome"]; ?></option>
+                <?php
+                }?>
+              </select>
+              <br/><br/>
+              <input type="submit" style="display:none;">
+              <button class="btn btn-primary" style="width:100%;" onclick="$('#form_cidade_atual').submit()">Listar bairros</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+
+      <?php
+      if($cidade_atual){?>
       <table id="sample-table-1" class="table table-striped table-bordered table-hover">
         <thead>
           <tr>
@@ -134,7 +182,7 @@
                 </button>
               </a>
               
-              <a href="index.php?pg=bairros&op=excluir&id_registro=<?php echo $r["id"]; ?>"onclick="return confirm('Deseja excluir o registro?')" style="display:block;float:left;width:2.5rem;">
+              <a href="index.php?pg=bairros&op=excluir&id_registro=<?php echo $r["id"]; ?>&cidade_atual=<?php echo $cidade_atual; ?>"onclick="return confirm('Deseja excluir o registro?')" style="display:block;float:left;width:2.5rem;">
               <button class="btn btn-xs btn-danger">
                 <i class="icon-trash bigger-120"></i>
               </button>
@@ -142,9 +190,17 @@
             </td>
           </tr>
           <?php
+          }
+          if(mysql_num_rows($q)<1){?>
+            <tr>
+              <td colspan="3">Nenhum bairro encontrado</td>
+            </tr>
+          <?php
           }?>
         </tbody>
       </table>
+      <?php
+      }?>
     </div>
   </div>
 </div>

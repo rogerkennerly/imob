@@ -14,7 +14,7 @@
     }
     else{
       mysql_query("DELETE FROM $tabela WHERE id = '$id_registro'");
-      echo sucesso("Usuaário excluido com sucesso!");
+      echo sucesso("Usuario excluido com sucesso!");
     }
   }
   
