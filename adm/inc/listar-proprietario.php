@@ -4,9 +4,18 @@
   $msg = "";
 
   if($_GET["op"] == "excluir"){
-    $id_registro = evita_injection($_GET["id_registro"]);
-    mysql_query("DELETE FROM $tabela WHERE id = '$id_registro'");
-    $msg = sucesso("Usuaário excluido com sucesso!");
+    $id_registro = evita_injection($_GET["id_proprietario"]);
+
+    $verifica_imoveis = "SELECT id FROM imovel WHERE id_proprietario = '$id_registro'";
+    $verifica_imoveis = mysql_query($verifica_imoveis);
+    $num_imoveis = mysql_num_rows($verifica_imoveis);
+    if($num_imoveis>0){
+      echo alerta("Esse proprietário não pode ser excluido pois tem imóveis atrelados a ele");
+    }
+    else{
+      mysql_query("DELETE FROM $tabela WHERE id = '$id_registro'");
+      echo sucesso("Usuaário excluido com sucesso!");
+    }
   }
   
   if($_GET["op"] == "editar"){
@@ -213,7 +222,7 @@
               <a href="<?php echo $link; ?>"><i class="fas fa-edit" style="font-size:1.8rem;color:#666;"></i></a>
             </td>
             <td class="center">
-              <a href="?pg=proprietario&op=excluir&id_proprietario=<?php echo $r["id"] ?>" onclick="return confirm('Deseja excluir o proprietário?')"><i class="fas fa-trash-alt"  style="font-size:1.8rem;margin-left:1rem;color:#666;"></i></a>
+              <a href="?pg=listar-proprietario&op=excluir&id_proprietario=<?php echo $r["id"] ?>" onclick="return confirm('Deseja excluir o proprietário?')"><i class="fas fa-trash-alt"  style="font-size:1.8rem;margin-left:1rem;color:#666;"></i></a>
             </td>
           </tr>
           <?php
