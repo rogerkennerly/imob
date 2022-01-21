@@ -93,6 +93,7 @@
         <thead>
           <tr>
             <th class="center">NOME</th>
+            <th class="center" width="80">BAIRROS</th>
             <th class="center" width="80">AÇÔES</th>
           </tr>
         </thead>
@@ -101,6 +102,11 @@
           while($r = mysql_fetch_assoc($q)){?>
           <tr>
             <td class="center"><?php echo $r["nome"]; ?></td>
+            <td class="center">
+              <a href="index.php?pg=bairros&cidade_atual=<?php echo $r["id"]; ?>" style="margin-right:1rem;font-size:2rem;">
+                  <i class="fas fa-eye"></i>
+              </a>
+            </td>
             <td class="center">
               <a href="index.php?pg=cidades&op=editar&id_registro=<?php echo $r["id"]; ?>" style="display:block;float:left;width:2.5rem;margin-right:1rem;">
                 <button class="btn btn-xs btn-info" style="margin-right:10px;width:2.5rem;">
